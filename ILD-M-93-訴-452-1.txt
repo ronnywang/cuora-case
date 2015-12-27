@@ -1,0 +1,417 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣宜蘭地方法院-刑-93訴452</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+QcMjywzJEk67REhVt1kgclvWf1E=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣宜蘭地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共37
+											筆 / 現在第24
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=093&selectedCrmid=%e8%a8%b4&selectedCrmno=000452&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=23&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=25&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=93%2c%e8%a8%b4%2c452%2c20050524%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=452&jdate=940524&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=93%2c%e8%a8%b4%2c452%2c20050524%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=452&jdate=940524&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('93%2c%e8%a8%b4%2c452%2c20050524%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','93','%e8%a8%b4','452','940524','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">93,訴,452</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">940524</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反<font color=red>野生動物保育法</font>等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣宜蘭地方法院刑事判決　　　　　　　 93年度訴字第452號
+公　訴　人　臺灣宜蘭地方法院檢察署檢察官
+被　　　告　己○○　男　36歲<span  style="color:#e8e8e8">.</span>
+上列被告因違反野生動物保育法等案件，經檢察官提起公訴（93
+年度偵字第1586號），本院判決如下：
+    主  文
+己○○連續意圖為自己不法之所有，以恐嚇使人將本人之物交付
+，處有期徒刑壹年，扣案之掃刀、鋸子、柴刀各壹支（93年度保
+管字第0427號）、捕鴿網貳件（93年度保管字第0455號）均沒收
+。
+    事  實
+一、己○○基於為自己不法所有意圖之概括犯意，自民國93年4
+    月初起，至同年月16日止，攜帶客觀上足以對人之生命、身
+    體、安全構成威脅，具有危險性之掃刀、鋸子、柴刀等兇器
+    ，在台北縣雙溪鄉山區架設捕鴿網，並連續於附表一編號1
+    至編號12所示之時間竊取附表一所示鴿主寅○○、丁○○、
+    丑○○、丙○○、癸○○、辰○○、戊○○、乙○○、甲○
+    ○、楊炳輝、辛○○、子○○之賽鴿，得手後即依所捕獲賽
+    鴿腳環上所留附表一編號1至編號12所示之鴿主電話號碼，
+    在附表一編號1至編號12所示之時間內，於台北縣貢寮、雙
+    溪等處以公用電話撥打鴿主電話向各該鴿主勒索附表一編號
+    1至編號12所示不等之金額，並稱如要賽鴿安全回去，就要
+    匯款入其指定之帳戶等類似話語，致附表一編號1至編號12
+    所示之鴿主心生畏懼，均依其指示分別匯款如附表一編號1
+    至編號12所示之金額，至不知情之己○○弟弟林高宏所開立
+    之貢寮郵局帳號00000000000000號帳戶內，己○○再持上開
+    帳戶之提款卡提款得手，共計獲取七萬七千五百元。嗣於93
+    年4月26日上午9時30分許，己○○攜帶上開具有危險性掃刀
+    、鋸子、柴刀等兇器，至宜蘭縣頭城鎮桃源谷山區，經「海
+    上競翔冠鈞協會」人員發現行跡可疑而查獲，並扣得己○○
+    所持有之林高宏提款卡1張、郵局交易明細表1張、己○○所
+    有之掃刀、鋸子及柴刀各1支。另於93年5月6日，由己○○
+    帶同警方在台北縣雙溪鄉盤山坑13號前查獲己○○所架設之
+    捕鴿網，並扣得己○○所有供竊盜鴿子所用之捕鴿網2件。
+二、案經被害人寅○○、丁○○、丑○○、丙○○、癸○○、辰
+    ○○、戊○○、乙○○、甲○○、楊炳輝、辛○○、子○○
+    訴由宜蘭縣警察局宜蘭分局報請臺灣宜蘭地方法院檢察署檢
+    察官偵查起訴。
+    理  由
+甲、有罪部分：
+一、訊據被告己○○對於在前揭時間持扣案之掃刀、鋸子及柴刀
+    各一支，在台北縣雙溪鄉山區架設捕鴿網捕捉竊取賽鴿，並
+    依鴿腳上所載之電話撥打電話予鴿主勒索要求匯款等情均坦
+    承不諱，核與附表一所示之被害人即告訴人寅○○、丁○○
+    、丑○○、丙○○、癸○○、辰○○、戊○○、乙○○、甲
+    ○○、楊炳輝、辛○○、子○○等12人於警詢中指訴之情節
+    相符，亦與證人林高宏於警詢、偵查中證述之內容一致，且
+    有被告己○○帶同警方在台北縣雙溪鄉山區所扣得之捕鴿網
+    2件扣案可資佐證，並有貢寮郵局林高宏客戶歷史交易清單
+    、告訴人寅○○、丁○○、丑○○、丙○○、癸○○、辰○
+    ○、戊○○、乙○○、甲○○、楊炳輝、辛○○、子○○等
+    人之郵政國內匯款單、冬山鄉農會匯款單、癸○○之客戶基
+    本資料、被告在郵局提款機提款收據、被告所持用林高宏所
+    有之郵局提款卡一張、被告於貢寮郵局提款時之照片2幀及
+    被告帶同員警至台北縣雙溪鄉盤山坑13號查扣其所架設捕鴿
+    網之照片3幀附卷可稽。此外，復有被告所有供本件犯行所
+    用之掃刀、鋸子及柴刀各1支扣案可證。是本件被告己○○
+    所涉竊盜、恐嚇取財犯行，事證明確，犯行堪以認定，應予
+    依法論科。
+二、按刑法第346條第1項恐嚇取財罪所稱之「恐嚇」，乃指以惡
+    害之事，告知他人，使該人主觀上生畏懼或恐怖心而言，且
+    惡害之種類並無限制，不以生命、身體、名譽為限，即便是
+    「財產」、個人信用等事項亦屬之；又危害通知之方法並無
+    限制，無論明示之言語、文字、動作或暗示之危害行為，苟
+    已足使對方理解其意義之所在，並足以影響其意思之決定與
+    行動自由者均屬之。本件如附表一所示被害人寅○○等人於
+    警訊時均一致指訴稱：渠等若未依指示加以匯款至指定之帳
+    戶，則所飼養之賽鴿會被殺掉或被拔羽毛，使賽鴿喪失比賽
+    資格等情。則本件勒贖者雖未明示恐嚇之言詞，然既以已捕
+    獲鴿主飼養之賽鴿通知鴿主匯款贖回，其語意內涵已足使鴿
+    主懼於賽鴿之安全或憚於損失其價值而心生畏怖，參以被害
+    人確因此而匯一定金額至被告指定帳戶，是被告己○○以此
+    默示之方法，使各該鴿主得知其財產有遭受惡害之可能，自
+    亦該當刑法第346條第1項「恐嚇」之行為。故核被告己○○
+    攜帶客觀上足以對人之生命、身體、安全構成威脅、具有危
+    險性掃刀、鋸子、柴刀等工具之兇器，在台北縣雙溪鄉山區
+    架設捕鴿網，並連續竊取賽鴿，得手後即電知鴿主匯款贖回
+    賽鴿，鴿主因懼於賽鴿之安全或損失其價值心生畏懼而依指
+    示匯款至被告指定帳戶之所為，係犯刑法第321條第1項第3
+    款之攜帶凶器加重竊盜罪、同法第346條第1項之恐嚇取財罪
+    。被告先後多次攜帶凶器竊盜犯行與恐嚇取財犯行，均時間
+    緊接，犯罪手法相同，且所犯係構成要件相同之罪名，顯係
+    基於概括犯意反覆為之，均應依刑法第56條連續犯之規定，
+    各論以刑法第321條第1項第3款攜帶兇器竊盜罪及同法第346
+    條第1項恐嚇取財罪之1罪，並均加重其刑。被告所犯前開連
+    續攜帶兇器竊盜罪與連續恐嚇取財罪間，有方法結果之牽連
+    關係，為牽連犯，應從一重依連續恐嚇取財罪處斷。爰審酌
+    被告年輕力壯，不思正當工作以獲取報酬，反竊取他人賽鴿
+    後，以此恐嚇他人取得金錢，獲取金額達七萬七千五百元，
+    及其犯罪後之態度等一切情狀，量處如主文所示之刑。扣案
+    之掃刀、鋸子及柴刀各1支（93年度保管字第0427號）、捕
+    鴿網2件（93年度保管字第0455號）係屬被告所有，均係供
+    渠前揭犯罪所用之物，業據被告自承在卷，均應依刑法第38
+    條第1項第2款規定宣告沒收之。
+乙、不另為無罪諭知部分：
+一、公訴意旨另以：被告己○○基於意圖為自己不法所有之概括
+    犯意，明知於山區架設捕鴿網，有可能獵捕族群量未逾越環
+    境容許量，業經行政院農業委員會所公告保育類野生動物之
+    鳥類，仍基於捕獲保育類野生動物鳥類之不確定故意，於93
+　　年4月間起至93年4月26日止，攜帶客觀上足以對人體構成威
+  　脅危險性之掃刀、鋸子、柴刀兇器，在宜蘭縣桃源谷山區架
+    設捕鴿網，竊取如附表二所示之被害人庚○○、卯○○之賽
+    鴿，並因此捕獲保育類野生動物保育類台灣藍鵲2隻（已死
+    亡）、保育類黃嘴角鶚1隻（已死亡）。嗣經「海上競翔冠
+    鈞協會」人員發現該處架設捕鴿網，由該會人員壬○○會同
+    員警於93年4月26日上午9時30分，在宜蘭縣頭城鎮桃源谷山
+    區當場查獲己○○走到鳥網旁正要拆下被網住之鴿子，並扣
+    得被告己○○所有之捕鴿網2件、固定捕鴿架繩子1綑、被告
+    己○○架網捕獲屬卯○○所有之賽鴿2隻（已領回）、屬庚
+    ○○所有之賽鴿1隻（已死亡）、栗小鷺1隻（已死亡）、保
+    育類動物台灣藍鵲2隻（已死亡）、保育類黃嘴角鶚1隻（已
+    死亡），因認被告己○○此部分行為亦涉有攜帶凶器加重竊
+    盜罪嫌及獵捕保育類野生動物罪嫌云云。
+二、按犯罪事實應依證據認定之，無證據不得認定犯罪事實，又
+    不能證明被告犯罪者，應諭知無罪之判決，刑事訴訟法第15
+    4條第2項、第301條第1項分別定有明文。次按認定不利於被
+    告之事實，須依積極證據，苟積極證據不足為不利於被告事
+    實之認定時，即應為有利於被告之認定，更不必有何有利之
+    證據，最高法院著有30年上字第816號判例可資參考。又證
+    據之證明力，固屬法院判斷之自由，惟證據本身如有瑕疵，
+    則在瑕疵未能究明以前，遽採為有罪之根據，即難謂適法，
+    最高法院亦著有32年上字971號判例可參。
+三、公訴人認被告此部分涉有上開罪嫌，無非係以此部分之犯罪
+    事實，業經被害人卯○○、庚○○於警詢中指訴歷歷，並經
+    證人壬○○證述綦詳，且有捕鴿網2件、固定捕鴿架之繩子1
+    綑、掃刀1支、鋸子1支、柴刀1支、捕獲屬卯○○所有之賽
+    鴿2隻（已領回）、屬庚○○所有之賽鴿1隻（已死亡）、栗
+    小鷺1隻（已死亡）、保育類台灣藍鵲2隻（已死亡）、保育
+    類黃嘴角鶚1隻（已死亡）扣案可資佐證，復有現場照片7張
+    、被告犯案工具及遭網鳥類照片5張、贓物認領保管單2張在
+    卷足憑；又被告架設捕鴿網所捕獲之鳥類中，其中台灣藍鵲
+    2隻、黃嘴角鶚1隻，係屬行政院農業委員會公告修正「保育
+    類野生動物名錄」所列保育類野生動物，並經宜蘭縣政府農
+    業局人員張誌銘會同員警勘查確認，並有會勘紀錄存卷可查
+    。被告若確係上山拔竹筍，應須攜帶裝載竹筍之竹簍，而被
+    告並未攜帶竹簍，反而攜帶裝置鴿子之網袋，足見其所辯應
+    不足採據，為其主要論據。訊據被告堅詞否認有此部分竊盜
+    、違反野生動物保育法犯行，辯稱：桃源谷的網不是我設的
+    ，當天只是去看竹筍，當天我沒有帶捕鴿網，桃源谷查獲的
+    捕鴿網及繩子不是我帶去的，我只有帶金融卡、交易明細表
+    、掃刀、鋸子、柴刀等物品，鴿子、藍鵲、黃嘴角鶚都不是
+    我捕抓的等語。
+四、被告堅決否認涉有上揭犯行，今應審究者厥為，在桃源谷山
+    區查獲架設之鳥網，是否足以認定係被告架設者？再被告是
+    否已有著手竊盜之行為？經查：
+（一）在桃源谷山區所查獲架設之捕鴿網上遭中網之賽鴿鴿主庚
+      ○○、卯○○尚未接獲勒贖電話，是被害人庚○○、卯○
+      ○於警詢中之供述僅能認該中網之賽鴿確屬其等所有，尚
+      不能據此認定被告有竊取賽鴿犯行。
+（二）證人即「海上競翔冠鈞協會」人員壬○○於警詢中及本院
+      審理中到庭證述：發現被告時，見到其攜帶掃刀、柴刀及
+      鋸子各1支，藍色的網子是在現場發現的，白色的網子是
+      我們帶去的等情，足見被告於桃源谷山區被查獲時，並未
+      被查獲持有「鳥網」或「網袋」。而扣案之藍色網子係於
+      現場發現，被告否認為其所有，又查無證據可資認定該網
+      子屬被告所有，另白色網子則為「海上競翔冠鈞協會」人
+      員所持有，是公訴人所指查獲之鳥網、網袋為被告所有一
+      節容有誤會。
+（三）證人壬○○雖於警詢中陳稱：「我們在鳥網旁等候就發現
+      一名男子（即己○○）攜帶掃刀、柴刀、鋸子一支上山走
+      到鳥網旁準備要拆下被網住的鴿子。」（見宜蘭縣警察局
+      宜蘭分局警蘭刑字第0930001526號警詢卷），另其於本院
+      審理中供稱：「本來要去拆網子，到山路途中遇到被告，
+      被告問我們是否在打山豬，我回答是，被告就跑去架設網
+      子的地方，我們跟在後面抓他，被告有要拆網子的動作，
+      我們才上前抓被告。」、「 (問：看到被告時走到網子何
+      處？)設網子的竹竿下，網子上有鳥類被告要拆網子抓鳥
+      類。」等情 (見本院審理卷、94年4月26日審理筆錄)，惟
+      證人即亦與壬○○同去之「海上競翔冠鈞協會」人員張俊
+      到庭證稱：「被告走到山頂有網子的地方，被告一開始
+      應該認為我們是遊客沒有管我們一直往上走，走到網子的
+      地方被告在網子下面看，轉過頭來就看到隊長在抓他。」
+      、「被告在網子下時，距離網子約4公尺左右。」、「(被
+      告問：你看到我時，我在網子下有何動作？)在網子下往
+      上看。」等節 (同見本院審理卷、同上審理筆錄)，是證
+      人張俊所證核與證人壬○○前揭證詞不符，且有矛盾之
+      處，若如證人張俊所證：被告距離網子4公尺，則其如
+      何能有如證人壬○○所述「要動手拆網子」之動作？是被
+      告究有無拆網子之動作容有疑問；而證人壬○○、張俊
+      均為當場目擊被告之證人，惟其二人就被告究竟在網子何
+      處？距離為何？有何動作等關係本案被告是否涉案等重要
+      內容之供述，竟存有矛盾不相符合之情形，是所述證言不
+      利於被告之證人壬○○之證言存有瑕疵，自難以該有瑕疵
+      之證人壬○○之供述遽令被告入罪。
+（四）況證人壬○○於本院審理中亦證稱：「抓到被告時，被告
+    　說要上山抓什麼東西，好像說要採東西。」、「（問：查
+      獲地方有無竹筍？）有，應該是桂竹筍我也不確定。」、
+    　「進去的人應該是去架設網子或是採東西。」，是被告辯
+      稱：要去採東西云云，尚非無據；而證人壬○○亦證稱：
+      被告有帶布袋等情，是被告雖未帶竹簍，惟被告既帶有布
+      袋可承裝物品，是亦不能以被告未帶竹簍即認其辯解不可
+      採信。
+五、綜上所述，公訴人所舉證據尚不足認在桃源谷山區架設之捕
+    鴿網係被告出於所為，亦查無證據證明被告已有著手竊盜之
+    行為，是不能證明被告涉有此部分竊盜、違反野生動物保育
+    法犯行，揆諸前揭判例意旨，即應為其有利之認定。惟公訴
+    意旨認此部分竊盜與前揭竊盜犯行係基於概括犯意為之，有
+    連續犯之裁判上一罪之關係，且違反野生動物保育法部分與
+    前揭竊盜部分有想像競合犯裁判上一罪之關係，爰不另為無
+    罪之諭知，附此敘明。
+據上論斷，應依刑事訴訟法第299條第1項前段，刑法第56條、第
+321條第1項第3款、第346條第1項、第55條、第38條第1項第2款
+，罰金罰鍰提高標準條例第1條前段，判決如主文。
+本案經檢察官陳嘉瑜到庭執行職務
+中　　華　　民　　國　　94　　年　　5　　月　　24　　日
+                  臺灣宜蘭地方法院刑事第四庭
+                        審判長法  官  林惠玲
+                              法  官　劉家祥
+                              法  官　郭淑珍
+以上正本證明與原本無異。
+如不服本判決，應於判決送達後10日內，向本院提出上訴狀。（
+需附繕本）
+                              書記官　林秀麗
+中　　華　　民　　國　　94　　年　　5 　　月　　24　　日
+所犯法條：
+中華民國刑法第346條第1項 (單純恐嚇罪)
+意圖為自己或第三人不法之所有，以恐嚇使人將本人或第三人之
+物交付者，處六月以上五年以下有期徒刑，得併科一千元以下罰
+金。
+中華民國刑法第321條第1項第3款（加重竊盜罪）
+犯竊盜罪而有左列情形之一者，處六月以上、五年以下有期徒刑
+：
+三　攜帶兇器而犯之者。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Judday\ok\LAWILD\CRIMINAL\9405\24\ILDM945O.004] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共37
+											筆 / 現在第24
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=093&selectedCrmid=%e8%a8%b4&selectedCrmno=000452&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=23&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=25&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=93%2c%e8%a8%b4%2c452%2c20050524%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=452&jdate=940524&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=93%2c%e8%a8%b4%2c452%2c20050524%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=93&jcase=%e8%a8%b4&jno=452&jdate=940524&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('93%2c%e8%a8%b4%2c452%2c20050524%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','93','%e8%a8%b4','452','940524','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="24"> <input type="hidden" name="v_court" value="ILD 臺灣宜蘭地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

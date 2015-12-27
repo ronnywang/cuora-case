@@ -1,0 +1,357 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣宜蘭地方法院-刑-90訴192</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+QcMjywzJEk67REhVt1kgclvWf1E=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣宜蘭地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共37
+											筆 / 現在第29
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000192&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=28&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=30&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c192%2c20010816%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=192&jdate=900816&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c192%2c20010816%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=192&jdate=900816&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('90%2c%e8%a8%b4%2c192%2c20010816%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','90','%e8%a8%b4','192','900816','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">90,訴,192</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">900816</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反<font color=red>野生動物保育法</font>等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣宜蘭地方法院刑事判決　　　　　　　　　　　　　　九十年度訴字第一九二號
+　　公　訴　人　臺灣宜蘭地方法院檢察署檢察官
+　　被　　　告　甲○○
+　　選任辯護人　李蒼棟
+右列被告因違反野生動物保育法等案件，經檢察官提起公訴（九十年度偵字第三三０
+號），本院判決如左：
+    主  文
+甲○○未取得合法醫師資格，擅自執行醫療業務，處有期徒刑壹年貳月。緩刑肆年。
+扣案處分箋大袋均沒收。
+    事  實
+一、甲○○為宜蘭縣羅東鎮○○路一二０號耕生藥房負責人，明知其未合法取得醫師
+    資格，竟於民國八十五年間起，在上開藥房內，為游本澤、黃耀南、李靜月及其
+    他不特定人看診、配藥及開立處分箋，擅自執行屬於醫師職務之行為。嗣於九十
+    年一月十五日十五時三十分許，由臺灣宜蘭地方法院檢察署檢察事務官會同宜蘭
+    縣刑警隊人員持搜索票前網上開藥局內查獲，並扣得甲○○供擅自執行醫療業務
+    所用之處分箋三大袋。
+二、案經宜蘭縣警察局移送臺灣宜蘭地方法院檢察署檢察官偵查起訴。
+    理  由
+一、右揭事實，業據被告甲○○於偵審中供認無訛，核與證人游本澤、黃耀南及李靜
+    月於警訊中指證情節相符一致，復有處分箋三大袋扣案可佐，本件事證已臻明確
+    ，犯行應堪認定。
+二、按醫師法第二十八條規定之所謂醫療業務，係指以醫療行為為職業而言，不問是
+    主要業務或附隨業務，凡職業上予以機會，為非特定多數人之醫療行為均屬之。
+    而醫療行為者，則凡以治療矯正或預防人體疾病、傷害殘缺或保健為直接目的，
+    所為的診察，診斷及治療，或基於診療、診斷結果，以治療為目的所為之處方，
+    或用藥等行為的全部或一部的總稱。又所謂之「業務」，係以繼續之意思，反覆
+    實行同種類之行為為目的之社會活動，當然包括多數行為，無論受其診治之人多
+    少，或同一人受診多少次，應均包括於侵害同一法益之單一醫療業務行為之概念
+    ，為繼續犯之一種，僅構成單純一罪，而無連續犯之適用。是核被告所為，係犯
+    醫師法第二十八條第一項前段之罪，公訴意旨認應以刑法第五十六條連續犯之規
+    定予以加重其刑，容有誤會，特此敘明。審酌被告未具合法醫師資格，竟為病患
+    進行點滴注射之醫療行為，所為影響國民健康甚鉅，惟念其坦承犯行，態度良好
+    ，及其他素行、犯罪動機、目的、手段及造成之侵害等一切情狀，爰酌情量處如
+    主文第一項所示之刑，以示懲儆。末查，被告前未曾受有期徒刑以上刑之宣告，
+    有臺灣高等法院檢察署刑案資料簡覆表及臺灣高等法院被告全國前案紀錄表各一
+    份存卷可稽，經此次追訴審判，信能知所警惕，而無再犯之虞，本院認前開所宣
+    告之刑，以暫不執行為適當，併宣告緩刑四年，以啟自新，並觀後效。扣案處分
+    箋三大袋，業據被告供明係屬其所有且供擅自執行醫療業務所用之藥械，經記明
+    筆錄在卷可參，爰依醫師法第二十八條第一項之規定，併予宣告沒收。
+三、至：
+  (一)扣案針灸針一小袋，被告雖坦承確為其所有之物，然矢口否認有持之作為從事醫
+    療行為之器械，辯稱：該批針灸針為其多年前購入作為練習之用，並非用以醫療
+    病患之工具等語。是本院當庭勘驗扣案針灸針一小袋後，認其中每支針灸針均以
+    真空包裝，而包裝邊緣均已呈現泛黃狀態，顯非新品，倘以外觀判別，應已置放
+    多年（見本院九十年八月二日審理筆錄），堪徵被告前揭置辯應非虛詞。此外，
+    證人游本澤、黃耀南及李靜月等人於警訊中均僅證稱：被告係為其等作推拿、把
+    脈及配藥等醫療行為，均未提及被告有以針灸方式為其等治療身體病痛等語綦詳
+    ，是本件雖於查獲當時當場扣得被告所有之針灸針一小袋，及其名片中印製「針
+    灸治療」之宣傳，然尚依此作為論定被告有以針灸方式從事醫療行為之有力積極
+    證據。
+  (二)扣案不知名中藥丸之成分及用途，業經證人乙○○到庭結證稱：扣案中藥丸之藥
+    方係其提供甲○○，委請甲○○代為調製，作為餵食鴿子之補助品。該藥丸係包
+    括黃岐、白朮、黃蓮、硃砂、人蔘、鹿茸、紫河車及冬蟲，並無西藥成分。其十
+    年前即委請甲○○一斤新臺幣二千元之代價調製此種藥丸，其約二個月使用一斤
+    （見本院九十年七月十七日訊問筆錄）等語綦詳。又扣案不知名中藥丸經送行政
+    院食品檢驗局檢驗結果，認並無西藥成分在內，此有該局九十年四月十八日藥檢
+    參字第九００四五四八號函在卷可按，是總據前情，扣案不知名中藥丸既無包含
+    西藥成分，亦非作為被告從事醫療業務之藥方，即難謂其與被告違反醫師法之犯
+    行有所關連。
+  (三)綜上所陳，本件被告究否確有持用扣案針灸針作為醫療用之器械為病患從事醫療
+    行為之事實，因乏強而有力之明確積極證據，抑或其他相關之間接證據以為補強
+    ，是扣案針灸針一小袋即難率予認定係屬被告供擅自執行醫療業務所用之器械，
+    是應與扣案與被告違反醫師法部分犯行無涉之不知名中藥丸部分，均因與醫師法
+    第二十八條第一項之規定難謂契合，而不併予宣告沒收，附此述明。
+四、公訴意旨另以：被告甲○○為宜蘭縣羅東鎮○○路一二０號耕生藥房負責人，其
+    未經主管機關同意，意圖販賣而陳列經主管機關公告之保育類野生動物產製品穿
+    山甲粉及不明粉末各一罐。嗣於九十年一月十五日十五時三十分許，由臺灣宜蘭
+    地方法院檢察署檢察事務官會同宜蘭縣刑警隊人員持搜索票前網上開藥局內查獲
+    ，並扣得穿山甲粉毛重一百五十公克及不知名粉末一百四十公克及不知名中藥丸
+    毛重一百四十公克。因認被告涉犯因認被告甲○○涉嫌違反野生動物保育法第四
+    十條第一項第二款之罪嫌。
+五、公訴意旨認被告甲○○涉嫌違反野生動物保育法第四十條第一項第二款之罪嫌，
+    無非係以查扣之穿山甲粉、不知名藥粉及不知名藥丸為證，再佐以現場拍攝之照
+    片以資認定。又扣案之藥粉經送行政院衛生署食品檢驗局檢驗，確認扣案物品中
+    ，確有穿山甲粉之檢驗成績書等情，為其主要論據。惟訊之被告固不否認扣案穿
+    山甲粉、不知名藥粉及不知名中藥丸均為其所有之物，然堅詞否認有何違反野生
+    動物保育法之犯行，辯稱：扣案不知名藥粉毛重一百四十公克為犀牛角粉，其係
+    於八十年間政府尚未公告查禁時期與扣案穿山甲粉一同向萬國製藥廠購入，政府
+    公告查禁後即未再行使用，而將之儲放於藥房其自己使用之休息室內之置藥櫃中
+    ，並無任何陳列及販賣之行為等語。
+六、按犯罪事實應依證據認定之，無證據不得認定其犯罪事實，又不能證明被告犯罪
+    者，應諭知無罪之判決，刑事訴訟法第一百五十四條、第三百零一條第一項分別
+    定有明文。又按刑事訴訟法上所謂認定犯罪事實之證據，係指足以認定被告確有
+    犯罪行為之積極證據而言，如未能發現相當證據或證據不足以證明，自不得以推
+    測或擬制之方法，以為裁判之基礎，最高法院二十九年上字第三一０五號及四十
+    年臺上字第八六號分別著有判例；認定不利於被告之事實，須依積極證據，苟積
+    極證據不足為不利於被告事實之認定，即應為有利於被告之認定，更不必有何有
+    利之證據，最高法院三十年上字第八一六號判例可資參照。次依最高法院四十年
+    臺上字第八六號、七十六年臺上字第四九八六號判例意旨，認定犯罪事實，所憑
+    之證據，雖不以直接證據為限，間接證據亦包括在內，然無論直接或間接證據，
+    其為訴訟上之證明，須於通常一般之人均不致於有所懷疑，而得確信其為真實之
+    程度者，始得據之為有罪之認定，倘其證明尚未達到此一程度，而有合理性懷疑
+    之存在時，即無從為有罪之認定。又按「保育類野生動物、瀕臨絕種及珍貴稀有
+    野生動物產製品，非經主管機關之同意，不得買賣或在公共場所陳列、展示。」
+    野生動物保育法第三十五條第一項定有明文，依該法條文字所揭示，其中「陳列
+    、展示」，必係在「公共場所」為之者，始應經主管機關之同意，應無疑問。同
+    法第四十條第一項第二款之罪，既以「違反第三十五條第一項規定，未經主管機
+    關同意，買賣或意圖販賣而陳列、展示保育類野生動物或瀕臨絕種及珍貴稀有野
+    生動物產製品者」為要件，則其「陳列、展示」，亦須係在「公共場所」為之者
+    ，始足當之。最高法院八十八年度臺上字第六二五六號判決可資參照。合先敘明
+    。
+七、經查：
+  (一)扣案毛重一百四十公克之不知名藥粉，雖據被告供稱係屬「犀牛角粉」，惟經送
+    行政院衛生署食品檢驗局檢驗結果，認其中並無西藥成分，且其與犀牛角粉之對
+    照藥材比較，兩者之薄層層析圖譜並不相似，此見卷附該局九十年四月十八日藥
+    檢參字第九００四五四八號函自明。從而，因無法認定扣案不知名藥粉之確實成
+    分，自難單以被告本身之供述，率而認定扣案不知名之藥粉係屬犀牛角粉，進而
+    論斷被告確有如公訴意旨所指之違反野生動物保育法犯行。
+  (二)本件偵查卷所附之十一幀現場照片中，僅一幀係拍攝扣案穿山甲粉之照片，惟該
+    幀照片係屬近距離拍攝所得，故無法據以判斷扣案穿山甲粉之陳列位置，是難單
+    以該幀照片，予以判定扣案穿山甲粉係陳列於被告經營之耕生藥藥房之營業大廳
+    ，即不特定多數人得以共見共聞之場所中，先予述明。
+  (三)證人即到場查獲警員丙○○雖就耕生藥房之隔間位置到庭結證並當庭繪製現場草
+    圖，其結證稱：耕生藥房共有三間房間，編號一為營業大廳，如一般藥房營業大
+    廳相同，擺放許多藥品及藥材。編號二內有辦公桌及診療用之病床，卷附照片所
+    示放置穿山甲粉之藥櫃亦擺設在第二房間內。處分箋則放置編號三之廚房內（見
+    本院九十年七月十七日訊問筆錄）明確。然被告就此辯稱：其經營之耕生藥房內
+    並非如證人所言之三間房間，而係有四間房間，證人記憶並不清晰。其中穿山甲
+    粉乃放置在第三房間內，該房間乃被告除被告放置些許藥材外，尚有一張床供被
+    告自身休息之用，並非不特定多數人得以進入之公共空間（見本院九十年八月二
+    日審理筆錄）等語，並提出耕生藥房之隔間圖及照片六幀為佐。是互核證人丙○
+    ○前開證言及繪製之現場草圖、被告提出之隔間圖、隔間說明及照片六幀、及偵
+    查卷中所附之十一幀現場照片可知，被告所辯堪信為真實，證人確因記憶稍有不
+    清而有所疏漏。蓋以偵查卷所附被告問診之辦公室及診療床之現場照片可知，該
+    房間並無其他物品擺設其內甚明，足徵證人所言其內尚有擺放穿山甲粉之藥櫃是
+    與真實情狀不相符合。且偵查卷所附被告診療室內之隔間大小、位置，亦確與被
+    告提出被告己身休息所用並擺有穿山甲粉藥櫃之房間明顯有所不同，診療室內並
+    無窗戶，而被告休息室內明顯開有一扇窗戶，亦可認定被告提出之照片並非其事
+    後刻意呈現與真實不同而重新擺設室內物品之虛偽照片。職是之故，被告前開置
+    辯堪信為真實，洵可採憑。
+  (四)綜右所述，本件被告究否涉嫌違反野生動物保育法之關鍵之點，即在扣案穿山甲
+    粉之擺放位置，而此關鍵之點已由被告提出足資認定為真實之相關照片、隔間圖
+    示及說明予以澄清，是扣案穿山甲粉應非放置於不特定多數人可得共見共聞之公
+    開場所，而係置放在被告自身休息所用之個人房間內甚明。從而，揆諸首揭判決
+    意旨，因被告並非將扣案穿山甲粉「陳列」在「公共場所」，是與野生動物保育
+    法第四十條第一項第二款之規定顯屬有間。另扣案毛重一百四十公克之不知名藥
+    粉經送驗後並無法確認係屬犀牛角粉如前述，是公訴意旨所依憑之相關證據資料
+    雖足使被告涉嫌違反野生動物保育法之犯行立於合理懷疑之程度，然仍未能達可
+    積極證明其犯罪之地步，嗣經本院依職權調查後，實認被告所涉之犯行尚乏直接
+    證據予資證明，亦無相關間接證據可得補強，是被告此部分之犯行即屬無法證明
+    ，揆諸首揭判例意旨，因被告犯罪嫌疑有所不足，不能證明其犯罪，惟公訴意旨
+    認被告此部分之犯行係與前揭有罪部分具有刑法第五十五條牽連犯之裁判上一罪
+    關係，爰不另為無罪之諭知，特此敘明。
+據上論斷，應依刑事訴訟法第二百九十九條第一項前段，醫師法第二十八條第一項、
+刑法第十一條前段、第七十四條第一款，判決如主文。
+本案經檢察官廖允松到庭執行職務
+中      華      民      國      九十      年      八      月    十六    日
+                               臺灣宜蘭地方法院刑事第二庭
+                                       法  官  陳  嘉  年
+右正本證明與原本無異。
+如不服本判決，應於判決送達後十日內向本院提出上訴狀。（應附繕本）
+                                       書記官  詹  玉  惠
+中      華      民      國      九十      年      八      月    二十    日
+附錄本案論罪科刑法條全文
+醫師法第二十八條第一項
+未取得合法醫師資格，擅自執行醫療業務者，處一年以上三年以下有期徒刑，得併科
+一萬元以上五萬元以下罰金，其所使用之藥械沒收之。但合於左列情形之一者，不在
+此限：
+一、在中央衛生主管機關認可之醫院，於醫師指導下實習之國內醫學院、校學生或畢
+    業生。
+二、在醫療機構於醫師指示下之護士、助產士或其他醫事人員。
+三、合於第十一條第一項但書規定者。
+四、臨時施行急救者。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Jud12\OK\LAWILD\CRIMINAL\9008\22\ILDM908M.004] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共37
+											筆 / 現在第29
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000192&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=28&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=30&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c192%2c20010816%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=192&jdate=900816&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c192%2c20010816%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=192&jdate=900816&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('90%2c%e8%a8%b4%2c192%2c20010816%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','90','%e8%a8%b4','192','900816','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="29"> <input type="hidden" name="v_court" value="ILD 臺灣宜蘭地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

@@ -1,0 +1,341 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣宜蘭地方法院-刑-104訴262</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+QcMjywzJEk67REhVt1kgclvWf1E=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣宜蘭地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共37
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000262&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c262%2c20150828%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=262&jdate=1040828&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c262%2c20150828%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=262&jdate=1040828&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c262%2c20150828%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','262','1040828','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,訴,262</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040828</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反<font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣宜蘭地方法院刑事判決　　　　　　　104年度訴字第262號
+公　訴　人　臺灣宜蘭地方法院檢察署檢察官
+被　　　告　ABDUL ROKMAN（印尼籍）
+上列被告因違反野生動物保育法案件，經檢察官提起公訴（104
+年度偵緝字第176 號），嗣於本院準備程序進行中，被告就被訴
+事實為有罪之陳述，經本院裁定進行簡式審判程序，判決如下：
+    主  文
+甲○ ○○○ 共同犯野生動物保育法第四十一條第一項第一款之
+非法獵捕保育類野生動物罪，處有期徒刑陸月，如易科罰金，以
+新臺幣壹仟元折算壹日。緩刑貳年。
+    犯罪事實
+一、甲○ ○○○ 為我國籍新富滿漁船（船編CT3-5961）船長游
+    春義（業經本院以103 年度訴字第319 號判處有期徒刑7 月
+    ，並經臺灣高等法院以103 年度上訴字第3441號、最高法院
+    以104 年度台上字第664 號判決上訴駁回確定）所僱用之船
+    員，與游春義及船員WAHYU RIYADI（印尼籍，業經本院以10
+    3 年度訴字第319 號判處有期徒刑6 月，緩刑2 年確定）、
+    NAWAWI AHMAD（印尼籍，業經本院以104 年度訴字第117 號
+    判處有期徒刑6 月，緩刑2 年確定）、BAMBANG RIYANTO （
+    印尼籍，由本院另案審理）、VALLEJO LARRY RAMOS （菲律
+    賓籍，由本院另案審理），於民國103 年2 月22日一同出港
+    捕魚，明知糙齒海豚係經中央主管機關行政院農業委員會公
+    告為保育類珍貴稀有野生動物，應予保育，除因其族群數量
+    逾越環境容許量且先經地方主管機關許可者外，不得獵捕，
+    竟於103 年2 月25日上午10時許，在位於臺灣東北角約80海
+    里海域（北緯25度10分、東經123 度30分），以延繩釣漁法
+    進行捕魚作業時，發現有1 隻保育類珍貴稀有野生動物糙齒
+    海豚誤食魚餌，卻不將之放生，反而共同基於獵捕保育類野
+    生動物之犯意聯絡，未先經地方主管機關許可而予以捕殺，
+    並在上開漁船上支解該隻糙齒海豚屍體成塊，旋即冰凍在船
+    艙冰箱內。嗣於103 年3 月1 日晚間11時30分許，在宜蘭縣
+    蘇澳鎮南方澳漁港南興安檢所安檢碼頭為警查獲，並扣得宰
+    殺後之糙齒海豚屠體59公斤，始悉上情。
+二、案經北部地區巡防區第一海岸巡防總隊報告臺灣宜蘭地方法
+    院檢察署檢察官偵查起訴。
+    理  由
+一、按簡式審判程序之證據調查，不受第159 條第1 項之限制，
+    刑事訴訟法第273 條之2 定有明文。是依上開規定，於行簡
+    式審判程序之案件，被告以外之人於審判外之陳述，除有其
+    他不得作為證據之法定事由外，應認具有證據能力。查本件
+    如下引用被告以外之人於審判外之陳述，因本案採行簡式審
+    判程序，復無其他不得做為證據之法定事由，揆諸前揭說明
+    ，應認均具有證據能力，合先敘明。
+二、前揭犯罪事實，業據被告甲○ ○○○ 於偵查及本院審理時
+    坦承不諱（見104 年度偵緝字第176 號卷，第29至30頁；本
+    院卷，第38頁、第50頁），核與證人即共犯游春義（見103
+    年度偵字第1303號卷，第5 至8 頁、第54至57頁）、WAHYU
+    RIYADI（見103 年度偵字第1303號卷，第25至26頁、第81至
+    82頁）、NAWAWI AHMAD（見103 年度偵字第1303號卷，第22
+    至23頁；104 年度偵緝字第91號，第25至26頁、第38至40頁
+    ）、BAMBANG RIYANTO （見103 年度偵字第1303號卷，第19
+    至20頁；104 年度偵緝字第58頁，第14至16頁）、VALLEJO
+    LARRY RAMOS （見103 年度偵字第1303號卷，第11至16頁、
+    第81至82頁）於警詢及偵查中；證人即宜蘭縣政府農業處畜
+    產科野生動物保育業務承辦人吳銘鋒（見103 年度偵字第13
+    03號卷，第74至75頁）於偵查中所證述之情節大致相符，復
+    有宜蘭縣政府103 年3 月2 日野生動物保育法案件會勘紀錄
+    （見103 年度偵字第1303號卷，第18頁）、新富滿漁船進出
+    港紀錄修改及本國漁船基本資料明細（見103 年度偵字第13
+    03號卷，第34至35頁）、宜蘭縣政府103 年7 月11日府農畜
+    字第0000000000號函及所附行政院農業委員會103 年4 月3
+    日農授林務字第00000000 00 號、宜蘭縣政府103 年4 月8
+    日府農畜字第0000000000號函（見103 年度偵字第1303號卷
+    ，第93至94頁）、行政院農業委員會103 年7 月10日農漁字
+    第0000000000號函（見103 年度偵字第1303號卷，第95頁）
+    、證人游春義之船員手冊（見103 年度偵字第1303號卷，第
+    43頁）、證人VALLEJO LARRY RAMOS之外籍船員基本資料（
+    見103 年度偵字第1303號卷，第10頁）、搜索扣押筆錄及扣
+    押物品目錄表（見103 年度偵字第1303號卷，第38至41頁）
+    、海巡署第一海岸防總隊針對「游春義違反野生動物保育法
+    」犯罪地點說明（見103年度偵字第1303號卷，第105頁）各
+    1 份、內政部警政署個別查詢及列印資料4份（見103年度偵
+    字第1303號卷，第21頁、第24頁、第27頁、第72頁）、外勞
+    居留資料查詢5份（見103年度偵字第1303號卷，第63至67頁
+    ）附卷可按。綜上事證參互析之，足認被告自白與事實相符
+    ，本案事證明確，被告犯行堪以認定，應予依法論科。
+三、按保育類野生動物應予保育，不得騷擾、虐待、獵捕、宰殺
+    或為其他利用。但有下列情形之一，不在此限：一、族群量
+    逾越環境容許量者。前項第1 款保育類野生動物之利用，應
+    先經地方主管機關許可；其可利用之種類、地點、範圍及利
+    用數量、期間與方式，由中央主管機關公告之，野生動物保
+    育法第18條第1 項第1 款、第2 項分別定有明文。又野生動
+    物保育法用辭定義如下：四、珍貴稀有野生動物：係指各地
+    特有或「族群量稀少」之野生動物。十二、獵捕：係指以藥
+    品、獵具或其他器具或方法，捕取或「捕殺」野生動物之行
+    為，野生動物保育法第3 條第4 款、第12款亦有明文。本件
+    被告擅自捕殺之糙齒海豚1 隻，業經行政院農業委員會公告
+    為「珍貴稀有」之保育類野生動物，有宜蘭縣政府103 年7
+    月11日府農畜字第0000000000號函及所附行政院農業委員會
+    103 年4 月3 日農授林務字第0000000000號函文1 份附卷可
+    稽，足見糙齒海豚係保育類野生動物，且族群量並未逾越環
+    境容許量，亦未先經地方主管機關許可即予以捕殺。是核被
+    告所為，係違反野生動物保育法第18條第1 項第1 款之規定
+    ，而犯同法第41條第1 項第1 款之非法獵捕保育類野生動物
+    罪。又被告與游春義、WAHYU RIYADI、NAWAWI AHMAD、BAMB
+    ANG RIYANTO 、VALLEJO LARRY RAMOS 間，有犯意聯絡及行
+    為分擔，應論以共同正犯。爰審酌被告前無任何犯罪科刑前
+    案紀錄，有臺灣高等法院被告前案紀錄表1 份在卷可稽，品
+    行尚可，及其為供己食用而以上開方式獵捕保育類珍貴稀有
+    野生動物糙齒海豚1 隻之犯罪動機、目的及手段，且對於野
+    生動物之保育及物種多樣性之維護暨自然生態之平衡造成相
+    當之危害，惟念其僅捕獲糙齒海豚1 隻，犯罪所生損害尚非
+    至鉅，並兼衡其家庭經濟情形為貧寒之生活狀況，國小肄業
+    之智識程度，暨犯後已知坦承，態度尚佳等一切情狀，量處
+    如主文所示之刑，並諭知如易科罰金之折算標準。又被告未
+    曾因故意犯罪受有期徒刑以上刑之宣告，此有臺灣高等法院
+    被告前案紀錄表1 份在卷可稽，此次因一時失慮，偶罹刑典
+    ，惡性尚非重大，且事後已知坦承犯行，信經此偵、審程序
+    後，應能謹慎其行，諒無再犯之虞，本院因認所宣告之刑，
+    以暫不執行為適當，爰依刑法第74條第1 項第1 款之規定，
+    併予宣告緩刑如主文所示，以啟自新。至扣案之糙齒海豚屠
+    體59公斤，業於證人即共犯游春義、WAHYU RIYADI違反野生
+    動物保育法案件，經本院以103 年度訴字第319 號判決諭知
+    沒收，並經臺灣高等法院以103 年度上訴字第3441號、最高
+    法院以104 年度台上字第664 號判決上訴駁回確定，嗣經臺
+    灣宜蘭地方法院檢察署於104 年4 月21日執行處分沒收，並
+    於104 年5 月7 日由宜蘭縣政府進行焚化銷燬完畢，此有臺
+    灣宜蘭地方法院檢察署104年4月21日宜檢貴廉104執從111字
+    第6545號函、宜蘭縣政府104年5月5日府農畜字第000000000
+    0號函、宜蘭縣政府104 年5月19日府農畜字第0000000000號
+    函及所附會勘紀錄表各1 份附卷可稽（見本院卷，第54至56
+    頁），足認上開糙齒海豚屠體59公斤，於本案裁判時業經執
+    行沒收完畢，益徵該等物品業已滅失而不復存在，則法律規
+    範應予沒收之目的已達，爰不再予宣告沒收，併此敘明。
+據上論斷，應依刑事訴訟法第273 條之1 第1 項、第299 條第1
+項前段，野生動物保育法第18條第1 項第1 款、第41條第1 項第
+1 款，刑法第11條前段、第28條、第41條第1項前段、第74條第1
+項第1款，判決如主文。
+本案經檢察官張鳳清到庭執行職務。
+中    華    民    國   104    年    8     月    28    日
+                  刑事第四庭  法  官  劉致欽
+以上正本證明與原本無異。
+如不服本判決，應於收受送達後10日內向本院提出上訴書狀，並
+應敘述具體理由。其未敘述上訴理由者，應於上訴期間屆滿後20
+日內向本院補提理由書（均須按他造當事人之人數附繕本）「切
+勿逕送上級法院」。
+                              書記官  林琬儒
+中    華    民    國   104    年    8     月    28    日
+附錄本案論罪科刑法條：
+野生動物保育法第18條第1 項第1款
+保育類野生動物應予保育，不得騷擾、虐待、獵捕、宰殺或為其
+他利用。但有下列情形之一，不在此限：
+一  族群量逾越環境容許量者。
+野生動物保育法第41條第1 項第1 款
+有下列情形之一，處6 月以上5 年以下有期徒刑，得併科新臺幣
+20萬元以上1 百萬元以下罰金：
+一、未具第18條第1 項第1 款之條件，獵捕、宰殺保育類野生動
+    物者。</pre>
+<!-- 原因：[騷擾] -->
+<!-- 檔名：[D:\jupload\upload\NOK\LAWILD\CRIMINAL\10408\28\ILDM1048S.00O] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共37
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000262&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c262%2c20150828%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=262&jdate=1040828&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c262%2c20150828%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=262&jdate=1040828&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c262%2c20150828%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','262','1040828','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="ILD 臺灣宜蘭地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

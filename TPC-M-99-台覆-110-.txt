@@ -1,0 +1,304 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>司法院－刑事補償-刑-99台覆110</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+uA6h+MwsXnvVjlwdC+T2xp8as7g=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>司法院－刑事補償 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e5%8f%b0%e8%a6%86%2c110%2c20100427&v_court=TPC+%e5%8f%b8%e6%b3%95%e9%99%a2%ef%bc%8d%e5%88%91%e4%ba%8b%e8%a3%9c%e5%84%9f&v_sys=M&jyear=99&jcase=%e5%8f%b0%e8%a6%86&jno=110&jdate=990427&jcheck=">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=99%2c%e5%8f%b0%e8%a6%86%2c110%2c20100427&v_court=TPC+%e5%8f%b8%e6%b3%95%e9%99%a2%ef%bc%8d%e5%88%91%e4%ba%8b%e8%a3%9c%e5%84%9f&v_sys=M&jyear=99&jcase=%e5%8f%b0%e8%a6%86&jno=110&jdate=990427&jcheck=">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e5%8f%b0%e8%a6%86%2c110%2c20100427','TPC+%e5%8f%b8%e6%b3%95%e9%99%a2%ef%bc%8d%e5%88%91%e4%ba%8b%e8%a3%9c%e5%84%9f','M','99','%e5%8f%b0%e8%a6%86','110','990427','')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,台覆,110</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">990427</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反<font color=red>野生動物保育法</font>等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>司法院冤獄賠償法庭覆審決定書　九十九年度台覆字第一一０號
+聲請覆審人　甲○○
+上列聲請覆審人因違反野生動物保育法等案件，請求冤獄賠償，
+不服台灣嘉義地方法院中華民國九十八年十二月八日決定（九十
+八年度賠字第一一號），聲請覆審，本庭決定如下：
+    主  文
+覆審之聲請駁回。
+    理  由
+本件聲請覆審人即賠償請求人甲○○（下稱聲請人）請求意旨略
+以：聲請人於八十五年九月及十月間，因違反槍砲彈藥刀械管制
+條例、麻醉藥品管理條例及野生動物保育法等案件，依序經判處
+有期徒刑七月、五年五月及九月；八十七年四月間，因違反槍砲
+彈藥刀械管制條例及偽造文書案件，經判處有期徒刑一年一月，
+併科罰金新台幣（下同）九萬元及有期徒刑五月，上開五罪符合
+數罪併罰合併定應執行之規定，經台灣高等法院台南分院（下稱
+台南高分院）以八十九年度聲更(一)字第八八號裁定，依檢察官聲
+請，適用中華民國九十六年罪犯減刑條例（下稱九十六年減刑條
+例）之規定，合併定應執行刑為有期徒刑七年六月即二千七百三
+十七日，而實際執行之刑期為十二年一月又十三日即四千四百二
+十三日，扣除易服勞役五十日後為四千三百二十三日（實則應為
+四千三百七十三日），較原應執行刑超出一千六百三十六日等情
+，爰依冤獄賠償法之規定，請求國家賠償。原決定意旨以：聲請
+人自八十一年間起，因違反麻醉藥品管理條例、肅清煙毒條例及
+涉犯偽造文書、恐嚇、誣告等五罪，分別經台灣嘉義地方法院及
+台南高分院判處有期徒刑七月、三年六月、六月、五月、一年確
+定後，經台南高分院以八十三年度聲字第四九八號裁定，定其應
+執行之刑為五年二月，接續前案執行，於八十五年五月二十七日
+假釋出獄。假釋期間，聲請人再因違反槍砲彈藥刀械管制條例、
+麻醉藥品管理條例、野生動物保育法及偽造文書等案件，經法院
+分別判處有期徒刑一年一月，罰金九萬元、八月、五年五月、九
+月及五月，定應執行有期徒刑七年六月，併科罰金十萬元，並遭
+撤銷前開假釋，入監執行殘刑四年一月十三日（下簡稱前案殘刑
+部分），及接續執行前揭案件刑期。嗣因逢九十六年減刑條例頒
+布施行，經台南高分院以九十六年度聲減字第七一一號裁定認聲
+請人前述違反槍砲彈藥刀械管制條例、野生動物保育法及偽造文
+書等案件，均係於九十六年四月二十四日之前所為，而分別減為
+有期徒刑六月又十五日、三月又十五日、四月又十五日及二月又
+十五日，並與聲請人前揭違反麻醉藥品管理條例所處有期徒刑五
+年五月，定應執行有期徒刑六年六月，併科罰金四萬五千元（下
+簡稱後案減刑部分），乃於九十八年十月二十九日因易服勞役改
+繳罰金出監在案等節，業經查閱聲請人前案執行紀錄無誤，並有
+檢察官執行指揮書、台灣高等法院被告前案紀錄表等在卷可憑。
+雖聲請人接續執行前案殘刑部分及後案減刑部分，然其前案殘刑
+部分，既經台灣嘉義地方法院檢察署（下稱嘉義地檢署）檢察官
+依八十六年執更六字第一○二一號執行指揮書指揮執行，刑期自
+八十八年十二月二十一日起算，至九十三年二月二日期滿，業於
+九十六年減刑條例施行（九十六年七月十六日）之前執行完畢（
+此節亦經台南高分院九十七年度聲減字第一四八號裁定無誤），
+自屬於減刑裁定（即前揭台南高分院九十六年度聲減字第七一一
+號裁定）達到監獄前已屆滿，依前開減刑條例第十三條第一項但
+書規定，其刑期執行超過部分自不算入。因此，聲請人於前案殘
+刑執行完畢，接續執行後案減刑部分（六年六月），並無違法逾
+期執行問題。聲請人以其應執行之刑期為七年六月（實為六年六
+月），而實際執行之刑期為十二年一月十三日，扣除易服勞役五
+十日後為四千三百二十三日，較原應執行刑超出一千六百三十六
+日，謂有違法逾期執行情形云云，顯有誤會，其冤獄賠償之請求
+，為無理由等詞，駁回聲請人之請求。聲請覆審意旨略謂：台灣
+高等法院前案紀錄表與嘉義監獄之出監證明書，記載聲請人入監
+執行及出監情形，似不一致。依原決定所認，撤銷前案假釋，仍
+應執行殘刑四年一月十三日，後案定應執行徒刑七年六月，共計
+十年七個月，則聲請人自八十七年四月二十九日入監服刑，於九
+十七年十一月二十九日即可出監，何以迄九十八年十月二十九日
+因易服勞役改繳罰金始出監？而前案八十五年五月二十七日服刑
+期滿，假釋撤銷後，原應執行之殘刑為何？依九十六年減刑條例
+之規定減刑後，有無殘刑？殘刑為何？減刑裁定前是否有刑期屆
+滿之情事？原決定概未詳予究明，自嫌疏略。又原決定未調查審
+認聲請人於九十六年減刑條例公布生效日前，有否因折抵或算入
+而刑期於減刑裁定達到監獄前已屆滿者？其超過部分若干？遽依
+前開減刑條例第十三條但書規定認超過部分不算入之，亦有可議
+等語，求為撤銷原決定。按九十六年減刑條例第十三條第一項規
+定「減刑前已羈押之日數及已執行之刑期，均折抵或算入減刑後
+之刑期。但因折抵或算入而其刑期於減刑裁定達到監獄前已屆滿
+者，其超過部分不算入之。」，乃因減刑裁定送達監獄前，監獄
+無憑據釋放刑期因減刑而屆滿之受刑人，故其超過部分之執行，
+明定不算入刑期，以免滋生爭議。此項執行既係依法執行，自非
+冤獄賠償法第一條第二項之「非依法律之執行」。惟如減刑之裁
+定送達後，因折抵或算入而其刑期已屆滿時，執行機關則應釋放
+受刑人，如未予釋放而繼續執行，即難謂非上開「非依法律之執
+行」，受害人自得依冤獄賠償法第一條第二條規定請求國家賠償
+。查聲請人前因違反麻醉藥品管制條例吸食安非他命案，於八十
+六年七月十七日裁判確定，應執行有期徒刑一年六月；又於八十
+一年間起，因違反麻醉藥品管理條例、肅清煙毒條例及偽造文書
+、恐嚇、誣告等五罪部分，經撤銷假釋後，應執行之殘刑為四年
+一月十三日；另於假釋中再因違反槍砲彈藥刀械管制條例、麻醉
+藥品管理條例、野生動物保育法及偽造文書等案件，經減刑後定
+應執行有期徒刑六年六月，併科罰金四萬五千元各情，有台灣高
+等法院被告前案紀錄表在卷可稽，此三部分合計刑期為十二年一
+月十三日，經核與台灣嘉義監獄出監證明書記載之聲請人執行刑
+期並無不符。至聲請人所稱伊自八十七年四月二十九日入監服刑
+云云，實係自八十七年四月二十九日至同年六月三日受羈押之期
+間，此部分亦已於執行中予以折抵，並無受非法執行之情形。另
+上開三部分刑期係依嘉義地檢署八十六年度執更六字二○九七號
+執行指揮書、同年度執更六字第一○二一號執行指揮書接續執行
+，而違反麻醉藥品管制條例吸食安非他命案及撤銷假釋殘刑部分
+，既於九十六年減刑條例施行（九十六年七月十六日）之前執行
+完畢（即於九十三年二月二日期滿），自無減刑條例之適用，此
+亦經台南高分院以九十七年度聲減字第一四八號裁定確定在案。
+原決定駁回聲請人之請求，理由雖異，但結果並無不合，仍應予
+維持。聲請覆議意旨，指摘原決定不當，求予撤銷，為無理由，
+應予駁回。爰決定如主文。
+中    華    民    國  九十九  年    四    月  二十七  日
+                      司法院冤獄賠償法庭第二庭
+                          審判長法官  楊  仁  壽
+                                法官  陳  淑  敏
+                                法官  林  茂  雄
+                                法官  陳  重  瑜
+                                法官  林  勤  純
+本件正本證明與原本無異
+                                      書  記  官
+中    華    民    國  九十九  年    五    月    七    日
+                                                      m</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\Judday\OK\LAWTPC\CRIMINAL\9904\27\TPCM994R.005] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共1
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												
+												｜
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e5%8f%b0%e8%a6%86%2c110%2c20100427&v_court=TPC+%e5%8f%b8%e6%b3%95%e9%99%a2%ef%bc%8d%e5%88%91%e4%ba%8b%e8%a3%9c%e5%84%9f&v_sys=M&jyear=99&jcase=%e5%8f%b0%e8%a6%86&jno=110&jdate=990427&jcheck=">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=99%2c%e5%8f%b0%e8%a6%86%2c110%2c20100427&v_court=TPC+%e5%8f%b8%e6%b3%95%e9%99%a2%ef%bc%8d%e5%88%91%e4%ba%8b%e8%a3%9c%e5%84%9f&v_sys=M&jyear=99&jcase=%e5%8f%b0%e8%a6%86&jno=110&jdate=990427&jcheck=">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e5%8f%b0%e8%a6%86%2c110%2c20100427','TPC+%e5%8f%b8%e6%b3%95%e9%99%a2%ef%bc%8d%e5%88%91%e4%ba%8b%e8%a3%9c%e5%84%9f','M','99','%e5%8f%b0%e8%a6%86','110','990427','')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="TPC 司法院－刑事補償">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

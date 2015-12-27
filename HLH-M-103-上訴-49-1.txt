@@ -1,0 +1,446 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣高等法院-花蓮分院-刑-103上訴49</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+8oa+pTkVg5vs2VgnTwPp72r81/w=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣高等法院 花蓮分院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共37
+											筆 / 現在第4
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000049&selectedCrtid=HLH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e8%a8%b4%2c49%2c20141013%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e8%a8%b4&jno=49&jdate=1031013&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=103%2c%e4%b8%8a%e8%a8%b4%2c49%2c20141013%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e8%a8%b4&jno=49&jdate=1031013&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e4%b8%8a%e8%a8%b4%2c49%2c20141013%2c1','HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2','M','103','%e4%b8%8a%e8%a8%b4','49','1031013','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,上訴,49</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1031013</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體"><font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣高等法院花蓮分院刑事判決　　　　 103年度上訴字第49號
+上　訴　人
+即　被　告　王義雄
+選任辯護人　林長振律師（法律扶助基金會指派）
+上列上訴人即被告因違反野生動物保育法案件，不服臺灣臺東地
+方法院中華民國103年1月28日第一審判決（102年度原訴字第55
+號；起訴案號：臺灣臺東地方法院檢察署102年度偵字第1343號
+），提起上訴，本院判決如下：
+    主  文
+上訴駁回。
+    理  由
+一、
+（一）按上訴期間為10日，自送達判決後起算；提起上訴，應以
+      上訴書狀提出於原審法院為之；又原審法院認為上訴不合
+      法律上之程式或法律上不應准許或其上訴權已經喪失者，
+      應以裁定駁回之，刑事訴訟法第349條前段、第350條第1
+      項及第362條前段分別定有明文；第二審法院認為上訴書
+      狀未敘述理由或上訴有第362條前段之情形者，應以判決
+      駁回之，同法第367條前段亦定有明文。故上訴人若逾10
+      日之上訴期間而提起上訴，上訴自不合法，第二審法院自
+      應依同法第367條前段之規定以判決駁回其上訴，不得為
+      實體上之判決。
+（二）次按被告、自訴人、告訴人、附帶民事訴訟當事人、代理
+      人、辯護人、輔佐人或被害人為接受文書之送達，應將其
+      住所、居所或事務所向法院或檢察官陳明。前項之陳明，
+      其效力及於同地之各級法院，刑事訴訟法第55條第1項、
+      第2項分別定有明文。是依當事人陳報之住、居所而為訴
+      訟文書之送達，自屬於法有據。
+（三）又按送達文書由司法警察或郵政機關行之。前項文書為判
+      決、裁定、不起訴或緩起訴處分書者，送達人應作收受證
+      書、記載送達證書所列事項，並簽名交受領人，刑事訴訟
+      法第61條定有明文。而刑事訴訟之送達文書，除有特別規
+      定外，準用民事訴訟法之規定，刑事訴訟法第62條亦定有
+      明文。另按送達於住居所、事務所或營業所不獲會晤應受
+      送達人者，得將文書付與有辨別事理能力之同居人或受僱
+      人，此觀民事訴訟法第137條第1項規定自明。所謂住所，
+      即以久住之意思住於一定地域之謂；所謂居所，乃以暫時
+      目的所居之場所；而所謂營業所，則指從事商業或其他營
+      業之場所（最高法院100年度臺抗字第943號、88年度臺抗
+      字第251號民事判決意旨參照）。所稱有辨別事理能力，
+      係指有普通常識而非未滿7歲之未成年人或精神病人而言
+      ；前項所指有辨別事理能力，以郵務機構送達人於送達時
+      ，就通常情形所得辨認者為限，郵務機構送達訴訟文書實
+      施辦法第11條第1項、第2項可參。所謂同居人係指與應受
+      送達人居在一處共同為生活者而言（最高法院32年度上字
+      第3722號民事判例、49年度臺抗字第33號判例意旨、郵務
+      機構送達訴訟文書實施辦法第11條第1項可資參照）。詳
+      言之，所稱之「同居人」云者，雖不必有親屬關係，亦毋
+      庸嚴格解釋為須以永久共同生活為目的而同居一家；然必
+      係與應受送達人居住在一處，且繼續的為共同生活者，方
+      為相當（最高法院82年度臺上字第2723號判例意旨參照）
+      。若文書已付與此種同居人或受僱人，其效力自應認與交
+      付本人同，至其已否轉交，何時轉交，均非所問（最高法
+      院95年度臺上字第5695號判決、103年度臺抗字第327號民
+      事裁定意旨參照）。亦即如已依民事訴訟法第137條第1項
+      補充送達規定為之者，即生送達之效力（最高法院99年度
+      臺上字第540號判決意旨參照）。再者，應受送達人同時
+      有住所、居所或事務所，向其中任何一處為送達，均非法
+      所不許（最高法院103年度臺上字第1522號判決、99年度
+      臺抗字第485號裁定意旨參照）。從而送達僅須符合對被
+      告之住所、居所、事務所、營業所之一處所為送達、補充
+      送達或寄存送達之規定，即屬合法送達，不以同時對被告
+      之住、居所、事務所、營業所等處併為送達為必要。又同
+      一判決縱先後數次送達於同一應受送達人，惟一經合法送
+      達，訴訟上之效力即行發生，其上訴期間應以最先送達之
+      日為起算基準（最高法院102年度臺上字第2449號判決意
+      旨參照）。
+（四）再按期間之計算，依民法之規定。以日定期間者，其始日
+      不算入，並以期間末日之終止，為期間之終止，刑事訴訟
+      法第65條、民法第120條第2項、第121條第1項分別定有明
+      文。當事人郵遞上訴或抗告等書狀者，應以書狀到達法院
+      之日，為提出於法院之日（最高法院103年度臺抗字第409
+      號、101年度臺抗字第752號裁定意旨參照）。末按應於法
+      定期間內為訴訟行為之人，其住、居所或事務所不在法院
+      所在地者，計算該期間時，應扣除其在途之期間；前項應
+      扣除之在途期間，由司法行政最高機關定之，刑事訴訟法
+      第66條亦定有明文，故應於法定期間內為訴訟行為之人，
+      計算是否扣除在途期間，乃依司法院訂定「法院訴訟當事
+      人在途期間標準」第2 條規定法院在途期間欄記載日數為
+      之。倘住所或居所在原審法院所在地，其上訴期間即無在
+      途期間可言。
+二、經查：
+（一）本件上訴人即被告甲○○（下稱上訴人）於民國102年7月
+      3日警詢中，就其住居所地，均陳明為其戶籍地高雄市○
+      ○區○○巷00號（見警卷第1、3頁）；於102年7月23日檢
+      察官偵查中除陳明戶籍地外，亦陳明其居所地在臺東縣鹿
+      野鄉（稱地址未記），現在職業是救生員，在鹿野的卑南
+      溪受雇於泛舟業者（見偵查卷第17頁）；於102年7月25日
+      偵查中復明確稱現居臺東縣鹿野鄉○○村○○路0段00巷
+      00號（住到102年10月中旬）（見偵查卷第44頁）。經檢
+      察官就違反野生動物保育法部分提起公訴後，於原法院
+      102年11月6日準備程序中則稱原居所地臺東縣鹿野鄉○○
+      村○○路0段00巷00號已無居住，另陳明其居所地為「臺
+      東縣臺東市○○○路000巷00號」（見原審卷第18頁）。
+      經原審定103年1月16日下午3時20分行審理程序，該審理
+      期日傳票經送達上訴人之居所，依該次臺灣臺東地方法院
+      送達證書所載，亦已於102年12月20日由「同居人乙○○
+      」受領（見原審卷第33頁）。嗣於原審103年1月16日審理
+      中上訴人復陳明其住所地為「高雄市○○區○○巷00號」
+      ，居所地則為「臺東縣臺東市○○○路000巷00號」上訴
+      人於原審之選任辯護人林長振律師（亦為本件之選任辯護
+      人）亦到場為上訴人辯護，對此亦未表示意見。經原審於
+      103年1月28日判決後，將原審判決書正本及上訴權利告知
+      書各乙件由郵務機關送達至其居所「臺東縣臺東市○○○
+      路000巷00號」，依該次臺灣臺東地方法院送達證書之記
+      載，因未獲會晤上訴人本人，已於103年2月7日13時30分
+      許將文書交與有辨識能力之「同居人乙○○」代為收領（
+      見原審卷第73頁）。上訴人從未陳明廢止或變更其居所地
+      。上訴人於103年2月21日提起本件上訴，刑事聲明上訴狀
+      所載其居所地仍為「臺東縣臺東市○○○路000巷00號」
+      （見本院卷第6頁）。經上訴人於103年3月12日透過財團
+      法人法律扶助基金會選任林長振律師為其第二審之辯護人
+      ，不惟委任狀上委任人即上訴人住居所載為「臺東縣臺東
+      市○○○路000巷00號」（見本院卷第15頁），於同日所
+      提出之刑事上訴理由狀亦載為「臺東縣臺東市○○○路0
+      00巷00號」（見本院卷第8頁），前開刑事上訴理由狀上
+      除具狀人「甲○○」之印文外，復有選任辯護人「林長振
+      律師」之印文（見本院卷第14頁）。迄於本院103年5月22
+      日準備程序中，為人別訊問時，上訴人再次陳明伊住高雄
+      市○○區○○巷00號，居「臺東縣臺東市○○○路000巷
+      00號」，註明係借住女朋友家，入監執行前指定該處為送
+      達處所（見本院卷第48頁）。經本院問以何時開始暫住在
+      女朋友家即「臺東縣臺東市○○○路000巷00號」，答稱
+      ：102年10月15日以後開始住，實際上就是住在這個住址
+      ，但戶籍地沒有變更等語。本院再問以：原來陳報臺東縣
+      鹿野鄉瑞景路是否後來沒有繼續住？復答稱：「是，我沒
+      有泛舟之後，就沒有在那邊繼續住。」等語（見本院卷第
+      48頁背面、第49頁）。足徵依上訴人向原審法院及本院所
+      陳明之居所地，自102年10月15日起至103年5月22日止均
+      為「臺東縣臺東市○○○路000巷00號」。從而原法院依
+      其陳明，將原判決書正本送達至其居所「臺東縣臺東市○
+      ○○路000巷00號」，於法自屬有據。
+（二）又依全戶戶籍資料（完整姓名）查詢結果、個人戶籍資料
+      （完整姓名）查詢結果之記載，丙○○、乙○○及其等之
+      父母鄭開盛、陳玉喜等人均設籍在「臺東縣臺東市○○○
+      路000巷00號」（見本院卷29、30、32、34頁）。而上訴
+      人之女朋友為丙○○，乙○○為丙○○之姊姊，「臺東縣
+      臺東市○○○路000巷00號」此地址有丙○○之父母、姊
+      姊、弟弟及伊同住，伊與丙○○實際上是同居關係等語，
+      亦據上訴人於本院前開準備程序中陳明在卷（見本院卷第
+      49頁）。丙○○於本院前開準備程序中亦稱：伊與上訴人
+      為男女朋友關係，上訴人有住在伊家，上訴人如果有休假
+      或有空來臺東時，都是住在伊家等語（見本院卷第50頁背
+      面、第51頁）。乙○○於本院前開準備程序中復稱：上訴
+      人是其妹妹的男朋友，上訴人有斷斷續續的住在伊家等語
+      。從而上訴人顯係因與丙○○交往之目的，而暫時與丙○
+      ○及其家人居住在一處，並有共同生活同住之事實。揆諸
+      前開見解，乙○○顯係上訴人居所之同居人。再者，乙○
+      ○為66年出生，高職畢業之智識程度，亦有上揭全戶戶籍
+      資料（完整姓名）查詢結果乙紙可參（見本院卷第35頁）
+      ，顯係有辨別事理能力之人。乙○○復自承前開原審卷第
+      73頁臺灣臺東地方法院送達證書上之簽名為其所簽，伊收
+      受後就放在一般伊家郵件放置處，讓相關的人拆閱等語（
+      見本院卷第51頁）。益徵有辨識能力之同居人乙○○確有
+      於103年2月7日代上訴人收受原審判決書正本。又系爭送
+      達證書上，郵務人員雖將乙○○與上訴人之關係記載為「
+      小姨子」，而上訴人僅為乙○○妹妹之男朋友，記載尚有
+      未合。惟郵務機構送達訴訟文書實施辦法第11條第3項及
+      第2條規定，民事訴訟或非訟文書，依法交由郵務機構送
+      達，而送達之訴訟文書由同居人或受僱人或接收郵件人員
+      代收時，應於送達證書上註明姓名及其與應受送達人之關
+      係。所謂註明姓名乃為識別與應受送達人之關係而已，並
+      非送達之要件（最高法院95年度臺抗字第65號民事裁定意
+      旨參照）。乙○○既為上訴人居所地之有辨識能力之同居
+      人，亦確有代上訴人收領原審判決書正本，且在送達證書
+      親自簽名，則郵務人員對於其與上訴人間關係縱有誤載，
+      尚不影響日後對代收人與應受送達人之關係識別，揆諸前
+      開見解，自不影響送達之合法性。
+（三）上訴人雖於103年6月20日提出刑事答辯狀，辯稱原審送達
+      判決書於「臺東縣臺東市○○○路000巷00號」時，上訴
+      人業已改變其居所，收受送達人乙○○亦非同居人，該次
+      送達顯非合法云云。惟上訴人始終陳明自102年10月15日
+      起至本院103年5月22日準備程序其居所為「臺東縣臺東市
+      ○○○路000巷00號」，上訴理由狀亦載明上址為上訴人
+      之居所地，其上復有上訴人及其辯護人之印文，上址為上
+      訴人前開期間之居所，至為明確，亦從無爭議。上訴人經
+      本院於準備程序告知本件可能上訴逾期，始具狀翻異前詞
+      ，所辯是否屬實，顯非無疑。且前開刑事答辯狀雖以乙○
+      ○之證述：「（法官問：被告王先生從何時開始斷斷續續
+      的住在你家？）答：夏天泛舟期間會住我家，他回高雄後
+      ，如果有放假的話，來臺東都會住在我家」，證人丙○○
+      亦證稱：「（法官問：你與被告王先生是何關係？）答：
+      男女朋友」、「（法官問：被告王先生是否有住在你家？
+      ）答：有」、「（法官問：被告王先生自何時開始住在你
+      家？）答：如果他有休假或有空來臺東時，都是住在我家
+      。」等語為據，認原審於103年2月7日送達系爭地址時，
+      已非夏令泛舟期間，上訴人已返回高雄工作，僅放假或有
+      空來臺東探視其女友丙○○時，方住在上址云云。惟上訴
+      人於夏令泛舟期間之居所地在臺東縣鹿野鄉○○村○○路
+      0段00巷00號，待102年10月15日泛舟期間結束後，始將居
+      所設在「臺東縣臺東市○○○路000巷00號」。且上訴人
+      於原審102年11月16日準備程序中陳明前開地址為居所地
+      時，泛舟期間早已結束，惟迄自本院準備程序仍將上址設
+      定為其居所等情，均詳如前述，則上訴人設定居所在「臺
+      東縣臺東市○○○路000巷00號」，顯與夏令泛舟期間無
+      關。而上訴人係因與丙○○交往之目的，始暫時將其居所
+      設在上址，惟迄於本院準備程序時，上訴人與丙○○仍為
+      男女朋友關係，亦如前述，其暫時居住上址之目的顯未變
+      更，則刑事答辯狀以103年2月7日已非夏令泛舟期間，遽
+      然推論上訴人已返回高雄工作，非以與丙○○同居共同生
+      活為目的，其生活之重心業已改變為以其工作地或戶籍地
+      之高雄云云，難認係根據事實提出答辯。況乙○○前開證
+      述內容，係就本院問以：「被告王先生從何時開始斷斷續
+      續的住在你家？」，答稱：「夏天泛舟期間會住我家；他
+      回高雄以後，如果有放假的話，來臺東都會住在我家。」
+      等語，顯係指自夏天泛舟期間起上訴人即斷斷續續住乙○
+      ○上開住處，並非指上訴人僅夏天泛舟期間住乙○○家，
+      其後即變更居所，返回高雄，刑事答辯狀斷章取義，亦不
+      可取。參以居所與住所觀念自非全然相同，所謂居所，乃
+      以暫時目的所居之場所，已如前述。從而居所與住所兩者
+      間並不相斥，縱一般戶籍地雖為法定住所，然因現代工商
+      發達，人並不以居住於戶籍地為唯一之選擇，亦常有因就
+      業、就學或其他因素而居住於他處，此即所謂居所。從而
+      居所顯非必須持續不間斷居住於一處，始得認為係屬居所
+      。則縱使上訴人並非持續居住於系爭地址，然其既係以與
+      丙○○交往之目的，而設定上址為居所，上訴人主觀上既
+      無廢止該居所之意思，客觀上亦有居住之事實，上址仍為
+      適法之居所無疑。上訴人復自承丙○○之母有交付原審判
+      決書予伊（見本院卷第49頁背面），該次送達對上訴人之
+      權益更難謂有侵害之情。從而上訴人於原審判決書送達之
+      日即103年2月7日之居所確為「臺東縣臺東市○○○路000
+      巷00號」無訛。上訴人翻異前詞，顯屬臨訟卸責之詞，不
+      足採信。
+三、綜上所述，原審以上訴人之居所「臺東縣臺東市○○○路
+    000巷00號」為送達處所，由郵務機構送達原審判決書正本
+    ，嗣於103年2月7日因未獲會晤上訴人本人，而由具辨別事
+    理能力之同居人乙○○代為收領，其送達之效力與本人同，
+    自生合法送達之效力。又原審判決書既經合法送達，訴訟上
+    之效力即行發生，其上訴期間應以最先送達之日為起算基準
+    ，無待其他住居所亦為送達始生效力，至乙○○已否轉交，
+    何時轉交，均非所問。則其上訴期間應自該判決書送達翌日
+    即103年2月8日起計算10日。又上訴人之上開居所地，係在
+    受理法院之管轄區內，依司法院訂定「法院訴訟當事人在途
+    期間標準」第2條規定，不生在途期間之問題，且該期間末
+    日亦非星期日、紀念日或其他休息日，無順延之問題。則上
+    訴人遲至103年2月21日始向原審法院提起第二審上訴，此有
+    「刑事聲明上訴狀」上原法院收狀戳記可憑（見本院卷第6
+    頁），其上訴顯已逾10日之不變期間。則上訴人上訴已逾法
+    定上訴不變期間，顯屬違背法律上之程式，且無從補正，其
+    上訴為不合法，自應由本院以判決駁回，並不經言詞辯論為
+    之。
+據上論斷，應依刑事訴訟法第367條前段、第372條，判決如主文
+。
+中    華    民    國   103    年    10    月    13    日
+                  刑事庭審判長法  官  賴淳良
+                              法  官  林慧英
+                              法  官  張宏節
+以上正本證明與原本無異。
+如不服本判決，應於收受送達後10日內向本院提出上訴書狀，其
+未敘述理由者，並得於提起上訴狀後10日內向本院補提理由書（
+均須按他造當事人之人數附繕本）「切勿逕送上級法院」。
+中    華    民    國   103    年    10    月    13    日
+                              書記官  江宜瑾</pre>
+<!-- 原因：[未成年] -->
+<!-- 檔名：[D:\jupload\upload\NOK\LAWHLH\CRIMINAL\10310\13\HLHM103AD.001] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共37
+											筆 / 現在第4
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=000049&selectedCrtid=HLH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e4%b8%8a%e8%a8%b4%2c49%2c20141013%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e8%a8%b4&jno=49&jdate=1031013&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=103%2c%e4%b8%8a%e8%a8%b4%2c49%2c20141013%2c1&v_court=HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2&v_sys=M&jyear=103&jcase=%e4%b8%8a%e8%a8%b4&jno=49&jdate=1031013&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e4%b8%8a%e8%a8%b4%2c49%2c20141013%2c1','HLH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%8a%b1%e8%93%ae%e5%88%86%e9%99%a2','M','103','%e4%b8%8a%e8%a8%b4','49','1031013','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="4"> <input type="hidden" name="v_court" value="HLH 臺灣高等法院 花蓮分院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

@@ -1,0 +1,278 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣南投地方法院-刑-89訴64</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+P3+/jPpPXboQeel/k+TRZwjsEaY=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣南投地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共81
+											筆 / 現在第80
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=089&selectedCrmid=%e8%a8%b4&selectedCrmno=000064&selectedCrtid=NTD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=79&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=81&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=81&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=89%2c%e8%a8%b4%2c64%2c20000308&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e8%a8%b4&jno=64&jdate=890308&jcheck=">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=89%2c%e8%a8%b4%2c64%2c20000308&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e8%a8%b4&jno=64&jdate=890308&jcheck=">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('89%2c%e8%a8%b4%2c64%2c20000308','NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','89','%e8%a8%b4','64','890308','')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">89,訴,64</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">890308</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反<font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣南投地方法院刑事判決　　　　　　　　　　　　　　八十九年度訴字第六四號
+　　公　訴　人　臺灣南投地方法院檢察署檢察官
+　　被　　　告　甲○○
+　　選任辯護人　楊志航律師
+右列被告因違反野生動物保育法案件，經檢察官提起公訴（八十九年度偵字第二四九
+號），本院判決如左：
+    主  文
+甲○○未具保育類野生動物族群量逾越環境容許量之條件，獵捕保育類野生動物，處
+有期徒刑柒月，緩刑參年。扣案之保育類野生動物產製品山羌屍體壹隻沒收。
+    事  實
+一、甲○○於民國（下同）八十八年十一月二十八日，與楊建國、莊新金等人受僱於
+    李明生（自林務局嘉義林區管理處標得玉山事業區第一、三、二六至三一、三三
+    、三五林班之愛玉子採取權，採運期限自八十八年十月十八日起至八十九年三月
+    三十一日止），而前往南投縣信義鄉玉山國家公園內採收愛玉子，嗣楊建國因受
+    傷先行下山，臨行前並將其所有之犬（品種不詳）三隻委託甲○○代為照顧。八
+    十八年十二月三十日十七時左右，甲○○在上開非野生動物保護區之林班地內，
+    即南投縣信義鄉○○○道十四公里處，發現族群量未逾越環境容許量，業經公告
+    之珍貴稀有保育類野生動物山羌一隻，乃利用上開楊建國所有之犬三隻獵捕上開
+    山羌一隻，並將該山羌攜回其所住之工寮內放置，擬予以燒烤食用。嗣於八十八
+    年十二月三十日十八時三十分左右，在南投縣信義鄉玉山國家公園楠溪林道十四
+    Ｋ處工寮內為警查獲，並扣得上開保育類野生動物產製品山羌屍體一隻。
+二、案經南投縣警察局信義分局報請台灣南投地方法院檢察署檢察官偵查起訴。
+    理  由
+一、訊據被告甲○○固坦承有於右揭時地拾獲保育類野生動物山羌一隻之事實，惟矢
+    口否認有何違反野生動物保育法之犯行，辯稱：係楊建國所遺留之小狗發現山羌
+    後自行追趕咬死，其並未出手獵捕，且養狗係要看管工寮及防狗熊，而非用以狩
+    獵云云，然查：前開犬類三隻，係案外人楊建國所有，為看守工寮、守護愛玉子
+    而帶上山，嗣因楊建國因傷下山，乃託被告照顧等情，業據證人楊建國於本院審
+    理中供明在卷，是前開三犬，主要目的係在看守工寮，且係由被告所支配、管理
+    甚明，故被告對該等犬隻之行動，理應善盡其管理責任，不應放任其自由活動。
+    按之常情，上開犬隻如係由被告所管理，且主要目的係在看守工寮，自無未經主
+    人命令即隨意追捕其他動物而擅離工寮之理，且如該犬隻係未經被告許可而擅自
+    追捕動物，被告亦無從尋獲被犬隻咬死之動物，此參酌與被告同在山上工作之證
+    人莊新金於本院審理中亦陳稱見被告手持山羌回工寮時甚感驚訝一節，可見一斑
+    ，是被告所為辯解，並不可採。此外復有保育類野生動物產製品山羌屍體一隻扣
+    案、照片一張在卷可資佐證。按山羌為珍貴稀有保育類野生動物，有台灣野生動
+    物資源調查手冊 (１)可稽，且野生動物產製品係指野生動物之屍體、骨、角、
+    牙、皮、毛、卵或器官之全部、部分或其加工品，野生動物保育法第三條第六款
+    定有明文，從而事證明確，被告犯行堪以認定，應依法論科。另辯護人請求傳訊
+    證人李明生、胡文慧以證明被告上山目的係受僱採取愛玉子部分，因與被告被訴
+    獵捕野生動物之行為無關，本院自無加以調查之必要。而台灣南投地方法院檢察
+    署洽辦公務電話紀錄單，雖載明山羌右後腿內側有傷痕，但無血跡，看不出是否
+    咬痕等字句，惟被告既供承山羌係被犬隻咬死，故此尚難採為有利或不利被告認
+    定之證據，附此說明。
+二、按「保育類野生動物應予保育，不得騷擾、虐待、獵捕、宰殺或為其他利用，但
+    一、族群量逾越環境容許量者，不在此限：：」野生動物保育法第十八條第一項
+    第一款定有明文。且山羌屬於鹿科業經行政院農業委員會公告列入應予保育之野
+    生動物，有台灣野生動物資源調查手冊（１）可稽，不得非法獵捕，核被告甲○
+    ○未具該款但書第一項之條件，利用案外人楊建國所有之犬獵捕族群量未逾越環
+    境容許量之保育類野生動物，所為係違反野生動物保育法第十八條第一項第一款
+    之規定，應依同法第四十一條第一項第一款之罪處斷。爰審酌被告未能體認保護
+    野生動物對維護物種多樣性，及自然生態之平衡之重要，致罹本件犯行，惟念其
+    係原住民，有獵捕野生動物之習，所得不多等一切情狀，量處如主文所示之刑。
+    次查被告前未曾受有期徒刑以上刑之宣告，有臺灣南投地方法院檢察署刑案資料
+    查註紀錄表及臺灣高等法院被告全國前案紀錄表各一份在卷可按，其因一時短於
+    思慮，致觸犯本案犯行，經此刑之教訓，當知保護野生動物之重要，而有所警惕
+    ，信無再犯之虞，本院認前開對其宣告之刑，以暫不執行為適當，爰併宣告緩刑
+    三年。另查野生動物產製品係指野生動物之屍體、骨、角、牙、皮、毛、卵或器
+    官之全部、部分或其加工品，野生動物保育法第三條第六款定有明文，故扣案之
+    山羌屍體一隻，顯屬保育類野生動物產製品，應依野生動物保育法第五十二條第
+    一項後段之規定宣告沒收。
+據上論斷，應依刑事訴訟法第二百九十九條第一項前段，野生動物保育法第十八條第
+一項第一款、第四十一條第一項第一款、第五十二條第一項，刑法第十一條前段、第
+七十四條第一款判決如主文。
+本案經檢察官張曉雯到庭執行職務
+中    華    民    國      八十九      年       三      月       八      日
+                              臺灣南投地方法院刑事庭
+                                  法  官  林  宜  民
+右正本證明與原本無異。
+如不服本判決，應於判決送達後十日內向本院提出上訴狀( 應附繕本 )。「切勿逕送
+上級法院」。
+                                  書記官
+中    華    民    國      八十九      年       三      月       八      日
+「告訴人或被害人對於判決如有不服具備理由請求檢察官上訴者，其上訴期間之計算
+係以檢察官收受判決正本之日期為準」
+附錄條文：
+野生動物保育法第十八條第一項第一款
+保育類野生動物應予保育，不得騷擾、虐待、獵捕、宰殺或為其他利用。但有下列情
+形之一，不在此限：
+一、族群量逾越環境容許量者。
+野生動物保育法第四十一條第一項第一款
+有下列情形之一，處六月以上五年以下有期徒刑，得併科新臺幣二十萬元以上一百萬
+元以下罰金:
+  一、未具第十八條第一項第一款之條件，獵捕、宰殺保育類野生動物者。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Jud12\OK\LAWNTD\CRIMINAL\8903\10\NTDM893A.001] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共81
+											筆 / 現在第80
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=089&selectedCrmid=%e8%a8%b4&selectedCrmno=000064&selectedCrtid=NTD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=79&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=81&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=81&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=89%2c%e8%a8%b4%2c64%2c20000308&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e8%a8%b4&jno=64&jdate=890308&jcheck=">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=89%2c%e8%a8%b4%2c64%2c20000308&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=89&jcase=%e8%a8%b4&jno=64&jdate=890308&jcheck=">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('89%2c%e8%a8%b4%2c64%2c20000308','NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','89','%e8%a8%b4','64','890308','')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="80"> <input type="hidden" name="v_court" value="NTD 臺灣南投地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

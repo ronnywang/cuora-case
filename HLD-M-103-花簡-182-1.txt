@@ -1,0 +1,397 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣花蓮地方法院-刑-103花簡182</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+P3+/jPpPXboQeel/k+TRZwjsEaY=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣花蓮地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共121
+											筆 / 現在第13
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%8a%b1%e7%b0%a1&selectedCrmno=000182&selectedCrtid=HLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=121&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%8a%b1%e7%b0%a1%2c182%2c20140521%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%8a%b1%e7%b0%a1&jno=182&jdate=1030521&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=103%2c%e8%8a%b1%e7%b0%a1%2c182%2c20140521%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%8a%b1%e7%b0%a1&jno=182&jdate=1030521&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('103%2c%e8%8a%b1%e7%b0%a1%2c182%2c20140521%2c1','HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%8a%b1%e7%b0%a1','182','1030521','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">103,花簡,182</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1030521</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體"><font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣花蓮地方法院刑事簡易判決　　　　103年度花簡字第182號
+聲　請　人　臺灣花蓮地方法院檢察署檢察官
+被　　　告　謝德仁
+上列被告因動物保護法案件，經檢察官聲請以簡易判決處刑（
+102 年度偵字第5637號），本院判決如下：
+    主  文
+謝德仁犯動物保護法第三十條第二項之違反保護規定致動物死亡
+罪，處有期徒刑參月，如易科罰金，以新臺幣壹仟元折算壹日。
+緩刑貳年，緩刑期間付保護管束，並應於本判決確定之翌日起陸
+個月內，依執行檢察官之命令參加法治教育貳場次。
+    事實及理由
+一、本件犯罪事實及證據，除理由補充：「被告雖辯稱：因被害
+    人周志寧所飼養之犬隻，曾咬死伊所飼養的雞隻，伊為保護
+    雞隻，才將混有農藥的香腸放置在大門口及屋後，被害人的
+    狗隻之所以會吃到伊上開所放置、含有農藥的香腸，是因為
+    被害人未盡飼主管理之責任，伊並未違反動物保護法云云。
+    然按刑法正當防衛之要件，必對於現在之不正侵害，始能成
+    立，若侵害已過去，或預料有侵害而侵害尚屬未來，則其加
+    害行為，自無正當防衛之可言。而緊急避難行為，以自己或
+    他人之生命、身體、自由、財產猝遇危難之際，非侵害他人
+    法益別無救護之途，為必要之條件( 最高法院19年上字第11
+    74號、最高法院24年上字第2669號刑事判例參照) 。查被告
+    所稱雞隻遭攻擊之情，均為已發生之侵害，本件被害人所飼
+    養之黃灰色土狗係在被告住處馬路旁，因食用被告所放置、
+    含有農藥之香腸方中毒致死，已據被害人陳述甚明。上開犬
+    隻既在非飼養雞隻之處食用含毒香腸致死，堪認該犬隻遭毒
+    死時，並無攻擊被告所飼養雞隻之行為，難認被告之行為，
+    係為排除現在不法之侵害或避免迫在眼前之突發性危難，依
+    前揭說明，自難依正當防衛或緊急避難之規定，予以減輕或
+    免除其刑。再者，被告之雞隻曾遭狗咬傷受有損失，已有違
+    犯本案之犯罪動機，酌以被告乃特意將農藥摻入香腸中，並
+    放置在住處四周，足認被告係為引誘被害人之犬隻食用含毒
+    香腸，欲致犬隻因而死亡，以達其避免雞隻再遭咬傷之目的
+    甚明，是其具有惡意傷害動物之主觀意識，灼然至明，故其
+    前揭所辯，顯係飾卸之詞，不足採信。」等語外，其餘均引
+    用檢察官聲請簡易判決處刑書之記載( 如附件) 。
+二、核被告所為，係犯動物保護法第30條第2 項、第1 項第3 款
+    之違反保護規定惡意傷害動物致動物死亡罪。爰審酌人類僅
+    為地球萬物之一份子，應本於共生共存之謙遜思維，對其他
+    物種之生命予以尊重與保護，此從動物保護法第1 條即明白
+    揭示該法立法目的為尊重動物生命及保護動物自明。而動物
+    牲畜本具有與生俱來之求生本能與獸性( 如獵殺、覓食等 )
+    ，因無法以人類所習知之方式，予以教化、約束、溝通，故
+    動育保護法就飼主之管理責任，已有明文規範。被告因被害
+    人未盡飼主之管理責任，致所飼養雞隻屢遭被害人所飼養之
+    犬隻咬傷，未能循法律途徑理性解決，率而以農藥製作毒餌
+    ，毒害被害人所飼養犬隻之非人道方式解決，輕忽動物保護
+    法所揭櫫之上開立法目的，所為實有不該；兼衡其患有慢性
+    賢衰竭、犯後尚能坦承犯行，態度尚可，且無前科紀錄，素
+    行良好；兼衡其具有國中畢業之學歷、家庭經濟狀況貧寒，
+    及未與被害人達成和解等一切情狀，量處如主文所示之刑，
+    並諭知易科罰金之折算標準。
+三、末查，被告前未曾因犯罪受刑之宣告，有臺灣高等法院被告
+    前案紀錄表在卷可查，其與被害人本屬鄰居關係，然因被害
+    人飼養之犬隻攻擊咬傷其飼養之雞隻問題而與被害人產生嫌
+    隙，致於前揭時間而為本案犯行，依其犯罪情節，應係一時
+    情緒失控、思慮不周致犯本罪，歷經本案之偵審及科刑教訓
+    ，應當足以使其有所警惕而無再犯之虞，本院因認其所受刑
+    之宣告，以暫不執行為適當，爰予宣告緩刑2 年，以啟自新
+    。惟斟酌被告法治觀念不足，為確實督促其保持正確法律觀
+    念，併依刑法第74條第2 項第8 款之規定，諭知於本案判決
+    確定之翌日起6 個月內之緩刑期間，應接受法治教育課程2
+    場次，並依刑法第93條第1 項第2 款之規定，諭知於緩刑期
+    間付保護管束。至被告究應於何時、地參加法治教育，屬執
+    行之問題，應由受理本案執行之地方法院檢察署執行檢察官
+    斟酌全案情節，妥為安排，若被告未能履行上開負擔，情節
+    重大者，檢察官得聲請本院撤銷被告緩刑之宣告，附此敘明
+    。
+四、依刑事訴訟法第449 條第1 項前段、第454 條第2 項，動物
+    保護法第30條第2 項、第1 項第3 款，刑法第11條前段、第
+    41條第1 項前段，第74條第1 項第1 款、第2 項第8 款、第
+    93條第1 項第2 款，逕以簡易判決處刑如主文。
+五、如不服本件判決，得自判決送達之日起10日內，以書狀敘述
+    理由，向本院提起上訴（須附繕本）。
+中    華    民    國   103    年    5     月    21    日
+                  花蓮簡易庭    法  官  廖曉萍
+上列正本證明與原本無異。
+如對本判決不服，應於送達後10日內，向本院提出上訴狀（應抄
+附繕本）告訴人或被害人如對於本判決不服者，應具備理由請求
+檢察官上訴，其上訴期間之計算係以檢察官收受判決正本之日期
+為準。
+中    華    民    國   103    年    5     月    21    日
+                                書記官  張雅雯
+附錄本案論罪科刑實體法條全文：
+動物保護法第30條：
+有下列情事之一，處新臺幣一萬五千元以上七萬五千元以下罰鍰
+：
+一、違反第五條第二項第四款規定，使其所飼養動物遭受惡意或
+    無故之騷擾、虐待或傷害，而未達動物肢體嚴重殘缺、重要
+    器官功能喪失或死亡。
+二、違反第五條第三項規定，棄養動物而未致有破壞生態之虞。
+三、違反第六條規定，惡意或無故騷擾、虐待或傷害動物。
+四、違反第十一條第一項規定，對於受傷或罹病動物，飼主未給
+    與必要之醫療，經直轄市或縣（市）主管機關通知限期改善
+    ，屆期未改善。
+五、違反第十三條第一項第一款規定，於公共場所或公眾得出入
+    之場所宰殺動物。
+六、違反第十三條第一項第四款規定，未依主管機關許可方法宰
+    殺數量過賸之動物。
+七、違反第十三條第二項規定，未依中央主管機關所定宰殺動物
+    相關準則宰殺動物。
+八、違反第十四條之一第一項規定，未經主管機關許可，使用禁
+    止之方法捕捉動物。
+九、違反第十四條之二規定，未經中央主管機關許可，製造、販
+    賣、陳列或輸出入獸鋏。
+十、違反第二十二條之二第三項規定，寵物繁殖或買賣業者於寵
+    物買賣交易時，拒未提供購買者有關寵物資訊之文件。
+十一、違反第二十二條之二第四項規定，寵物繁殖、買賣或寄養
+      業者於電子、平面、電信網路及其他媒體進行廣告行銷宣
+      傳時，未標示其許可證字號。
+違反前項第一款至第三款致動物重傷或死亡，或五年內違反前項
+第一款至第八款情事二次以上者，處一年以下有期徒刑。
+附件：
+臺灣花蓮地方法院檢察署檢察官聲請簡易判決處刑書
+                                     102年度偵字第5637號
+    被      告  謝德仁  男  52歲（民國00年0月00日生）
+                        住花蓮縣鳳林鎮○○路00號
+                        國民身分證統一編號：Z000000000號
+上列被告因動物保護法案件，業經偵查終結，認為宜聲請以簡易
+判決處刑，茲將犯罪事實及證據並所犯法條分敘如下：
+        犯罪事實
+一、謝德仁與周志寧係分別住在花蓮縣鳳林鎮○○路00號、同路
+    106 號之鄰居。謝德仁因對周志寧所有土狗經常前往謝德仁
+    家中，咬食謝德仁家中所有雞隻之事，央求將狗繫上狗鍊，
+    周志寧不予理會，而心生不滿，竟基於惡意傷害動物致死之
+    犯意，於民國102 年10月5 日15時許，將摻有杜邦「萬靈（
+    納乃得）」農藥之香腸，置在該謝德仁家旁馬路邊，適許周
+    志寧所有之黃灰色土狗1 隻於102 年10月5 日16時許行經該
+    謝德仁家周邊馬路邊遭餵食，致該1 隻黃灰色土狗因農藥中
+    毒死亡，嗣周志寧行經該謝德仁家旁時，發現異狀，報警處
+    理，並扣得謝德仁所有之杜邦「萬靈（納乃得）」農藥1 包
+    、摻有杜邦「萬靈（納乃得）」農藥之香腸3 條等物。
+二、案經花蓮縣警察局鳳林分局報告偵辦。
+        證據並所犯法條
+臺灣花蓮地方法院檢察署檢察官聲請簡易判決處刑書
+                                     102年度偵字第5637號
+    被      告  謝德仁  男  52歲（民國00年0月00日生）
+                        住花蓮縣鳳林鎮○○路00號
+                        國民身分證統一編號：Z000000000號
+上列被告因動物保護法案件，業經偵查終結，認為宜聲請以簡易
+判決處刑，茲將犯罪事實及證據並所犯法條分敘如下：
+        犯罪事實
+一、謝德仁與周志寧係分別住在花蓮縣鳳林鎮○○路00號、同路
+    106 號之鄰居。謝德仁因對周志寧所有土狗經常前往謝德仁
+    家中，咬食謝德仁家中所有雞隻之事，央求將狗繫上狗鍊，
+    周志寧不予理會，而心生不滿，竟基於惡意傷害動物致死之
+    犯意，於民國102 年10月5 日15時許，將摻有杜邦「萬靈（
+    納乃得）」農藥之香腸，置在該謝德仁家旁馬路邊，適許周
+    志寧所有之黃灰色土狗1 隻於102 年10月5 日16時許行經該
+    謝德仁家周邊馬路邊遭餵食，致該1 隻黃灰色土狗因農藥中
+    毒死亡，嗣周志寧行經該謝德仁家旁時，發現異狀，報警處
+    理，並扣得謝德仁所有之杜邦「萬靈（納乃得）」農藥1 包
+    、摻有杜邦「萬靈（納乃得）」農藥之香腸3 條等物。
+二、案經花蓮縣警察局鳳林分局報告偵辦。
+        證據並所犯法條
+一、證據清單及待證事實：
+┌──┬───────────┬────────────┐
+│編號│  證據名稱及證據方法  │        待證事實        │
+├──┼───────────┼────────────┤
+│ 1  │被告謝德仁於警詢及偵查│固坦承上開時、地以上開  │
+│    │中之供述。            │摻農藥之香腸傷害該黃灰色│
+│    │                      │土狗致死，惟具狀辯稱以免│
+│    │                      │鄰居的狗再來咬雞，並非故│
+│    │                      │意虐待或傷害犬隻。然該黃│
+│    │                      │灰色土狗係在被告家旁馬路│
+│    │                      │遭被告餵食摻農藥之香腸致│
+│    │                      │死，行為時並非避免該黃灰│
+│    │                      │色土狗咬食被告家中所有雞│
+│    │                      │隻。                    │
+│    │                      │                        │
+├──┼───────────┼────────────┤
+│ 2  │被害人周志寧於警詢及偵│全部犯罪事實。          │
+│    │查中之指訴。          │                        │
+│    │                      │                        │
+├──┼───────────┼────────────┤
+│ 3  │花蓮縣警察局鳳林分局扣│全部犯罪事實。          │
+│    │押筆錄、扣押物品目錄表│                        │
+│    │、扣案之杜邦「萬靈（納│                        │
+│    │乃得）」農藥之照片、摻│                        │
+│    │有杜邦「萬靈（納乃得）│                        │
+│    │」農藥之香腸照片、遭毒│                        │
+│    │害死亡之黃灰色土狗照片│                        │
+│    │、現場照片。          │                        │
+│    │                      │                        │
+└──┴───────────┴────────────┘
+二、核被告所為，係犯違反動物保護法第6 條、第30條第2 項前
+    段惡意傷害動物致死亡之罪嫌。至報告意旨另認被告於102
+    年10月8 日8 許，在該被告家旁馬路邊餵食被害人所有灰白
+    色土狗毒物，致該1 隻灰白色土狗因毒物中毒死亡乙節，經
+    查，此部分業經被告否認，且被害人就此部分指訴，並未提
+    供相關事證加以佐證，況被害人亦於偵查中自陳：伊的狗中
+    毒後，前往被告家附近查看，並無毒物，伊只是懷疑被告在
+    家外放毒等語，是尚無其他無積極證據足認被告有惡意傷害
+    動物致死除前揭犯罪事實所載之黃灰色土狗1 隻以外之灰白
+    色土狗，然此部分若成立犯罪，係在同一地點為之，且時間
+    緊接、手段相同，觸犯構成要件相同之罪名，顯係基於單一
+    犯意自始接續反覆實施為之，為接續犯，與前揭聲請簡易判
+    決處刑部分具有實質上一罪之關係，為聲請簡易判決處刑效
+    力所及，爰不另為不起訴處分，併此敘明。
+三、依刑事訴訟法第451條第1項聲請逕以簡易判決處刑。
+    此  致
+臺灣花蓮地方法院
+中    華    民    國  103    年    5    月    6    日
+                              檢  察  官  許  建  榮</pre>
+<!-- 原因：[騷擾] -->
+<!-- 檔名：[D:\jupload\upload\NOK\LAWHLD\CRIMINAL\10305\21\HLDM1035L.00E] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共121
+											筆 / 現在第13
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=103&selectedCrmid=%e8%8a%b1%e7%b0%a1&selectedCrmno=000182&selectedCrtid=HLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=121&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=103%2c%e8%8a%b1%e7%b0%a1%2c182%2c20140521%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%8a%b1%e7%b0%a1&jno=182&jdate=1030521&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=103%2c%e8%8a%b1%e7%b0%a1%2c182%2c20140521%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=103&jcase=%e8%8a%b1%e7%b0%a1&jno=182&jdate=1030521&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('103%2c%e8%8a%b1%e7%b0%a1%2c182%2c20140521%2c1','HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','103','%e8%8a%b1%e7%b0%a1','182','1030521','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="13"> <input type="hidden" name="v_court" value="HLD 臺灣花蓮地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

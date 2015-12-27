@@ -1,0 +1,506 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣高等法院-高雄分院-刑-89上訴1804</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+8oa+pTkVg5vs2VgnTwPp72r81/w=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣高等法院 高雄分院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共73
+											筆 / 現在第65
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=089&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001804&selectedCrtid=KSH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=64&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=66&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=73&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=89%2c%e4%b8%8a%e8%a8%b4%2c1804%2c20001031%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=89&jcase=%e4%b8%8a%e8%a8%b4&jno=1804&jdate=891031&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=89%2c%e4%b8%8a%e8%a8%b4%2c1804%2c20001031%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=89&jcase=%e4%b8%8a%e8%a8%b4&jno=1804&jdate=891031&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('89%2c%e4%b8%8a%e8%a8%b4%2c1804%2c20001031%2c1','KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2','M','89','%e4%b8%8a%e8%a8%b4','1804','891031','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">89,上訴,1804</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">891031</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體"><font color=red>野生動物保育法</font>等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣高等法院高雄分院刑事判決　　　　　　　　　八十九年度上訴字第一八四號
+　　上　訴　人
+　　即　被　告　丙○○
+　　選任辯護人　謝仲瑜　律師
+　　　　　　　　王進佳
+　　上　訴　人
+　　即　被　告　乙○○
+右上訴人因違反野生動物保育法案件，不服台灣高雄地方法院八十八年度訴字第一一
+二九號中華民國八十九年十月三十一日第一審判決（起訴案號：台灣高雄地方法院檢
+察署八十八年度偵字第二六四七、三二四四、四七四五、三八三一號），提起上訴，
+本院判決如左：
+    主  文
+上訴駁回。
+    事  實
+一、緣林東南（通緝中）於民國八十七年二月間，經由友人之介紹，向韋玉貿易有限
+    公司（以下簡稱韋玉公司）之負責人丙○○借用其公司之牌照進口貨物，而乙○
+    ○、吳光耀（未據起訴）則為韋玉公司之職員，四人均明知保育類野生動物之產
+    製品，非經中央主管機關之同意，不得輸入，且象牙、盔犀鳥、犀牛角產製品係
+    經中央主管機關行政院農委會所公告，屬野生動物保育法第四條第一項第一款所
+    定之保育類野生動物大象、盔犀鳥、犀牛之產製品，竟共同基於未經中央主管機
+    關同意輸入保育類野生動物產製品之犯意聯絡，於八十七年十二月二十九日，委
+    託不知情之聯泰報關行之經理童力前，向財政部高雄關稅局報關，申報自香港載
+    運，以先進口內有合法甲常貨品一批之貨櫃，後拆櫃進倉向海關報驗，經海關官
+    員核驗無誤放行後先予寄倉，繼又以貨櫃進口內匿藏保育類野生動物大象、盔犀
+    鳥、犀牛之產製品，以同一拆櫃進倉之方式將如附表二所示之保育類野生動物產
+    製品卸入倉庫，再申請進入倉庫，趁機將已核准放行之木箱（Ｗｏｏｄｅｎｃａ
+    ｓｅ）上及內裝有保育類野生動物產製品之木箱上標籤（Ｍａｒｋ）撕下互換後
+    ，雇用卡車將內裝有保育類野生動物產製品之木箱運出之方式，矇混海關非法輸
+    入。又均明知如附表一所示之商標圖樣，業經美商摩托羅拉公司，依法向經濟部
+    中央標準局（現改制為智慧財產局）申請註冊登記，經核准取得商標專用權，指
+    定使用於無線電接收機、無線電發射機、無線電接收發射機、行動電話機、無線
+    電電話機、無線電話機、無線電雙向對講機、呼叫器、無線電收發兩用機、天線
+    、放大器、濾波器、變壓器、空腔諧振器、保現絲、、電容器、電感器、電阻、
+    開關、轉轍器、繼電路、連接器、插頭及插座、電池、電池充電器及其皮套、攜
+    帶盒、假電池、麥克風、變流器、積體電路、半導體、微電腦、微控制器、微處
+    理器、記憶體、電晶體、印刷電路、光罩、個人資料傳輸機、電子資料轉換電路
+    、電子介面電路、馬達控制電路、運算放大器、壓力及溫度感應器、電信電路、
+    電腦主機板、光筆、印表機、顯示器、滑鼠、數位訊號處理器、調變解調器、數
+    據機、介面卡、多工器、處理器、轉換器及轉接器、網路中央處理器、路由器、
+    端末轉接器、框訊傳送存取器、通訊控制器、無線電頻率數據機、手提資料終端
+    機、電子行動交換機、迷你電腦、電子資訊交換器、協定轉換器、集訊器、載有
+    程式之磁帶及磁碟、載有程式之光碟機、桌上型電子主控機、訊號擾頻器、揚聲
+    器、電源供應模組、感應器、替續器及驅動器、電子鎮定器，係國內外知名之商
+    標，尚在專用期間內，竟共同基於意圖欺騙及販賣他人而輸入之犯意聯絡，於上
+    開同一時間，以上開進口保育類野生動物產製品之同一方式，非法輸入上開使用
+    相同於他人註冊商標圖樣之仿冒行動電話手機一批，欲販售以牟利。嗣於八十八
+    年一月十四日下午二時許，渠等委託不知情之貨運司機鍾璧儒駕駛ＪＱ－一九二
+    大貨車，載運上開保育類野生動物產製品及仿冒手機一批，而於行經高雄市○○
+    ○路中甲交流道為警當場查獲，並扣得如附表二、三所示之物。
+二、案經內政部警政署保安警察第三總隊第三大隊報請台灣高雄地方法院檢察署檢察
+    官偵查起訴。
+    理  由
+一、訊據上訴人即被告丙○○對於借牌予林東南進口電器之事實，固供承不諱，惟與
+    被告乙○○均否認違反野生動物保育法及商標法之犯行，均辯稱：被告等不知林
+    東南非法輸入保育類野生動物之產製品及仿冒手機云云。
+二、經查：
+（一）被告等所非法輸入如附表二所示之保育類野生動物產製品部分，經送行政院農
+      業委員會轉請法務部調查局鑑定，鑑定結果具有牙質類特有之螢光反應，並具
+      有史垂格線，其所形成角度平均值均大於或等於一一Ｏ度，為大象象牙之特徵
+；鶴頂紅雕刻品二個經鑑定結果，屬保育類盔犀鳥產製品；黑色鼻煙壺二個，
+      屬保育類犀牛角之產製品，均屬於保育類之野生動物產製品，此有行政院農業
+      委員會八十八年四月二十八日八八農林字第八八一一七六九一號、八十八年五
+      月六日八八農林字第八八一一九六五一號二函及法務部調查局檢驗通知書在卷
+      可稽（見八十八年度偵字第二六四七號偵查卷第二四至二九頁），是扣案如附
+      表二所示之物應係保育類野生動物產製品無訛。又被告所非法輸入如附表三所
+      示之仿冒行動電話手機部分，經美商摩托羅拉公司鑑定結果，確係仿冒品無訛
+      ，有上開公司出具之鑑定書一紙在卷足憑。又如附表一所示之商標圖樣，業經
+      美商摩托羅拉公司向經濟部中央標準局申請商標註冊，取得商標專用權，指定
+      使用於如事實欄所載範圍之商品，尚在專用期間內，此有經濟部中央標準局商
+      標註冊證四紙附卷可稽（見警卷內）。此外，並有現場照片多張附卷可稽。
+（二）證人即司機鍾璧儒於調查局訊問時證稱：「（訊以：你有無曾受雙吉托運行委
+      託承運過商品？詳情為何？）有的，總共有二次，第一次係於八十七年十一月
+      間（詳細日期已記不清楚），雙吉托運行老闆娘曾瑞娥打我的行動電話000
+      0000000給我，要我到高雄港六十八號碼頭出口倉找現場工作人員說聯
+      泰報關行叫我來提貨，曾瑞娥要我將這批貨載運到桃園，代價為新台幣（下同
+      ）七千元，我依渠指示，遂將我的大貨車開到高雄港六十八號碼頭出口倉找現
+      場工作人員，把二大件柴箱裝上我所駕駛之ＪＱ一九二號大貨車上，並將車開
+      回雙吉托運行找曾瑞娥，曾瑞娥即告訴我貨主趙先生有叫一男子（詳細姓名我
+      不清楚）要押這批貨上桃園，我即讓該男子上我的大貨車，曾瑞娥並把趙先生
+      的行動電話0000000000號碼給我，叫我到桃園時跟趙先生（詳細姓
+      名我不清楚，要問曾瑞娥）聯繫如何下貨，我遂與前述趙先生所叫不詳姓名男
+      子將該批貨載運北上，當日晚上約二十三時，車抵桃園交流道時，前述不詳姓
+      名押車男子遂與趙先生聯絡，趙先生即指示我們將大貨車開到桃園市○○路桃
+      園體育館跟他會合，他人在那裡，我依其指示遂將大貨車開到桃園體育館，車
+      抵體育館時，趙先生已在一部轎車上，要我大貨車跟著他的轎車走，約二十餘
+      分不到，我們即抵達桃園縣龜山地區（詳細住址我已記不起來），趙先生指定
+  下貨的倉庫，現場有堆高機一台，人員四、五位，下完貨，已半夜二四時餘，
+      我即把大貨車開到泰安休息站，翌日，再到台中載貨回高雄，並找曾瑞娥請款
+      七千元；第二次係在八十八年元月四日上午九點，雙吉托運行老闆娘曾瑞娥又
+      打我的行動電話給我，要我再到高雄港六十八號碼頭出口倉找現場工作人員說
+      聯泰報關行要我來提貨，並說貨主趙先生這次不找人押車，要我本人親自將該
+      批貨載到台中市○○○○路，抵達時，再打趙先生0000000000行動
+      電話或林先生0000000000行動電話跟他們聯繫如何下貨，我依曾瑞
+      娥指示，遂將我的大貨車開到高雄港六八號碼頭出口倉找現場工作人員把二大
+      件柴箱裝上我所駕駛之ＪＱ一九二號大貨車上，惟該批倉庫當日（元月四日）
+      下午十四時三十分在高雄市○○路與高速公路交岔口即被保三第三大隊第三中
+      隊員警查獲．．．。」等語。於本院調查時仍同此供述無異。
+（三）證人即雙吉托同公司之曾瑞娥於調查局訊問時亦證稱：「：：：：該批被查獲
+      之走私物品係前述聯泰報關行之報關員童力前於八十八年一月四日當日早上九
+      時許打電話到我公司，請我派一輛貨車於下午一時三十分到六十八號碼頭進倉
+      提貨，貨物為兩個大木箱（內容為何我不知道），準備運往台中市，並留下0
+      000000000吳先生及0000000000趙先生二支行動電話號碼
+      ，請我們將貨物運到台中市後，以該二支行動電話聯絡該吳先生或趙先生即會
+      告知貨物確實送達地點，我隨即以電話通知鍾璧儒請他依約定之時間開車到六
+      十八號碼頭取貨，當日鍾璧儒領貨後曾將車輛（車牌ＪＱ－一九二）開至我公
+      司，我即先與前述二行動電話聯絡，但趙先生之電話不通，而我以電話000
+      0000000之電話聯絡上吳先生，吳先生即另留0000000000林
+      先生之行動電話請我與他聯絡，我即馬上聯絡林先生，由其告知我們將貨物送
+      至台中市○○○○路附近時，再以該電話與他聯絡，他即會出面帶路及領貨，
+      隨後鍾璧儒即開車離去，但過後不久鍾璧儒即告知我該批貨物被警方查獲之情
+      形。」等語，核與證人鍾璧儒前所證述之情節大致相符。曾瑞娥於原審法院審
+      理則稱與吳先生及林先生連絡，經本院詳細詰問，則稱吳、林先生如連絡不上
+      ，即連絡趙先生，參諸0000000000、0000000000行動電
+      話均係韋玉公司所使用之門號，益徵本件進口事宜，與韋玉公司之負責人丙○
+      ○及該公司之乙○○、吳光耀非無關聯性，被告所辯純係借牌予林東南，純係
+      林東南之作為云云，然果係單純借牌進口貨物，則借牌人僅與報關行及載運之
+      司機連絡即可，並無由該報關行人員參與之必要，然本件行為，則被告及該韋
+      玉公司之吳光耀暨該公司之專用電話，均與托運行及負責運送之司機，非無聯
+      絡，所辯為卸責之詞，不足採信。證人鍾璧儒雖於台灣高雄地方法院審理中就
+      八十七年十一月間第一次運貨情形，為與在調查局之供述有所出入，然其就八
+      十八年一月四日第二次運貨情形所為之供述大略相同，要不影響本件事實之認
+      定。其在本院調查時之供述，已經究明，應可採擇。
+（四）證人鍾璧儒係以「0000000000趙先生」、「0000000000
+      吳先生」聯絡上開產製品及仿冒行動電話手機等貨物之貨主、運送地點及相關
+      事宜，業據證人鍾璧儒、曾瑞娥證述如前，並有曾瑞娥於偵查中庭提之紙據一
+      張附卷可憑，而被告丙○○對於行動電話號碼0000000000、000
+      0000000為韋玉公司所使用，另被告乙○○對於行動電話號碼0000
+      000000為其個人使用一情，二人並不否認。被告丙○○、乙○○雖辯以
+      ：韋玉公司之收訊不好，故將該三支電話放在公司門口，由韋玉公司之人員公
+      共使用云云。被告吳光耀亦為該公司之職員，於本院調查時稱，亦稱該行動電
+      話，多由其使用，並稱本件當天貨從高雄出關，林東南打我的行動電話給我說
+      貨來了，我應林東南的通知連絡貨車司機去載貨到台中文心路與南三路交叉：
+      ：：：但未到台中，司機在中途就被查獲了等語，與曾瑞娥及童力前於本院調
+      查時隔別訊問均稱係其二人相互連繫托運事宜之情不符，顯然其所為非與其所
+      任職之韋玉公司之業務無關，雖又稱「因為林東南八十七年間向丙○○的韋玉
+      公司借牌，由韋玉貿易公司進口家電用品，林東南有請我幫他用電話聯絡貨車
+      司機，讓我個人賺外快，沒想到林東南卻於年八十八年一月四日進口非法的東
+      西進來，讓我們被冤枉而涉案」，顯係旨在卸免自已之任責及迴護被告丙○○
+      、乙○○之詞，被告丙○○若僅將公司牌照借予被告林東南使用，對於被告林
+      東南進口貨物之事一概不知，為何載貨之托運行及司機係依韋玉公司及被告乙
+      ○○所使用之行動電話號碼對外聯絡貨主？而被告林東南為何不另自行申請行
+      動電話使用，並留其個人申請之行動電話予托運行及司機以供聯絡？顯與常情
+      有悖。況韋玉公司之成員計被告丙○○、乙○○、吳光耀及會計四人，亦為被
+      告丙○○所自承，被告林東南既非該公司之職員，為何得使用上開韋玉公司及
+      被告乙○○之個人行動電話，是韋玉公司與被告林東南間是否僅係單純借牌關
+      係，非可採信。
+（五）証人童力前除於原審偵審中迭次陳述綦詳外，於本院調查時亦稱其前之陳述實
+      在，另稱「我有替他（指林東南）辦進出口的事，他是向丙○○借牌的，但天
+      知道他是要走私物品（應係非法進口），我是請雙吉托運公司的陳太太（指曾
+      瑞娥）即法庭上之這位曾瑞娥運送，報關事宜均與林東南接洽，我有向丙○○
+      查詢是否同意林東南透過韋玉公司從事這些進口業務，丙○○表示同意，林東
+      南說貨是他的，他是向丙○○借牌」，益徵其居中連繫本件報關及運送出關，
+      將運往台中市，所欲收貨及接洽者應僅係林東南，但受託運送之托運公司曾瑞
+      娥及司機鍾璧儒均得悉韋玉公司之行動電話，且只欲與被告丙○○、乙○○及
+      吳光耀連絡，豈能謂僅係單純借牌，而與被告丙○○、乙○○及吳光耀無關。
+（六）被告丙○○雖曾辯稱：「八十八年一月四日走私係由聯泰報關行童力前、貨主
+      林東南、吳安祖等人勾結海關關員，利用拆櫃進倉儲放之機會，以更換（ＭＡ
+      ＲＫ）掉包之手法，矇混免驗放行，順利走私出關。」及「前述走私案遭警方
+      查獲後約一週後某日，童力前、林東南、吳安祖、我本人及古姓海關關員一起
+      在高雄市王牌咖啡屋研討上述走司物品為警查獲等情事善後處理事宜。」等語
+      （見八十八年度偵字第二六四七號卷第五十六、五十七頁），並於本院中請求
+      傳喚吳安祖到庭作證，惟証人吳安祖於原審及本院調查時証述，未曾參與本件
+      進口事宜，復未曾至王牌咖啡二樓，協商賠償及罰鍰之問題等情，不足為有利
+      於被告之証據。
+綜上所述，本件保育類野生動物產製品及仿冒行動電話手機，係由被告丙○○、乙○
+○、林東南及吳光耀共同謀議非法輸入，被告丙○○、乙○○所辯，顯係事後卸責之
+詞，委無可採。本件事證明確，被告二人之犯行洵堪認定。
+三、查被告丙○○、乙○○未經中央主管機關同意，輸入保育類野生動物之產製品，
+    核其所為，係違反野生動物保育法第二十四條第一項之規定而犯野生動物保育法
+    第四十條第一項第一款之未經中央主管機關同意，輸入保育類野生動物之產製品
+    罪。又渠等明知為仿冒品而意圖販賣而輸入，核其所為，均係犯商標法第六十三
+    條之罪。按共同甲犯之成立，有以共同犯意而共同實施犯罪構成要件之行為者，
+    有以自己犯罪之意思，參與犯構成要件以外之行為者，有雖以幫助他人犯罪之意
+    思而參與犯罪構成要件之行為者，有以自己犯罪之意思，事前同謀推由一部分實
+    施犯罪之行為者，均屬之。被告丙○○、乙○○、林東南及吳光耀，有犯意之聯
+    絡及行為分擔，為共同甲犯。被告三人利用不知情之聯泰報關行之負責人童力前
+    代為申報進口，非法輸入保育類野生動物產製品及仿冒品，係間接甲犯。被告丙
+    ○○、乙○○以一輸入行為觸犯二罪名，為想像競合犯，應從一重之野生動物保
+    育法第四十條第一項第一款規定處斷。
+四、原審依野生動物保育法第四十條第一項第一款、第五十二條第一項，商標法第六
+    十三條、第六十四條，刑法第十一條前段、第二十八條、第五十五條，並審酌被
+    告等非法輸入保育類野生動物產製品牟取私利，提供此等製品之非法銷售管道，
+    間接促長野生動物遭受獵殺之機會，侵害屬全體人類所有之「公共財」之瀕臨絕
+  種野生動物，暨為謀一己私利，無視他人商標專用權，更罔顧政府為消除「仿冒
+    王國」所作之努力，惡行非輕，非法輸入之數量甚鉅，犯後否認犯行等一切情狀
+    ，各量處有期徒刑二年六月。扣案之如附表二所示之保育類野生動物產製品，為
+    被告所有，犯罪所得之物，應依野生動物保育法第五十二條第一項後段規定併宣
+    告沒收之。至扣案之如附表三所示之仿冒行動電話手機，依商標法第六十四條規
+    定，不問屬於犯人與否，均宣告沒收。至偵查卷內之扣押清單除附表二、三所示
+    之物以外之物，與本件被告等之犯行，無直接關連性，爰不併予宣告沒收。認事
+    用法尚無不合，量刑亦稱妥適，被告上訴意旨否認犯罪，空言指摘原判決不當，
+    並無可取，為無理由，應予駁回。
+五、公訴人認被告二人之犯行，尚構成懲治走私條例第二條第一項之罪嫌，惟查，該
+    條係以私運「管制物品」進口逾公告數額為其構成要件，然管制物品之定義，業
+    於「管制物品項目及其數額」載明：
+    甲、管制進出口物品
+        一  槍械、子彈、炸藥、毒氣以及其他兵器（包括零件、附件）。
+        二  宣傳共產主義或其他違反國策之書籍、圖片、文件及其他物品。
+        三  偽造或變造之各種幣券、有價證券、郵票、印花稅票及其他稅務單照憑
+            證。
+        四  毒品危害防制條例所列毒品及其製劑、罌栗種子、古柯種子及大麻種子
+            。
+    乙、管制出口物品
+        一  （刪除）
+        二  未經合法授權之翻印書籍（不包括本人自用者在內）及翻印書籍之底版
+            （包括排字版紙型暨照相原版）。
+        三  未經合法授權之翻製唱片（不包括本人自用者在內），翻製唱片之母模
+            （即製唱片之底版）及裝用翻製唱片之圓標暨封套。
+        四  未經合法授權之翻製錄音帶；及錄影帶（不包括本人自用者在內）。
+    丙、管制進口物品
+        一次私運左列物品之一項或數項，其總額由海關照緝獲時之完稅價格計算，
+        超過新台幣拾萬元者（外幣按當時辦理外匯銀行買進價格折算）：
+        一  洋煙、洋酒、捲煙紙。
+        二  （刪除）。
+        三  外國發行之獎券、彩券或其他類似之票券。
+        四  匪偽物品（匪偽生產、製造、加工等之物品，有匪偽文字或圖案之標誌
+            ，或雖無匪偽文字或圖案之標誌而經鑑定確係匪偽之物品者屬之)。
+    丁  自淪陷區私運物品進入本國自由地區或自本國自由地區私運物品前往淪陷區
+        ，其所私運之物品，以管制物品論，除屬於甲項及乙項之物品不限數額外，
+        其餘以私運一項或數項，其總額由海關比照緝獲時之完稅價格計算，超過新
+        台幣拾萬元或重量達一千公斤者，以管制進出口物品論。
+    查本件扣得之保育類野生動物產製品及仿冒行動電話手機，核與該管制物品之項
+    目不合，是公訴人認被告丙○○、乙○○另犯懲治走私條例第二條第一項之罪，
+    尚有誤會，惟公訴意旨認此部分與前開有罪部分有裁判上一罪關係，爰不另為無
+    罪之諭知。
+六、被告林東南待緝獲後另由原審法院審結。
+據上論斷，應依刑事訴訟法第三百六十八條，判決如主文。
+本案經檢察官鄭文貴到庭執行職務。
+中    華    民    國         九十       年      四      月    二十五    日
+                              臺灣高等法院高雄分院刑事第六庭
+                                  審判長法官  王憲義
+                                        法官  范惠瑩
+                                        法官  陳啟造
+右甲本證明與原本無異。
+如不服本判決，應於判決送達後十日內向本院提出上訴狀，其未述理由者並應於提
+出上訴狀後十日內向本院補提理由書（應附繕本)。
+                                      書記官  劉金萍
+中    華    民    國         九十       年      四      月    二十七    日
+附錄本案論罪科刑法條：
+野生動物保育法第四十條第一項第一款
+有下列情形之一，六月以上五年以下有期徒刑，得併科新臺幣三十萬元以上一百五十
+萬元以下罰金：
+違反第二十四條第一項規定，未經中央主管機關同意，輸入或輸出保育類野生動物之
+活體或其產製品者。
+商標法第六十三條：
+明知為前條商品販賣、意圖販賣陳列、輸出或輸入者，處一年以下有期徒刑、拘役或
+科或併科新台幣五萬以下罰金。
+附表二：保育類野生動物產製品部分
+ （以下均為象牙製品）
+一、象牙項鍊一百九十五條
+二、茶壺十個
+三、大天鵝二隻
+四、花瓶三個
+五、印材九十三個
+六、大印材一個
+七、原子筆二支
+八、龍珠四顆
+九、耳掏一百二十支
+十、雕刻耳掏十五支
+十一、刻花五十二個 ，小刻花五十八個
+十二、煙斗六十三支
+十三、圓形（係）印材十粒
+十四、圓形雕刻印材三粒
+十五、裝飾佛像一尊
+十六、蟬六只
+十七、燭台三個
+十八、方型印材三十三個
+十九、髮簪一支
+二十、龍二隻
+二十一、牛一隻
+二十二、小碗十八個
+二十三、飯碗四個
+二十四、珠５ｍ五千粒
+二十五、珠１０ｘ７ｍ三千一百八十粒
+二十六、珠６ｍ二千粒
+二十七、兔八隻
+二十八、雞五隻
+二十九、松鼠二隻
+三十、豬三隻
+三十一、猴子四隻
+三十二、馬一隻
+三十三、海豚一隻
+三十四、蛇二隻
+三十五、鶴一隻
+三十六、螃蟹四隻
+三十七、香蕉六條
+三十八、手鐲二十六個
+三十九、手鐲（雕刻）三十五個
+四十、鶴頂紅二個
+四十一、鳳梨一個
+四十二、犀牛二隻
+四十三、鼻煙壺七個
+四十四、中型雞四隻
+四十五、中型鵝二隻
+四十六、印章二個
+四十七、鸚鵡二隻
+四十八、小佛像十四尊
+四十九、中佛像十二尊
+五十、大佛像十三尊
+五十一、相撲一尊
+五十二、大魚一隻
+五十三、老鼠十隻
+五十四、大煙斗一隻
+五十五、佛像頭六個
+五十六、羊一隻
+五十七、狗一隻
+五十八、虎一隻
+附表三：仿冒行動電話手機部分
+一、ＣＤ９２０型五十五具
+二、ＣＤ９２８型三十二具
+三、掌中星鑽五十具
+                                                                      Ｈ
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Jud12\OK\LAWKSH\CRIMINAL\9005\02\KSHM9052.023] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共73
+											筆 / 現在第65
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=089&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001804&selectedCrtid=KSH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=64&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=66&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=73&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=89%2c%e4%b8%8a%e8%a8%b4%2c1804%2c20001031%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=89&jcase=%e4%b8%8a%e8%a8%b4&jno=1804&jdate=891031&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=89%2c%e4%b8%8a%e8%a8%b4%2c1804%2c20001031%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=89&jcase=%e4%b8%8a%e8%a8%b4&jno=1804&jdate=891031&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('89%2c%e4%b8%8a%e8%a8%b4%2c1804%2c20001031%2c1','KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2','M','89','%e4%b8%8a%e8%a8%b4','1804','891031','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="65"> <input type="hidden" name="v_court" value="KSH 臺灣高等法院 高雄分院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

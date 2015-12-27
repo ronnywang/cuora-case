@@ -1,0 +1,445 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣宜蘭地方法院-刑-96訴266</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+QcMjywzJEk67REhVt1kgclvWf1E=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣宜蘭地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共37
+											筆 / 現在第20
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e8%a8%b4&selectedCrmno=000266&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=19&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=21&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e8%a8%b4%2c266%2c20080625%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=266&jdate=970625&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=96%2c%e8%a8%b4%2c266%2c20080625%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=266&jdate=970625&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('96%2c%e8%a8%b4%2c266%2c20080625%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','96','%e8%a8%b4','266','970625','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">96,訴,266</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">970625</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反<font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣宜蘭地方法院刑事判決　　　　　　　 96年度訴字第266號
+公　訴　人　臺灣宜蘭地方法院檢察署檢察官
+被　　　告　乙○○
+選任辯護人　林世超律師
+上列被告因違反野生動物保育法案件，經檢察官聲請簡易判決處
+刑（96年度偵字第377號），本院羅東簡易庭認不宜逕以簡易判
+決處刑，改移送本院依通常程序審理，判決如下：
+    主  文
+乙○○犯野生動物保育法第四十條第二款之非法買賣保育類野生
+動物罪，處有期徒刑陸月，如易科罰金，以銀元參佰元即新臺幣
+玖佰元折算壹日，減為有期徒刑參月，如易科罰金，以銀元參佰
+元即新臺幣玖佰元折算壹日。緩刑貳年。扣案之戈芬氏鳳頭鸚鵡
+壹隻沒收。
+    事  實
+一、乙○○明知戈芬氏鳳頭鸚鵡（起訴書誤載為小白帽鸚鵡；學
+    名為Catatua goffini）係經保育野生動物之中央主管機關行
+    政院農業委員會指定公告並製作名錄之第一級保育類野生動
+    物即珍貴稀有野生動物，非經主管機關之同意，不得買賣，
+    竟未經主管機關之同意，基於買賣保育類野生動物之犯意，
+    於民國93年間某日，在臺北市○○○路某鳥園，買入戈芬氏
+    鳳頭鸚鵡1隻，販入後即將之帶回其位於宜蘭縣五結鄉○○
+    路○段296號對面之鐵皮屋內意圖賣出。嗣於96年1月12日為
+    警在上址查獲，並扣得戈芬氏鳳頭鸚鵡1隻。
+二、案經海岸巡防署北部地區巡防局報請臺灣宜蘭地方法院檢察
+    署檢察官偵查起訴。
+    理  由
+一、訊據被告乙○○矢口否認有何買賣保育類野生動物之犯行，
+    辯稱：當時扣案的為小白帽鸚鵡，並非戈芬氏鳳頭鸚鵡，戈
+    芬氏鳳頭鸚鵡之照片係事後補拍，且該戈芬氏鳳頭鸚鵡1隻
+    係客人寄放的，並非其所購買欲販售者云云。經查：
+（一）上開事實，業經宜蘭縣政府農業處人員即證人甲○○證述
+      明確，並有行政院農業委員會96年12月12日農授林務字第
+      0961701214號函、現場查獲照片、海岸巡防總局北部地區
+      巡防局97年3月21日宜蘭機字第0970005225號函及所附照
+      片、國立屏東科技大學研究發展處野生動物保育服務中心
+      物種鑑定書、國立屏東科技大學97年5月14日屏科大建野
+      字第0971650020號函在卷可稽，自堪信為真實。
+（二）被告雖辯稱當時扣案的是小白帽鸚鵡，而非戈芬氏鳳頭鸚
+      鵡，戈芬氏鳳頭鸚鵡之照片係事後補拍云云，然查，依海
+      岸巡防署及宜蘭縣政府農業處當日第1次所拍攝之照片觀
+      之，均已有戈芬氏鳳頭鸚鵡在內，而事後補拍者為紅額錐
+      尾鸚鵡、史望森吸蜜鸚鵡、紅領吸蜜鸚鵡、杜可波氏鳳頭
+      鸚鵡及紅翅鸚鵡，並未補拍戈芬氏鳳頭鸚鵡等情，有海岸
+      巡防總局北部地區巡防局97年3月21日宜蘭機字第0970005
+      225號函及所附照片、宜蘭縣政府97年3月7日府農畜字第
+      0970030787號函在卷可稽，且證人甲○○亦證述：「當初
+      我們查獲的時候，也不知道正確名稱是戈芬氏，是被告說
+      牠是小白帽，我們確定牠是鸚形目現生所有種，就是保育
+      類的……戈芬氏鳳頭鸚鵡及北區巡防局扣押物品目錄表及
+      保育警察隊代保管條中編號9的小白帽」等語明確（見本
+      院卷第256、257頁筆錄），顯見當時保管條中所稱之「小
+      白帽鸚鵡」應係戈芬氏鳳頭鸚鵡之誤，況被告對於「小白
+      帽」與「小白（即戈芬氏鳳頭鸚鵡）」有所不同並不知悉
+      ，且經提示當日海岸巡防總局北部地區巡防局所拍攝之照
+      片予被告檢視，亦無被告所稱之「小白帽鸚鵡」在內，此
+      均為被告自承在卷（見本院卷第262頁筆錄），故可知被
+      告確為警查獲有戈芬氏鳳頭鸚鵡1隻，被告辯稱當時扣案
+      的是小白帽鸚鵡，而非戈芬氏鳳頭鸚鵡，戈芬氏鳳頭鸚鵡
+      之照片係事後補拍云云，自屬無據。
+（三）被告雖又辯稱該戈芬氏鳳頭鸚鵡為客人所寄放云云，然查
+      ，被告前於警詢、偵查中，均自承扣案之鳥類及鸚鵡均係
+      其向他人買入而要販賣之用，均未提及有何鳥類或鸚鵡係
+      客人所寄放，且縱被告當時將「戈芬氏鳳頭鸚鵡」誤為「
+      小白帽鸚鵡」，亦僅為就該鸚鵡之名稱有所誤解，對於是
+      否為他人寄放一節自無何誤解之可能，而被告於警詢、偵
+      查中何以均未提及有客人寄放之情形，已有可疑，況被告
+      對於何人寄放等細節，均表示不清楚，亦與常情有違，故
+      被告於本院辯稱係他人所寄放云云，顯係事後卸責之詞，
+      不足採信。
+（四）綜上所述，被告確有買賣戈芬氏鳳頭鸚鵡之犯行，而戈芬
+      氏鳳頭鸚鵡屬鸚形目動物現生所有種，業經保育野生動物
+      之中央主管機關行政院農業委員會依野生動物保育法第4
+      條規定指定公告列為第1級保育類野生動物即珍貴稀有野
+      生動物，且列入野生動物保育法第55條指定公告之名錄中
+      ，此有卷附行政院農業委員會96年9月13日農授林務字第
+      0961614614號函、96年12月12日農授林務字第096170 12
+      14號函為憑，是被告所買賣之戈芬氏鳳頭鸚鵡，確為野生
+      動物保育法所稱之珍貴稀有野生動物，而屬保育類野生動
+      物無訛，被告未經主管機關同意，而買賣保育類野生動物
+      之事證明確，被告犯行堪以認定，應予依法論科。
+二、查被告行為後，前於94年2月2日修正公布之刑法，已自95
+    年7月1日起施行，修正後刑法第2條之規定，乃係關於新舊
+    法比較適用之準據法，其本身無關行為可罰性要件之變更，
+    故於95年7月1日刑法修正施行後，如有涉及比較新舊法之問
+    題，即應逕依修正後刑法第2條第1項規定，為「從舊從輕」
+    之比較（最高法院95年度第8次刑事庭會議決議意旨參照）
+    。經查：
+（一）修正後刑法第41條第1項前段有關易科罰金折算標準之規
+      定為：「犯最重本刑為五年以下有期徒刑以下之刑之罪，
+      而受六個月以下有期徒刑或拘役之宣告者，得以新臺幣一
+      千元、二千元或三千元折算一日，易科罰金。」，而修正
+      前同條項就易科罰金之折算標準係規定：「得以一元以上
+      三元以下折算一日，易科罰金」，再依修正前罰金罰鍰提
+      高標準條例第2條（現已刪除）之規定，就其原定數額提
+      高為100倍折算1日，即係以銀元100元、200元、300元折
+      算1日，折算為新臺幣幣值後，則為以新臺幣300元、600
+      元、900元折算1日。是比較修正前後之易科罰金折算標準
+      ，自以行為時即修正前之規定，較有利於被告。本案既仍
+      適用修正前刑法第41條第1項前段之規定，定被告易科罰
+      金之折算標準，自仍應適用修正前罰金罰鍰提高標準條例
+      第2條之規定提高折算之罰金數額，亦此敘明，且為免與
+      刑法第41條第1項修正施行後所定易科罰金折算標準改採
+      新臺幣計算產生混淆誤解起見，另引用現行法規所定貨幣
+      單位折算新臺幣條例第2條明定易科罰金折算標準及折算
+      新臺幣之數額，以資明確。
+（二）依修正前刑法第74條第1款之規定，受2年以下有期徒刑、
+      拘役或罰金之宣告，且「前未曾受有期徒刑以上刑之宣告
+      」者，如認為以暫不執行為適當者，始得宣告2年以上5年
+      以下之緩刑。修正後刑法第74條第1項第1款則規定受2年
+      以下有期徒刑、拘役或罰金之宣告，且「前未曾因故意犯
+      罪受有期徒刑以上刑之宣告」者，如認為以暫不執行為適
+      當者，即得宣告2年以上5年以下之緩刑。然因修正後同條
+      第2項另增列「緩刑宣告，得斟酌情形，命犯罪行為人為
+      下列各款事項：(1)向被害人道歉。(2)立悔過書。(3)向被害
+      人支付相當數額之財產或非財產上之損害賠償。(4)向公庫
+      支付一定之金額。(5)向指定之公益團體、地方自治團體或
+      社區提供40小時以上240小時以下之義務勞務。(6)完成戒
+      癮治療、精神治療、心理輔導或其他適當之處遇措施。(7)
+      保護被害人安全之必要命令。(8)預防再犯所為之必要命令
+      。」之規定，是比較新舊法之結果，修正前刑法即行為時
+      法有利於被告，應適用修正前刑法。
+三、按保育類野生動物，依野生動物保育法第35條第1項規定，
+    非經主管機關之同意，不得買賣或在公共場所陳列、展示。
+    被告違反該項規定，未經主管機關同意，基於買賣保育類野
+    生動物之犯意買入戈芬氏鳳頭鸚鵡，故核其所為，係犯野生
+    動物保育法第40條第2款之未經同意買賣保育類野生動物罪
+    。爰審酌被告販賣保育類野生動物，危害自然生態之平衡，
+    惟其販賣數量非鉅，及其素行、犯罪所生危害、犯後態度等
+    一切情狀，量處如主文所示之刑，並諭知易科罰金之折算標
+    準。又查被告犯罪之時間，係在96年4月24日以前，依中華
+    民國九十六年罪犯減刑條例第2條第1項第3款、第7條、第9
+    條之規定，應減其宣告刑2分之1，爰減處如主文所示之刑，
+    並諭知易科罰金之折算標準。末查被告前未曾因故意犯罪受
+    有期徒刑以上刑之宣告，此有卷附臺灣高等法院被告前案紀
+    錄表可按，其因一時貪圖小利，短於思慮，偶罹刑典，經此
+    罪刑之宣告後，當知所警惕，信無再犯之虞，本院認所宣告
+    之刑以暫不執行為適當，爰併宣告緩刑2年，以啟自新。扣
+    案之戈芬氏鳳頭鸚鵡1隻，係查獲之保育類野生動物，爰依
+    野生動物保育法第52條前段沒收之。至如附表所示之第二級
+    保育類野生動物，均屬人工飼養、繁殖之野生動物，經核准
+    輸入申請許可進口，復無證據證明係被告供犯罪所用或犯罪
+    預備之物，自亦無從宣告沒收，併此敘明。
+四、公訴意旨另以：被告明知未經主管機關同意，不得買賣或在
+    公共場所陳列、展示保育類野生動物，竟於94年間購買保育
+    類野生動物大陸畫眉鳥、九官鳥、灰鸚鵡、金太陽鸚鵡、清
+    海鸚鵡、紅星星鸚鵡、葵花鸚鵡、和尚鸚鵡、紅額錐屋鸚鵡
+    、閃電鸚鵡、紅領鸚鵡、澳洲彩虹鸚鵡、路頂客鸚鵡、掘穴
+    鸚鵡、大紅兜鸚鵡、杜可波士鸚鵡、綠甲太陽鸚鵡、紅龍鸚
+    鵡，並在其位於宜蘭縣五結鄉○○路○段296號對面鐵皮屋內
+    陳列，供不特定之顧客選購，並於94年至96年1月12日間販
+    賣金太陽鸚鵡1隻、清海鸚鵡5隻、和尚鸚鵡5隻、澳洲彩虹
+    鸚鵡1隻予姓名年籍不詳之人，因認被告涉犯野生動物保育
+    法第40條第2款之罪嫌云云。按犯罪事實應依證據認定之，
+    無證據不得認定犯罪事實。又不能證明被告犯罪者，應諭知
+    無罪之判決，刑事訴訟法第154條第2項、第301條第1項分別
+    定有明文。本件公訴人認被告涉有前揭犯行，無非係以被告
+    之自白、國立屏東科技大學野生動物保育服務中心鑑定函、
+    現場照片等件為證。訊據被告則堅決否認上揭犯行，辯稱：
+    上開鳥類均係人工飼養繁殖之野生動物，且經申請許可進口
+    ，並未違法等語。經查，扣案如附表編號1、2所示之鳥類及
+    附表編號3至18號所示之鸚鵡，均係人工飼養繁殖而申請許
+    可進口一節，業經被告提出海關進口文件為證，並經宜蘭縣
+    政府農業處人員即證人甲○○逐一核對被告提出之進口證明
+    文件無訛，堪信為真實，而扣案之上開鳥類及鸚鵡，均為鸚
+    形目動物現生所有種，均屬依野生動物保育法第4條第2項規
+    定指定公告為珍貴稀有野生動物，依同法第35條規定，非經
+    主管機關同意，不得買賣或在公共場所陳列、展示，然適用
+    該法所規定之人工飼養、繁殖之野生動物，依同法第55條規
+    定，須經中央主管機關指定公告，而扣案上開鳥類及鸚鵡，
+    均未列入指定公告之名錄內，亦經行政院農業委員會函覆明
+    確，此有行政院農業委員會96年9月13日農授林務字第09616
+    14614號函、96年12月12日農授林務字第0961701214 號函在
+    卷可稽，故上開扣案之鳥類及鸚鵡既均未列入指定公告之名
+    錄內，而均係人工飼養繁殖而申請許可進口，自無野生動物
+    保育法第35條之適用，從而，公訴人認被告此部分亦係違反
+    野生動物保育法第40條第2款之規定，即有未合，惟公訴意
+    旨認此部分與前揭論罪科刑之部分為事實上一罪，爰不另為
+    無罪之諭知。
+據上論斷，應依刑事訴訟法第452條、第299條第1項前段，野生
+動物保育法第40條第2款、第52條前段，刑法第11條前段、第2條
+第1項前段，修正前刑法第41條第1項前段、第74條第1項第1款，
+修正前罰金罰鍰提高標準條例第2條，現行法規所定貨幣單位折
+算新臺幣條例第2條，中華民國九十六年罪犯減刑條例第2條第1
+項第3款、第7條、第9條，判決如主文。
+本案經檢察官張立言到庭執行職務
+中　　華　　民　　國　　97　　年　　6 　　月　　25　　日
+                  刑事第二庭審判長法  官  黃永勝
+                                  法　官  陳映佐
+                                  法　官  鄭貽馨
+以上正本證明與原本無異。
+如不服本判決應於收受本判決後10日內，向本院提出上訴書狀，
+並應敘述具體理由。若未敘述理由者，應於上訴期間屆滿後20日
+內，向本院補提理由書狀 (均須按他造當事人之人數附繕本)。
+                                  書記官  林嘉萍
+中　　華　　民　　國　　97　　年  　6　 　月　　26　　日
+附錄本案論罪科刑法條全文：
+野生動物保育法第40條
+有下列情形之一，處 6 月以上 5 年以下有期徒刑，得併科新臺
+幣 30 萬元以上 150 萬元以下罰金：
+一、違反第 24 條第 1 項規定，未經中央主管機關同意，輸入或
+    輸出保育類野生動物之活體或其產製品者。
+二、違反第 35 條第 1 項規定，未經主管機關同意，買賣或意圖
+    販賣而陳列、展示保育類野生動物或瀕臨絕種及珍貴稀有野
+    生動物產製品者。
+附表
+┌──┬────────┬───────────────┬───┬────┐
+│編號│    中文名稱    │             學名             │ 數量 │保育等級│
+├──┼────────┼───────────────┼───┼────┤
+│1   │九官鳥          │Gracula religiosa             │1隻   │第2級   │
+├──┼────────┼───────────────┼───┼────┤
+│2   │畫眉            │Garrulax canorus              │3隻   │第2級   │
+├──┼────────┼───────────────┼───┼────┤
+│3   │非洲灰鸚鵡      │Psittacus erithacus           │1隻   │第2級   │
+├──┼────────┼───────────────┼───┼────┤
+│4   │太陽錐尾鸚鵡    │Aratinga solstitialis         │5隻   │第2級   │
+├──┼────────┼───────────────┼───┼────┤
+│5   │綠頸吸蜜鸚鵡    │Trichoglossus haematodus      │6隻   │第2級   │
+│    │                │micropteryx                   │      │        │
+├──┼────────┼───────────────┼───┼────┤
+│6   │喋喋吸蜜鸚鵡    │Lorius garrulus               │5隻   │第2級   │
+├──┼────────┼───────────────┼───┼────┤
+│7   │葵花鳳頭鸚鵡    │Cacatua galerita              │2隻   │第2級   │
+├──┼────────┼───────────────┼───┼────┤
+│8   │和尚鸚鵡        │Myiopsitta monachus           │5隻   │第2級   │
+│    │                │                              │      │        │
+├──┼────────┼───────────────┼───┼────┤
+│9   │紅額錐尾鸚鵡    │Aratinga wagleri              │1隻   │第2級   │
+│    │                │                              │      │        │
+├──┼────────┼───────────────┼───┼────┤
+│10  │藍紋吸蜜鸚鵡    │Eos reticulata                │1隻   │第2級   │
+│    │                │                              │      │        │
+├──┼────────┼───────────────┼───┼────┤
+│11  │紅色吸蜜鸚鵡    │Eos bornea                    │1隻   │第2級   │
+├──┼────────┼───────────────┼───┼────┤
+│12  │史望森吸蜜鸚鵡  │Trichoglossus haematodus      │2隻   │第2級   │
+│    │                │moluccanus                    │      │        │
+├──┼────────┼───────────────┼───┼────┤
+│13  │紅領吸蜜鸚鵡    │Trichoglossus haematodus      │1隻   │第2級   │
+│    │                │rubritorquis                  │      │        │
+├──┼────────┼───────────────┼───┼────┤
+│14  │巴塔哥尼亞錐尾鸚│Cyanoliseus patagonus         │1隻   │第2級   │
+│    │鵡              │                              │      │        │
+├──┼────────┼───────────────┼───┼────┤
+│15  │黃兜吸蜜鸚鵡    │Lorius chlorocercus           │2隻   │第2級   │
+├──┼────────┼───────────────┼───┼────┤
+│16  │杜可波式鳳頭鸚鵡│Catatua ducorpsii             │1隻   │第2級   │
+├──┼────────┼───────────────┼───┼────┤
+│17  │綠頰錐尾鸚鵡    │Pyrrhura molinae              │2隻   │第2級   │
+├──┼────────┼───────────────┼───┼────┤
+│18  │紅翅鸚鵡        │Aprosmictus erythropterus     │1隻   │第2級   │
+└──┴────────┴───────────────┴───┴────┘
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\judday\OK\LAWILD\CRIMINAL\9706\25\ILDM976P.008] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共37
+											筆 / 現在第20
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=096&selectedCrmid=%e8%a8%b4&selectedCrmno=000266&selectedCrtid=ILD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=19&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=21&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=96%2c%e8%a8%b4%2c266%2c20080625%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=266&jdate=970625&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=96%2c%e8%a8%b4%2c266%2c20080625%2c1&v_court=ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=96&jcase=%e8%a8%b4&jno=266&jdate=970625&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('96%2c%e8%a8%b4%2c266%2c20080625%2c1','ILD+%e8%87%ba%e7%81%a3%e5%ae%9c%e8%98%ad%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','96','%e8%a8%b4','266','970625','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="20"> <input type="hidden" name="v_court" value="ILD 臺灣宜蘭地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

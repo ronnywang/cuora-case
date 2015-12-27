@@ -1,0 +1,414 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣高等法院-刑-90上更(一)336</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+8oa+pTkVg5vs2VgnTwPp72r81/w=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共52
+											筆 / 現在第38
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e4%b8%8a%e6%9b%b4(%e4%b8%80)&selectedCrmno=000336&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=39&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=52&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e4%b8%8a%e6%9b%b4(%e4%b8%80)%2c336%2c20010529%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e6%9b%b4(%e4%b8%80)&jno=336&jdate=900529&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=90%2c%e4%b8%8a%e6%9b%b4(%e4%b8%80)%2c336%2c20010529%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e6%9b%b4(%e4%b8%80)&jno=336&jdate=900529&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('90%2c%e4%b8%8a%e6%9b%b4(%e4%b8%80)%2c336%2c20010529%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','90','%e4%b8%8a%e6%9b%b4(%e4%b8%80)','336','900529','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">90,上更(一),336</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">900529</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體"><font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　　　　　 九十年度上更(一)字第三三六號
+　　上　訴　人
+　　即　被　告　乙 ○ ○
+　　　　　　　　張劉素真
+　　　　　　　　甲 ○ ○
+　　共 同選 任
+　　辯　護　人　賴 玉 梅
+　　　　　　　　黃 紀 錄
+　　　　　　　　林 正 隆
+右上訴人等因違反野生動物保育法案件，不服台灣板橋地方法院八十六年度訴字第九
+九八號，中華民國八十七年三月十一日第一審判決（起訴案號：台灣板橋地方法院檢
+察署八十六年度偵字第四七四四號、第四七四五號），提起上訴，經判決後，由最高
+法院發回更審，本院判決如左：
+    主  文
+原判決撤銷。
+張劉素真共同連續違反保育類野生動物產製品，非經主管機關之同意，不得買賣之規
+定，未經主管機關同意，買賣保育類野生動物產製品，處有期徒刑陸月，如易科罰金
+，以佰元折算壹日。
+乙○○、甲○○共同連續違反保育類野生動物產製品，非經主管機關之同意，不得買
+賣之規定，未經主管機關同意，買賣保育類野生動物產製品，各處有期徒刑柒月，均
+緩刑肆年。
+扣案之犀牛角伍支又四塊、犀牛角粉壹瓶（搜索扣押證明筆錄編號１、２、４、５、
+６、８、９、１０、、）、挫刀支、虎頭夾壹座及篩子壹個均沒收。
+    事  實
+一、張劉素真於民國（下同）七十八年間，因賭博案件，經台灣嘉義地方法院判處有
+    期徒刑七月，併科罰金二萬元，緩刑四年確定，仍不知警惕悔改。復與其夫乙○
+    ○在台北縣樹林鎮○○街一六五巷二號一樓，經營日月金龍八寶殿神壇，由乙○
+    ○任負責人，請甲○○為信徒作跌打損傷之推拿。三人均明知犀牛係經主管機關
+    行政院農業委員會列為保育類野生動物保護，未經主管機關同意，不得買賣該保
+    育類野生動物及其製品。竟基於共同及概括之犯意，意圖營利，由乙○○、張劉
+    素真夫妻於八十二年間，在嘉義縣太保市埤鄉里埤麻腳，以新台幣（下同）一百
+    萬元之價格，向蕭金田（業經台灣嘉義地方法院判處有期徒刑九月確定在案）販
+    入犀牛角五支，另於八十二年間，由乙○○在台北市○○路跳蚤市場向不詳姓名
+    者販入犀牛角四塊後，自八十二年十月間起至八十五年十月二十九日止，於日月
+    金龍八寶神壇，由甲○○將犀牛角研磨成粉末狀，每罐中藥摻入約一台錢重之犀
+    牛角粉，以每罐五千元之價格，販賣予不特定至該神壇求神問卜之患者，用以內
+    服解熱或外傷敷藥之用。迨八十五年十月廿九日下午三時許，為警在該壇內查獲
+    張劉素真﹑甲○○二人，並扣得乙○○、張劉素真所有之研磨犀牛角之挫刀三支
+    ，虎頭夾乙座及篩子乙個，復循線至乙○○﹑張劉素真在台北縣樹林鎮○○路二
+    五六號之二住處，在其女臥室內扣得犀牛角五支，犀牛角四塊（搜索扣押證明筆
+    錄編號１、２、４、５、６、８、９、１０、）及犀牛角粉乙瓶（編號）。
+二、案經內政部警政署刑事警察局移送台灣基隆地方法院檢察署檢察官呈請台灣高等
+    法院檢察署令轉台灣板橋地方法院檢察署檢察官偵查起訴。
+    理  由
+一、訊據上訴人即被告乙○○﹑張劉素真、甲○○均矢口否認有何販賣犀牛角之犯行
+    ，被告乙○○辯稱：查扣之犀牛角，係十餘年前其父罹犯重疾時，嘉義同鄉友人
+    蕭金田所致贈，供其父治病之用，其父過世之後，乃將該塊犀牛角保存下來，另
+    八年前遷居在台北市○○路跳蚤市場，向不詳姓名路邊小販購買部分塊狀犀牛角
+    ，供自己或親戚、朋友有高燒不退時使用；又將犀牛角磨成粉末在日月金龍八寶
+    神壇供人治病，或加入其他藥材供推拿外敷之用，並未向人收取任何費用，僅有
+    些信徒於拿取藥物後，會自動添給香油錢，以表謝意，並無販賣行為云云。被告
+    張劉素真辯稱：查扣之犀牛角都是其先生乙○○取得，不清楚來源，亦未僱用甲
+    ○○研磨為粉末，在日月金龍八寶神壇以每罐五千元價格出售，並無販賣行為云
+    云。被告甲○○辯稱：我是日月金龍神壇之義工，為信徒推拿以民俗療法治病，
+    該犀牛角係由其研磨後，供病患活絡筋脈、通氣血之用，並未向病患收取費用及
+    金錢，僅由信徒添加香油錢而已，並無販賣犀牛角之行為云云。
+二、然查：
+（一）右揭犯罪事實，業據被告張劉素真於警訊時自白不諱，供承：「被警方查扣之
+      犀牛角七支（其後鑑定二支為黃牛角），是我和我先生（乙○○）於三年多前
+      向嘉義縣之蕭金田先生購買，總價約一百萬元，我將購得整隻之犀牛角部分研
+      磨成粉狀，摻入其他中藥販賣給客人」、「我從事販賣犀牛角粉有三、四年之
+      久，我利用客人到育英街一六五巷二號一樓之神壇求神問卜時介紹給客人使用
+      ，並由客人相互介紹向我購買，每罐加入一台錢犀牛角粉之中藥，價格約五千
+      元。」、「購得犀牛角減少之部分均磨成粉末，除警方查扣部分粉末外，餘均
+      已售予他人，研磨犀牛角部分由甲○○負責。」、「我先生乙○○偶爾參與販
+      賣，大部分由我負責販賣。」、「甲○○是我請來幫忙研磨犀牛角粉之師傅，
+      並幫客人處理酸痛之問題，有時會幫我販售犀牛角粉給客人。」（見警訊卷第
+      三至五頁），被告甲○○於警訊中亦供承：「我在日月八寶殿主要性質是為患
+      者作跌打損傷之推拿。」、「負責人是乙○○。神壇主要性質為替患者看運途
+      、解運、收驚等，患者如有發燒、中風等病痛，就用犀牛角粉及腸胃藥等給患
+      者服用。」、「犀牛角就是我與張劉素真的丈夫乙○○一起到嘉義購買的。」
+      、「我記得約買六、七支犀牛角。」、「我與張劉素真及他先生乙○○都是朋
+      友關係，張劉素真所販賣之犀牛角粉都是我研磨成粉的無誤。」「以前是有在
+      販賣」等語（見警訊卷第八頁至第九頁），被告乙○○於本院也供承在八年前
+      在台北市○○路跳蚤市場販入犀牛角，是一塊一塊的（見本院九十年四月三十
+      日訊問筆錄）。
+（二）本件經警當場在乙○○、張劉素真台北縣樹林鎮○○路二五六號之二住處其女
+      臥室內查獲犀牛角五支、犀牛角四塊（編號１、２、４、５、６、８、９、１０
+      、）及犀牛角粉乙瓶（編號）扣案，經行政院農業委員會送請法務部調查
+      局鑑定結果，確屬保育類野生動物產製品之犀牛角、犀牛角粉，有行政院農業
+      委員會八十六年一月十四日八六農林字第八六一００六六六Ａ號函﹑法務部調
+      查局八十五年十二月十七日（八五）陸字第八五一三四００三號檢驗通知書各
+      乙份在卷可稽（見警卷第十二至十六頁）。被告等上開陳述，應與事實相符。
+（三）販賣犀牛角予被告乙○○、張劉素真夫妻之蕭金田，雖否認販賣犀牛角云云。
+      然其陳述，不過因自己涉及刑責所為推諉之詞。且其違反野生動物保育法案件
+      ，經台灣嘉義地方法院判處有期徒刑九月，上訴台灣高等法院台南分院後，折
+      服判決，撤回上訴，並執行徒刑在案，有本院調取上開卷宗及台灣嘉義地方法
+      院八十七年度訴緝字第十八號刑事判決在卷可憑（見本院上訴字卷第六十四頁
+      至第六十七頁），益證被告等確有販賣犀牛角之犯行。
+（四）本案之查獲，係因被告乙○○在其台北縣樹林鎮住處展示多支犀牛角，經人向
+      內政部警政署刑事警察局檢舉被告乙○○走私、販賣犀牛角，內政部警政署刑
+      事警察局接獲線報，會同行政院農業委員會野生動物保護小組人員，請得檢察
+      官搜索票在被告乙○○、張劉素真所經營之台北縣樹林鎮○○街一六五巷二號
+      一樓日月金龍八寶殿神壇及同鎮○○路二五六號之二（三樓）住處搜索，果在
+      該神壇內查獲研磨犀牛角之挫刀三支，虎頭夾乙座及篩子乙個，復在其台北縣
+      樹林鎮○○路二五六號之二住處，扣得犀牛角五支、犀牛角四塊及犀牛角粉乙
+      瓶等情，業據查獲本案之警員顏旺盛、李中興於原審供述綦詳（見原審卷第五
+      十六頁、第一二０頁反面、第一二一頁反面），復有檢舉筆錄一份（見原審卷
+      第一二八頁、第一二九頁）、搜索扣押證明筆錄二件及挫刀三支、虎頭夾乙座
+      、篩子乙個、犀牛角五支、犀牛角四塊、犀牛角粉一瓶扣案卷可稽。苟被告等
+      無販賣之行為，他人何能知悉而檢舉，並果在該日月金龍八寶神壇及台北縣樹
+      林鎮○○路二五六號之二住處查獲前開犀牛角、犀牛角粉及研磨工具？
+（五）犀牛係保育類野生動物，國際保護動物組織即因國人素有使用犀牛角及犀牛角
+      粉之迷信習慣，而在國際社會大力抨擊我國。美國亦因而以貿易制裁方式，要
+      求我國對野生動物嚴加立法保護。我國政府為順應國際保育野生動物之潮流，
+      糾正國人不正當之迷思，乃嚴格立法並嚴加取締輸入、輸出及販賣犀牛角及犀
+      牛角粉等犯罪行為，政府及媒體均有大幅宣導。被告等坦承知悉販售犀牛角、
+      犀牛角粉為違法行為，自不可能大而遑之，公然陳列該犀牛角及犀牛角粉以供
+      販售，將所持有供販賣之犀牛角及犀牛角粉加以藏匿於外人不易查知之處所，
+      於販售時再取出交易，乃屬當然。被告張劉素真辯稱該犀牛角及犀牛角粉係在
+      女兒臥室內查獲，係供家人或親朋好友之用，並未販賣云云，與其知悉犯法，
+      私下偷偷販賣之情相符，不能因犀牛角等在其女臥室內查獲，為其有利之認定
+      。
+（六）被告乙○○雖另辯謂查扣之犀牛角，係蕭金田於十二年前其父生病時所致贈，
+      供其父治療病所用云云，被告張劉素真於偵查及原審中亦附合其言。然被告乙
+      ○○之父張金地係於七十四年一月十七日死亡，蕭金田在六十九年間，即因竊
+      盜案件，經台灣高等法院台南分院判處有期徒刑十月，並於刑之執行前令入勞
+      動場所強制工作，於七十年九月十日移送台灣警備總司令部職業訓導第二總隊
+      執行，至七十五年五月一日始由台灣嘉義地方法院裁定免除其強制工作之繼續
+      執行，有台灣高等法院檢察署刑案資料簡覆表、乙○○戶籍謄本、台灣嘉義地
+      方法院八十七年度訴緝字第一八號刑事判決在卷可按。蕭金田既在張金地死亡
+      前即因竊盜案件，在台灣警備總司令部職業訓導第二總隊執行強制工作，直至
+      張金地死亡後始免除其強制工作之繼續執行，蕭金田自不可能在張金地患病時
+      致贈犀牛角予被告乙○○。另被告甲○○於警訊中稱乙○○購入之價格係每支
+      七、八千元云云，惟其並非親自購買，應以親自購買之被告張劉素真所供該犀
+      牛角係以一百萬元之價格向蕭金田販入者為可採。
+（七）至被告張劉素真、乙○○、甲○○雖辯稱該犀牛角並未供販賣之用，僅於家人
+      及親朋好友生病時免費提供，或給予信徒供為退燒或跌打損傷之用，由信徒自
+      由供給香油錢云云。惟被告乙○○、張劉素真夫妻係以一百萬元之高價販入該
+      犀牛角，而被告等除經營該日月金龍八寶神壇外，並無其他收入可供生活之需
+      ，食指浩繁，如何能免費供給該犀牛角及其他中藥而不收費？況被告張劉素真
+      警訊中已坦承渠等係將一台錢重之犀牛角摻入中藥內，再以每罐五千元之價格
+      販售牟利，所辯未收費云云，要係避重就輕之詞。
+（八）查獲本案之警員顏旺盛於原審證稱，不記得被告張劉素真於警訊中是否曾供承
+      該犀牛角粉摻入中藥內，以每罐五千元之價格販售牟利云云（見原審卷第五十
+      六頁）。然被告張劉素真於警訊之陳述，已記明筆錄，並經被告張劉素真簽名
+      並按捺指印無訛，且無任何確切證據足資証明該警訊筆錄不實。該警員顏旺盛
+      制作筆錄迄原審訊問時，已相隔一年四月之久，難期其對一年四月前對被告張
+      劉素真制作筆錄之內容，仍能記憶無誤，該警員顏旺盛所述，亦不足為被告等
+      有利之認定。
+（九）扣案之犀牛角及犀牛角粉係在被告乙○○、張劉素真之女兒臥房內所查扣，查
+      緝當時被告乙○○之女反鎖房門長達半小時之久，抗拒查緝，已使任何人有相
+      當之懷疑。嗣於查獲該犀牛角及犀牛角粉後，因被告張劉素真當場否認該犀牛
+      角及犀牛角粉為其所有，故警向被告張劉素真告知「妳說東西不是妳的，那因
+      為在妳女兒房間查到，就帶妳女兒回去調查」云云，業據證人顏旺盛於原審供
+      明（見原審第五十六頁），查緝之警察顏旺盛處理並無不妥或違法之處。況被
+      告張劉素貞嗣後於警訊中已坦承前開犯行，警訊筆錄確係張劉素貞所供而記載
+      ，亦據證人即承辦警員李中興、顏旺盛於原審供明在卷（見原審第一二○頁反
+      面至第一二一頁反面），被告張劉素貞指稱其警訊筆錄所以坦承犯罪，係因警
+      表示如不承認即抓其女兒，所為不實之供述云云，自不足採信。
+（十）犀牛係屬保育類野生動物，犀牛角及犀牛角粉，為野生動物保育法規範保護，
+      未經主管機關同意不得任意輸入、輸出、買賣、意圖販賣而陳列、展示，經行
+      政院農業委員會函述甚明，有該會八十六年一月十四日（八六）農林字第八六
+      一００六六六Ａ號函在卷可稽，被告等明知而販賣犀牛角粉牟利，自應依野生
+      動物保育法論處。
+（十一）綜上所論，被告等所辯，均事後翻異卸責之詞，委不足採，被告等所犯事證明
+      確，犯行均洵堪認定。
+三、核被告等三人所為，均係違反野生動物保育法第三十五條第一項有關保育類野生
+    動物產製品，非經主管機關之同意，不得買賣之規定，核犯野生動物保育法第四
+    十條第一項第二款之罪。被告張劉素真、乙○○、甲○○三人間，有犯意聯絡及
+    行為分擔，均為共同正犯。被告等先後多次販賣犀牛角之犯行，時間緊接，方法
+    相同，且犯構成要件相同之罪名，顯係基於概括之犯意反覆為之，應依連續犯規
+    定論以一罪。
+四、原審以被告等罪證明確予以論科，固非無見，惟查(一)原審未明確審認該犀牛角係
+    由被告張劉素真、乙○○向蕭金田以一百萬元販入之事實，尚有未洽。(二)原判決
+    認定被告乙○○與張劉素真於八十一、二年間，向蕭金田購買，而由被告甲○○
+    研磨成粉末出售之動物角七支，均為犀牛角，係以被告張劉素真於警訊時供承：
+    經警查扣之犀牛角七支，係其與乙○○共同向蕭金田購入等自白，及行政院農業
+    委員會八十六年一月十四日農林字第八六一○○六六六Ａ號函附之法務部調查
+    局八十五年十二月十七日陸字第八五一三四○○三號檢驗通知書為憑。然依卷
+    內資料，經警於被告乙○○與張劉素真住處查獲之動物角七支，警方於其製作之
+    搜索扣押證明筆錄上，係載為「犀牛角七支，編號一至七號」（見警卷第十一頁
+    ）；而依法務部調查局鑑定結果，僅其中編號一、二、四、五、六號等五支為犀
+    牛角；其餘編號三及七號等二支則為黃牛角（見警卷第十三、十六頁所附上開行
+    政院農業委員會函及法務部調查局檢驗通知書）。被告乙○○、張劉素真所購入
+    之動物角七支，應非均屬保育類野生動物犀牛之產製品甚明。原判決認定之事實
+    ，與法務部調查局鑑定結果不相適合，自有證據上理由矛盾之違法。(三)本件除上
+    開犀牛角五支之外，尚查獲犀牛角四塊（即搜索扣押證明筆錄上編號８至部分
+    ），原審未調查審認其如何販入，亦有未當。被告等上訴意旨，仍執前詞，否認
+    犯罪，固不足採，惟原判決既有可議，自屬無可維持，應由本院將原判決撤銷改
+    判。爰審酌被告三人之犯罪動機、目的、手段、所生危害、犯罪後態度及張劉素
+    貞罹患子宮頸癌，有台北榮民總醫院診斷證明書可按等一切情狀，分別量處如主
+    文第二、三項所示之刑。被告犯罪行為後，刑法第四十一條業經於九十年一月十
+    日修正公布，同年月十二日施行。關於易科罰金之折算標準，其法定本刑部分，
+    由原三年以下有期徒刑，提高為五年以下有期徒刑，經比較新舊法之結果，以裁
+    判時法律，有利於被告，張劉素貞部分所處有期徒刑六月，並依現行法律規定，
+    諭知易科罰金之折算標準。惟念被告甲○○僅受僱於乙○○、張劉素真，尚非主
+    謀，未曾受有期徒刑以上刑之宣告，被告乙○○（原名張榮奇）雖曾於六十七年
+    三月二十二日，因過失致死案件，經台灣嘉義地方法院判處有期徒刑五月確定，
+    於同年四月十一日易科罰金執行完畢，惟其於有期徒刑執行完畢後，五年內未再
+    受有期徒刑以上刑之宣告，有台灣高等法院檢察署刑案紀錄簡覆表在卷可憑，二
+    人經此罪刑宣告，當知警惕，應無再犯之虞，本院因認其刑之宣告，以暫不執行
+    為適當，併均予宣告緩刑四年，以啟自新（原審已宣告緩刑，公訴人並未上訴）
+    。扣案之犀牛角五支、犀牛角四塊、犀牛角粉乙瓶、挫刀三支、虎頭夾乙座及篩
+    子乙個，依野生動物保育法第五十二條第一項後段規定，均予宣告沒收之。
+五、據上論斷，應依刑事訴訟法第三百六十九條第一項前段、第三百六十四條、第二
+    百九十九條第一項前段，野生動物保育法第四十條第一項第二款，第五十二條第
+    一項後段，刑法第十一條前段，第二十八條，第五十六條，第二條第一項前段，
+    第四十一條第一項，第七十四條第一、二款，判決如主文。
+本案經檢察官柯麗鈴到庭執行職務。
+中    華    民    國     九十     年      五        月       二十九     日
+                     臺灣高等法院刑事第五庭
+                                審判長法  官  曾  德  水
+                                      法  官  楊  貴  雄
+                                      法  官  趙  功  恆
+右正本證明與原本無異。
+如不服本判決應於收受送達後十日內向本院提出上訴書狀，其未敘述上訴之理由者並
+得於提起上訴後十日內向本院補提理由書（均須按他造當事人之人數附繕本）。
+                                      書記官  孫  佩  琳
+中    華    民    國     九十     年      五        月       二十九     日
+附錄本案論罪科刑法條全文：
+野生動物保育法第四十條
+有下列情形之下，處六月以上五年以下有期徒刑，得併科新臺幣三十萬元以上一百五
+十萬元以下罰金：
+一、違反第二十四條第一項規定，未經中央主管機關同意，輸入或輸出保育類野生動
+    物之活體或其產製品者。
+二、違反第三十五條第一項規定，未經主管機關同意，買賣或意圖販賣而陳列、展示
+    保育類野生動物或瀕臨絕種及珍貴稀有野生動物產製品者。
+以犯前項之罪為常業者，處一年以上七年以下有期徒刑，得併科新臺幣五十萬元以上
+二百五十萬元以下罰金。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Jud12\OK\LAWTPH\CRIMINAL\9005\31\TPHM905V.054] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共52
+											筆 / 現在第38
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e4%b8%8a%e6%9b%b4(%e4%b8%80)&selectedCrmno=000336&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=37&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=39&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=52&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e4%b8%8a%e6%9b%b4(%e4%b8%80)%2c336%2c20010529%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e6%9b%b4(%e4%b8%80)&jno=336&jdate=900529&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=90%2c%e4%b8%8a%e6%9b%b4(%e4%b8%80)%2c336%2c20010529%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e6%9b%b4(%e4%b8%80)&jno=336&jdate=900529&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('90%2c%e4%b8%8a%e6%9b%b4(%e4%b8%80)%2c336%2c20010529%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','90','%e4%b8%8a%e6%9b%b4(%e4%b8%80)','336','900529','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="38"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

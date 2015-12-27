@@ -1,0 +1,518 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣高等法院-刑-99上訴3481</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+uA6h+MwsXnvVjlwdC+T2xp8as7g=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共52
+											筆 / 現在第7
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=003481&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=52&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e4%b8%8a%e8%a8%b4%2c3481%2c20101215%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e4%b8%8a%e8%a8%b4&jno=3481&jdate=991215&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=99%2c%e4%b8%8a%e8%a8%b4%2c3481%2c20101215%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e4%b8%8a%e8%a8%b4&jno=3481&jdate=991215&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e4%b8%8a%e8%a8%b4%2c3481%2c20101215%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','99','%e4%b8%8a%e8%a8%b4','3481','991215','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,上訴,3481</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">991215</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體"><font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　99年度上訴字第3481號
+上　訴　人　臺灣臺北地方法院檢察署檢察官
+被　　　告　郭存中
+上列上訴人因被告違反野生動物保育法案件，不服臺灣臺北地方
+法院99年度訴字第87號，中華民國99年9月3日第一審判決（起訴
+案號：臺灣臺北地方法院檢察署98年度偵字第16344號），提起
+上訴，本院判決如下：
+    主  文
+上訴駁回。
+    理  由
+一、公訴意旨略以：被告郭存中明知行政院農業委員會公告列為
+    保育類之野生動物，非經主管機關之同意，不得買賣或意圖
+    販賣而陳列、展示，竟未經主管機關同意，自民國95年間起
+    ，在臺北市萬華區○○○路○段27號之1、臺北市萬華區○○
+    ○道23號其所經營之「大豐鳥園」內，意圖販賣而陳列、展
+    示附表編號1、15、21所示第一級保育類野生動物鮭冠巴丹
+    鸚鵡（Cacatua moluccensis）3隻、第二級保育類野生動物
+    白帽鸚鵡（Pionus senilis）1隻、綠腰小鸚鵡（Forpus pa
+    sserinus，起訴書誤載為Forpus passerines）1隻。嗣於98
+    年6月29日下午3時20分許，在臺北市萬華區○○○道23號，
+    為警查獲，並扣得如附表所示之保育類野生動物共計64隻。
+    因認被告涉嫌違反野生動物保育法第35條第1項之未經主管
+    機關之同意買賣及在公共場所陳列、展示保育類野生動物之
+    規定，而犯同法第40條第2款之罪嫌云云。
+二、按犯罪事實應依證據認定之，無證據不得認定其犯罪事實；
+    又不能證明被告犯罪者，應諭知無罪之判決，刑事訴訟法第
+    154條第2項、第301條第1項定有明文。又犯罪事實依法應依
+    證據認定之，不得僅以被告之反證不成立，持為認定犯罪之
+    論據；認定犯罪事實應依證據，為刑事訴訟法所明定，故被
+    告否認犯罪事實所持之辯解，縱屬不能成立，仍非有積極證
+    據足以證明其犯罪行為，不能遽為有罪之認定；認定犯罪事
+    實所憑之證據，雖不以直接證據為限，間接證據亦包括在內
+    ，然而無論直接或間接證據，其為訴訟上之證明，須於通常
+    一般之人均不致有所懷疑，而得確信其為真實之程度者，始
+    得據為有罪之認定，倘其證明尚未達到此一程度，而有合理
+    之懷疑存在、無從為有罪之確信時，自應為無罪之判決（最
+    高法院21年上字第474號、30年上字第1831號、76年台上字
+    第4986號判例意旨參照）。
+三、公訴人認被告郭存中涉有前揭違反野生動物保育法罪嫌，無
+    非係以被告之供述、證人賴卓彥之證言、98年6月29日搜索
+    扣押筆錄、扣押物品目錄表、照片、責付保管切結書、「大
+    豐鳥園」名片、網路列印資料、行政院農業委員會98年11月
+    16日農授林務字第0981619913號函、臺北市立動物園98年12
+    月22日北市動園園字第09830857600號函暨附件、被告提出
+    之CITES文件影本及臺灣臺北地方法院檢察署98年12月16日
+    勘驗筆錄及照片為其主要論據。
+四、訊據上訴人即被告矢口否認有何違反野生動物保育法犯行，
+    辯稱：臺灣並非鸚鵡的原產國，臺灣的鸚鵡都是人工繁殖。
+    鮭冠巴丹鸚鵡係進口的，是人工養殖的，伊係向何鴻銘購買
+    ，伊之前所提供CITES文件係何鴻銘交予伊的，一般在買賣
+    之間不會核對CITES文件上的腳環編號和實際上是否相符，
+    因為大部分CITES文件均無腳環編號，且鮭冠巴丹鸚鵡是攻
+    擊力很強的鳥，有時會將自己的腳環弄掉。白帽鸚鵡也是進
+    口的，當初是拿錯證件，後來已經有補正，白帽鸚鵡是向臺
+    北愛禽公司的湯先生購買。起訴書所指的綠腰小鸚鵡應該是
+    太平洋鸚鵡，是臺灣繁殖的，是伊向臺灣繁殖商小天使公司
+    的李英華購買；伊賣的鸚鵡均不適用野生動物保育法等語。
+    經查：
+  (一)按保育類野生動物及其產製品，非經主管機關之同意，不得
+    買賣或在公共場所陳列、展示；而適用本法規定之人工飼養
+    、繁殖之野生動物，須經中央主管機關指定公告，野生動物
+    保育法第35條、第55條分別定有明文。是依野生動物保育法
+    ，野生動物以人工飼養、繁殖，須經中央主管機關指定公告
+    ，易言之，若非野生動物保育法第55條經中央主管機關指定
+    公告之人工飼養、繁殖物種，即不受野生動物保育法之規範
+    。本件被告固於其所經營之「大豐鳥園」內，意圖販賣而陳
+    列、展示如附表編號1、15、21所示第一級保育類野生動物
+    鮭冠巴丹鸚鵡（Cacatua moluccensis）3隻、第二級保育類
+    野生動物白帽鸚鵡（Pionus senilis）1隻、綠腰小鸚鵡（F
+    orpus passerinus，起訴書誤載為Forpus passerines ）1
+    隻，有98年6月29日搜索扣押筆錄、扣押物品目錄表、照片
+    、臺北市立動物園98年6月29日鑑定報告書1份、責付保管切
+    結書、臺灣臺北地方法院檢察署98年12月16日勘驗筆錄及照
+    片等各在卷為憑（見98年度偵字第16344號卷第19至35頁、
+    第54頁、第198頁至211頁），惟被告所陳列、展示如附表編
+    號1、15、21所示第一級保育類野生動物鮭冠巴丹鸚鵡（Cac
+    atua moluccensis）3隻、第二級保育類野生動物白帽鸚鵡
+    （Pionus senilis）1隻、綠腰小鸚鵡（Forpus passerinus
+    ），倘係人工繁殖，即無違反野生動物保育法之規定可言，
+    合先敘明。
+  (二)證人林國彰於原審審理時證稱：起訴書附表所列的扣押單中
+    文名稱之鸚鵡，未列在野生動物保育法第55條之公告目錄裡
+    ，依照野生動物保育法第55條規定，適用該法規定之人工飼
+    養繁殖之野生動物，須經中央主管機關指定公告。農委會在
+    90年12月12日有公告適用野生動物保育法之人工飼養繁殖野
+    生動物種類，並於98年7月7日修正公告，若依照90年12月12
+    日公告，本件起訴書附表的物種，沒有在公告範圍內。一般
+    動物從外表沒有辦法做明確的辨識，要從相關的文件作佐證
+    ，例如進口證明、交易的憑證或是繁殖場的繁殖紀錄，來作
+    為相關的佐證。基本上，臺灣沒有原產的鸚鵡，所以所有的
+    鸚鵡都是從國外進口，另外一種狀況是進口後，在臺灣出生
+    之次代。若是從國外進口的，在進口時必須具備進口文件，
+    除了桃面情侶鸚鵡、虎皮鸚鵡、玄鳳鸚鵡、玫瑰環頸鸚鵡這
+    4種小鸚鵡外，其他鸚鵡均須具備CITES文件。進口文件在海
+    關會收走，一般貿易商在手上只有影本，此外還有海關的通
+    關紀錄。在鸚鵡進來臺灣後，可以做交易行為，若有交易的
+    相關憑證，也可以證明是從別人進口之後，合法買到的。此
+    外，如果進來以後在臺灣繁殖的次代，若是從繁殖場取得的
+    話，繁殖場會有他的繁殖紀錄登記卡，也可以作為佐證的資
+    料等語（見原審卷第60頁），足認被告所辯臺灣並非鸚鵡的
+    原產國，臺灣的鸚鵡都是人工繁殖，伊賣的鸚鵡均不適用野
+    生動物保育法等語，尚非虛妄。
+  (三)證人何鴻銘於原審審理時證稱：伊副業是進口鳥類鸚鵡，伊
+    與郭存中從89年開始有鸚鵡的交易，進口鸚鵡是以富淩國際
+    股份有限公司之名義，公司的英文名稱為FULIN INTERNATIO
+    NAL&amp;MACHINERY COLTD。進口鸚鵡若是有同種類多量的情形
+    ，只會拿到1份CITES文件正本，會影印後交給交易的鳥商。
+    伊賣鮭冠巴丹鸚鵡給郭存中，偵查卷第36頁CITES文件是伊
+    交給郭的，偵查卷第23頁上方照片中的鳥是鮭冠巴丹鸚鵡沒
+    有錯等語（見原審卷第62頁反面至第63頁反面），核與證人
+    林國彰於原審時證稱：偵查卷第36頁CITES文件上的物種，
+    依據學名判斷是鮭冠巴丹鸚鵡沒錯等語（見原審卷第64頁）
+    相符。而參以偵卷第36頁CITES文件所示，確載有FULIN INT
+    ERNATIONAL &amp;MACHINERY COLTD自新加坡輸入Cacatua moluc
+    censis之內容，並有本案鮭冠巴丹鸚鵡查獲照片在卷可查（
+    見上揭偵卷第23頁），另參諸經濟部國際貿易局99年8月5日
+    貿服字第09901017220號函附國內廠商出口人工繁殖CITES附
+    錄列管鳥類之繁殖場資料及臺北市政府產業發展局98年11月
+    2日北市產業農字第09835319900號函，分別載明：「品泰鳥
+    業有限公司於臺中縣『揚洲繁殖場』之人工繁殖場確有繁殖
+    Cacatua moluccensis」、「…鮭冠鸚鵡（Cacatua molucce
+    nsis）非屬於動物保育法第55條所訂定『適用野生動物保育
+    法之人工飼養、繁殖野生動物種類』規範範圍內，故若該君
+    所持有鮭冠鸚鵡之瀕臨絕種野生動植物國際貿易公約（華盛
+    頓公約CITES），載明該鳥係屬人工繁殖者，其買賣、陳列
+    、展示、持有及繁殖不適用野生動物保育法之規定。…」等
+    語（見原審卷第99頁及外放證物、上揭偵卷第87頁），可知
+    鮭冠巴丹鸚鵡得為人工飼養繁殖之物種，與被告前揭所辯相
+    符，足認本案查獲之鮭冠巴丹鸚鵡係在國外人工飼養繁殖，
+    經貿易商合法進口後，出售予被告無疑，被告自無違反前揭
+    野生動物保育法規定可言。而本案所查獲鮭冠巴丹鸚鵡3隻
+    ，其中2隻無腳環，另1隻腳環編號為HC15A010，有臺灣臺北
+    地方法院檢察署98年12月16日勘驗筆錄及現場履勘照片10張
+    在卷可稽（見上揭偵卷第200至206頁），雖與偵卷第36頁CI
+    TES文件中所載鳥類腳環編號為ABR-17A-294,297,301,306有
+    異，且證人何鴻銘證稱：偵卷第23頁上方照片中的鳥，伊不
+    能夠確定是否就是伊賣給郭存中的鳥等語（見原審卷第63
+    頁反面），惟證人何鴻銘於原審審理時亦證稱：伊進口鸚鵡
+    時沒有看腳環，因為鸚鵡會咬人，不可能1隻1隻比對，伊賣
+    給郭存中的鸚鵡不一定都有腳環，伊曾經在進口的箱子裡看
+    到腳環掉在裡面等語（見原審卷第62頁反面、第63頁反面）
+    ，證人林國璋於原審審理時證稱：CITES文件上面記載從哪
+    裡進來，物種為何，及數量多少，由何人輸入，只是一個佐
+    證，並非可以證明物種可以完全跟CITES搭配在一起等語（
+    見原審卷第61頁），尚不得以本件所查獲鮭冠巴丹鸚鵡繫帶
+    腳環之情形與偵卷第36頁CITES文件記載鸚鵡繫帶腳環之情
+    形不符，即遽認被告所提出之CITES文件，並非其向證人何
+    鴻銘所購買如附表編號1所示之鮭冠巴丹鸚鵡時，證人何鴻
+    銘所交予之證明文件，而據以為對被告不利之認定。
+  (四)證人湯鴻淵於原審審理時證稱：伊曾經在愛禽公司上班，與
+    被告有鳥類的交易買賣，伊自89年起從事鳥類鸚鵡進口，只
+    要在CITES第二類物種人工繁殖的，其都可以進口，其有賣
+    很多鸚鵡給被告，灰鸚鵡、藍帽鸚鵡、派翁尼斯（白帽也屬
+    於這種物種）、椎尾鸚鵡這類的，大大小小的鸚鵡都有。原
+    審卷第17頁CITES文件係伊提供郭存中，偵卷第30頁上方照
+    片上的鳥是白帽鸚鵡沒有錯，一般來說做買賣，其是賣白帽
+    鸚鵡給郭存中，所以提供CITES文件影本給郭存中，通常沒
+    有辦法確認哪隻鳥配哪張文件，除非有腳環，但現在辦理鳥
+    類進口時沒有硬性規定腳環號碼，所以伊跟客戶就是依照誠
+    信給客戶身分證，因為政府沒有規定進口鳥要附腳環等語（
+    見原審卷第64頁反面），核與證人林國彰於原審審理時證稱
+    ：原審卷第17頁CITES文件上面的項目C與本案起訴書附表編
+    號15學名一致，屬同一物種等語（見原審卷第65頁）相符。
+    而原審卷第17頁CITES文件所示，載有臺北愛禽公司自南非
+    輸入Pionus senilis之內容，並有本案白帽鸚鵡查獲照片在
+    卷可查（見上揭偵卷第30頁），復參以上開經濟部國際貿易
+    局99年8月5日貿服字第09901017220號函附國內廠商出口人
+    工繁殖CITES附錄列管鳥類之繁殖場資料中所示：「品泰鳥
+    業有限公司位於臺中市『日隆繁殖場』之人工繁殖場確有繁
+    殖Pionus senilis」、「品泰鳥業有限公司位於臺中市『日
+    隆繁殖場』之人工繁殖場確有繁殖Pionus senilis」、「劉
+    復興貿易有限公司位於花蓮市『呂順忠飼養場』之人工繁殖
+    場確有繁殖Pionus senilis」等情，可知白帽鸚鵡得為人工
+    飼養繁殖之物種，與被告前揭所辯相符，足認本案查獲之白
+    帽鸚鵡係在國外人工飼養繁殖，經貿易商合法進口後，出售
+    予被告無訛。
+  (五)證人李英華於原審審理時證稱：伊在台塑林園廠擔任廢水技
+    術員，並有經營小天使寵物店繁殖場，伊與被告業務往來有
+    1、2年，與被告交易的貨物包括綠腰小鸚鵡，伊繁殖綠腰小
+    鸚鵡有3、4年，所以賣給被告的綠腰小鸚鵡是人工繁殖的，
+    繁殖鳥類要向高雄市檢疫防治所報備，也要向農委會報備，
+    伊向農委會報備的名稱是劉復興貿易有限公司，國內人工繁
+    殖之綠腰小鸚鵡如果在國內販售的話，大部分有繁殖場證明
+    就可以買賣。伊出售綠腰小鸚鵡給被告，有給被告繁殖場的
+    證明，並沒有給被告CITES文件。偵卷第33頁下方照片上之
+    鳥類，就是伊販賣給被告的「綠太平洋」等語（見原審卷第
+    32頁反面至第33頁），並參以經濟部國際貿易局99年8月5日
+    貿服字第09901017220號函附國內廠商出口人工繁殖CITES附
+    錄列管鳥類之繁殖場資料中所示：「劉復興貿易有限公司，
+    表示該公司位於臺南縣『美安鳥園』之人工繁殖場確有繁殖
+    太平洋鸚哥（Forpus coelestis）」、「劉復興貿易有限公
+    司位於臺中市『林金蓮鳥禽場』之人工繁殖場確有繁殖Forp
+    us coelestis」、「劉復興貿易有限公司位於臺南縣『張恆
+    彰鳥禽場』、『楊文明鳥禽場』之人工繁殖場確有繁殖Forp
+    us coelestis」、「長城貿易行之人工繁殖場確有繁殖Forp
+    us passerinus」、「劉復興貿易有限公司位於臺中市『林
+    金蓮鳥禽場』及位於高雄市之『李英華鳥禽場』之人工繁殖
+    場確均有繁殖Forpus coelestis」、「劉復興貿易有限公司
+    位於臺中市『鳥窩飼養場』之人工繁殖場確有繁殖Forpus c
+    oelestis」、「劉復興貿易有限公司位於臺中市『鳥窩飼養
+    場』及位於高雄市之『李英華鳥禽場』之人工繁殖場確有繁
+    殖Forpus coelestis」、「劉復興貿易有限公司位於高雄市
+    之『李英華鳥禽場』之人工繁殖場確有繁殖Forpus coelest
+    is等情（見外放卷），可知綠腰小鸚鵡、綠太平洋於國內均
+    有人工飼養繁殖之情形。被告前揭所辯，實屬有據，足認本
+    案起訴書附表編號21之鸚鵡係貿易商自國外進口物種，在國
+    內人工飼養繁殖後，將次代出售予被告。而本件經行政院海
+    岸巡防署新竹機動查緝隊委託臺北市立動物園野生動物收容
+    中心賴卓彥鑑定結果，判斷為綠腰小鸚鵡（Forpus passeri
+    nus），固有臺北市立動物園鑑定報告書1份在卷可稽（見上
+    揭偵卷第34、35頁），另證人林國彰於原審審理時證稱：李
+    英華於99年6月9日審理時所提出的資料中（即原審卷第41至
+    51頁），沒有找到綠腰小鸚鵡等語（見原審卷第61頁反面）
+    ，惟鑑定人即任職於野生動物收容中心之陳俊夫於原審審理
+    時證稱：伊業務係配合執法機關進行相關的現場鑑定，照片
+    鑑定的比較少，但實物或是照片鑑定可能都有。本件印象中
+    同事賴卓彥有拿電腦裡面的數位照片給伊看，一起討論，可
+    能是照片鑑定，不過不能確定，賴卓彥現在已經離職了。綠
+    腰小鸚鵡實際上學名應該是（Forpus passerinus）才對，
+    其與綠太平洋（Forpus coelestis）這2種鳥類都是翠綠色
+    的，從外觀上不是那麼容易分辨，太平洋鸚鵡的部分已經在
+    國內培育了好幾代，且也經歷了很多的雜交，在國內培育的
+    綠太平洋也有可能帶有綠腰的血統，他們是同屬，是可以互
+    相交配的鳥類。偵卷第186頁下方照片看不出來是否為綠腰
+    小鸚鵡，偵卷第33頁彩色照片不足以確認是綠腰小鸚鵡，綠
+    腰小鸚鵡曾經被認為是藍翅小鸚鵡，他們在同屬裡面都很像
+    ，偵卷第33頁彩色照片可以確定是Forpus屬的鸚形目鳥類。
+    Forpus屬的鳥已經雜交到有黃色、白色、藍色，不同顏色有
+    不同價值，這屬的鳥是南美洲最小的鳥，從輪廓、外型可以
+    判定是Forpus屬，但是去追究他的種名沒有特別必要，因為
+    都是屬於二級保育類，且綠腰小鸚鵡是不常見廠商進口，即
+    便實際上是綠腰小鸚鵡，市場上也會當作是太平洋鸚鵡在賣
+    。而太平洋鸚鵡在國外已經廣為培育及交易，我們國內常進
+    口，也有自己培育再出口等語（見原審卷第102頁反面至第1
+    03頁反面）。從而，本案查獲之物種，是否屬純種之綠腰小
+    鸚鵡，已非無疑。況參以證人李英華上開證詞，可知國內交
+    易市場上並未就綠腰小鸚鵡與綠太平洋作區分，是上開鑑定
+    人賴卓彥之鑑定及證人證人林國彰未見綠腰小鸚鵡之證詞，
+    均不足以據為對被告不利之認定。另被告雖僅提出綠腰小鸚
+    鵡之CITES文件，並未提出證人李英華所述之繁殖場之證明
+    ，惟證人李英華於原審時當庭指認偵卷第33頁下方之照片就
+    是其所賣給被告之「綠太平洋」等語（見原審卷第33頁反面
+    ），則該綠腰小鸚鵡既係由證人李英華人工繁殖，賣給被告
+    ，即非野生動物而無動物保育法之適用。
+  (六)鑑定人賴卓彥雖於偵查中證稱：持有CITES文件影本，也無
+    法確認該野生動物及署CITES文件所載個體數，有些行為人
+    會持10年前的文件作為抗辯他合法進口的來源云云，惟參諸
+    本件被告所提出之CITES文件，如附表編號1所示第一級保育
+    類野生動物鮭冠巴丹鸚鵡（Cacatua moluccensis），其CIT
+    ES文件上之有效期限為2006年10月1日，新加坡海關人員簽
+    署之日期則係2006年7月3日（見上揭偵卷第36頁）；如附表
+    編號15所示第二級保育類野生動物白帽鸚鵡（Pionus senil
+    is），其CITES文件上之有效期限為2004年11月4日，新加坡
+    海關人員簽署之日期則係2004年6月4日（見原審卷第17頁）
+    ，並無鑑定人賴卓彥所述之情形，尚難僅憑鑑定人賴卓彥上
+    開證詞，即逕推論被告係持10年前的文件作為抗辯其合法進
+    口的來源，而據為不利被告之認定。
+  (七)檢察官上訴意旨雖以：1.鮭冠巴丹鸚鵡部分：被告於偵查中
+    提出CITES文件作為抗辯，顯見係抗辯查獲之3隻鮭冠巴丹鸚
+    鵡乃國外人工飼養合法進口，與我國國內是否有人工飼養繁
+    殖鮭冠巴丹鸚鵡之能力無涉，證人何鴻銘為被告聲請傳喚之
+    友性證人，自難期證人何鴻銘自述鮭冠巴丹鸚鵡之來源有問
+    題，且證人何鴻銘亦不能確定查獲的鮭冠巴丹鸚鵡是否其賣
+    給被告，被告提出之CITES文件無法證明查獲之鮭冠巴丹鸚
+    鵡3隻係合法進口。且其中1隻鮭冠巴丹鸚鵡的腳環號碼與被
+    告提出之CITES文件中之腳環號碼根本不符，依證人即臺北
+    市立動物園野生動物收容中心協助鑑定人賴卓彥於偵查中所
+    證有些行為人會持10年前的文件為抗辯他為合法進口的來源
+    ，顯見此現象已成為業界慣用的「幽靈抗辯」手法，業者只
+    要持有任何1份CITES影本加以抗辯，即可恣意販賣任何1隻
+    同種類鸚鵡，使野生動物保育法之規定形同具文。2.白帽鸚
+    鵡部分：被告於偵查中提出CITES文件作為抗辯，白帽鸚鵡
+    是否為合法進口，與我國國內是否有人工飼養繁殖之能力無
+    涉。且證人湯鴻淵為被告聲請傳喚之友性證人，自難期證人
+    湯鴻淵自述白帽鸚鵡之來源有問題。證人湯鴻淵亦不能確定
+    查獲的白帽鸚鵡就是他賣給被告的，且被告在偵查中提出之
+    CITES文件與查獲之白帽鸚鵡不合，審理時始又提出另外1份
+    CITES文件，足認被告慣用「1份文件走透透」的抗辯手法從
+    事保育類鸚鵡販售，被告提出之CITES文件無法證明查獲之
+    白帽鸚鵡係合法進口。3.綠腰鸚鵡部分：被告於偵查中提出
+    「太平洋鸚鵡」之CITES文件，欲證明查獲之「綠腰鸚鵡」
+    來源合法，並稱係向高雄「小天使」寵物店之李英華購買，
+    然證人李英華卻證稱：給被告的文件中並沒有CITES文件，
+    只有繁殖場的證明。被告遭查獲後隨意提供1張非證人李英
+    華所提供之CITES文件欲蒙混過關，可證明被告常以上述「1
+    份文件走透透」之方式規避法律責任云云。但查：1.本件證
+    人何鴻銘、湯鴻淵、李英華均經具結，苟有虛偽陳述，須負
+    偽證罪責，且渠等就曾出售上開鳥類及交付上開證明文件予
+    被告之陳述，與己身責任無涉，仍非不得予以採信，尚難因
+    渠等係被告所聲請傳喚，即謂渠等所述均屬迴護被告之詞。
+    2.證人何鴻銘明確證稱其曾出售鮭冠巴丹鸚鵡予被告，被告
+    持有之鮭冠巴丹鸚鵡CITES文件係其交付，並說明腳環編號
+    與CITES文件記載不符之可能原因，雖其無法確認扣案之鮭
+    冠巴丹鸚鵡即係其出售予被告之鮭冠巴丹鸚鵡，惟無積極證
+    據足證被告提出之CITES文件確與扣案之鮭冠巴丹鸚鵡無關
+    ，自不能因被告此部分之反證不能成立，遽為不利於被告之
+    認定。3.被告經營鳥類買賣業務，所經手之鳥類種類及數量
+    甚夥，其於偵查中誤提其他鳥類之CITES文件，或將繁殖場
+    證明文件與CITES文件混淆，於事理上非無可能，尚難據此
+    遽認被告係臨訟杜撰鳥類來源證明。4.證人湯鴻淵雖不能確
+    定查獲的白帽鸚鵡係其出售給被告，惟無積極證據足證被告
+    提出之CITES文件確與扣案之白帽鸚鵡無關，自不能因被告
+    此部分之反證不能成立，遽為不利於被告之認定。5.證人賴
+    卓彥於偵查中固證稱有些人會持10年前的文件為抗辯合法進
+    口的來源云云，亦不得據此推測擬制被告同係以「1份文件
+    走透透」之手法掩飾犯行。
+  (八)綜上所述，檢察官所舉證據，均未能達通常一般之人均不致
+    有所懷疑而得確信其為真實之程度，而有合理懷疑之存在。
+    此外，本院復查無其他積極證據足證被告犯罪，揆諸前開說
+    明，自應為被告無罪之判決。
+五、原審因認不能證明被告犯罪，對被告諭知無罪判決，核無違
+    誤。檢察官上訴指摘原判決不當，請求撤銷改判，難認有理
+    ，應予駁回。
+據上論斷，應依刑事訴訟法第368條，判決如主文。
+本案經檢察官陳國鳴到庭執行職務。
+中    華    民    國    99    年    12    月    15    日
+                  刑事第七庭  審判長法  官  趙功恆
+                                    法  官  游紅桃
+                                    法  官  楊智勝
+以上正本證明與原本無異。
+如不服本判決，應於收受送達後10日內向本院提出上訴書狀，其
+未敘述上訴之理由者並得於提起上訴後10日內向本院補提理由書
+（均須按他造當事人之人數附繕本）「切勿逕送上級法院」。
+                                    書記官  林桂玉
+中    華    民    國    99    年    12    月    17    日</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\Judday\OK\LAWTPH\CRIMINAL\9912\15\TPHM99CF.01S] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共52
+											筆 / 現在第7
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=003481&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=8&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=52&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e4%b8%8a%e8%a8%b4%2c3481%2c20101215%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e4%b8%8a%e8%a8%b4&jno=3481&jdate=991215&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=99%2c%e4%b8%8a%e8%a8%b4%2c3481%2c20101215%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e4%b8%8a%e8%a8%b4&jno=3481&jdate=991215&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e4%b8%8a%e8%a8%b4%2c3481%2c20101215%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','99','%e4%b8%8a%e8%a8%b4','3481','991215','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="7"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

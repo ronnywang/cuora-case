@@ -1,0 +1,479 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣臺南地方法院-刑-101訴242</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+P3+/jPpPXboQeel/k+TRZwjsEaY=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣臺南地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共56
+											筆 / 現在第8
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000242&selectedCrtid=TND','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=56&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c242%2c20120719%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=242&jdate=1010719&jcheck=2">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c242%2c20120719%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=242&jdate=1010719&jcheck=2">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c242%2c20120719%2c2','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','242','1010719','2')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">101,訴,242</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1010719</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反<font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣臺南地方法院刑事判決　　　　　　　101年度訴字第242號
+公　訴　人　臺灣臺南地方法院檢察署檢察官
+被　　　告　王永順
+上列被告因違反野生動物保育法案件，經檢察官提起公訴（100
+年度偵字第14084號），被告於準備程序就被訴事實為有罪之陳
+述，本院裁定由受命法官獨任進行簡式審判程序判決如下：
+    主  文
+王永順犯野生動物保育法第四十一條第一項第一款之非法獵捕保
+育類野生動物罪，處有期徒刑陸月。查獲如附表一所示之保育類
+野生動物沒收。又犯野生動物保育法第四十一條第一項第一款之
+非法獵捕保育類野生動物罪，累犯，處有期徒刑捌月。查獲如附
+表二所示之保育類野生動物沒收。又犯野生動物保育法第四十條
+第二款之非法買賣保育類野生動物罪，累犯，處有期徒刑拾月。
+應執行有期徒刑壹年捌月。查獲如附表一、二所示之保育類野生
+動物均沒收。
+    事  實
+一、王永順曾於民國82年間因違反肅清煙毒條例等案件經本院及
+    臺灣高等法院臺南分院先後判處有期徒刑4月、3年2月、12
+    年確定，嗣並定其應執行刑為有期徒刑15年確定，甫於89年
+    6月20日假釋出監，97年7月21日保護管束期滿執行完畢。另
+    於99年間因公共危險案件，經本院判處有期徒刑3月確定，
+    甫於99年10月13日易服社會勞動執行完畢。其明知保育類野
+    生動物非有族群量逾越環境容許量者，不得任意獵捕，竟先
+    於97年間某日，在其位於臺南市學甲區三慶里紅茄90號住處
+    前之溝渠內，以網子設置陷阱而獵捕如附表一所示之珍貴稀
+    有保育類野生動物柴棺龜3隻。再於99年間某日，在其位於
+    臺南市學甲區三慶里紅茄90號住處前之溝渠內，以相同方式
+    獵捕如附表二所示之珍貴稀有保育類野生動物柴棺龜1隻。
+    王永順並將捕獲之前開柴棺龜共4 隻養殖在其前開住處內，
+    嗣於100年7月12日9時45分許，為警持本院核發之搜索票，
+    在其前開住處當場查獲如附表一、二所示之柴棺龜共4隻。
+二、王永順明知保育類野生動物非經主管機關之同意，不得買、
+    賣，竟意圖營利，未經主管機關之同意，先於不詳時、地，
+    以不詳方式取得珍貴稀有保育類野生動物柴棺龜10餘隻後，
+    即於100年6月間，以每一台斤新台幣（下同）1400元之價格
+    ，將前開柴棺龜10餘隻賣予羅慶隆、羅子翔父子（另經本院
+    各判處有期徒刑6月確定），並由羅子翔將購得之前開柴棺
+    龜載至台南市○○區○○路359巷153號旁之養殖場暫置，準
+    備出售牟利。嗣於100年7月12日9時27分許，為警持本院核
+    發之搜索票，在上開養殖場當場查獲羅慶隆、羅子翔父子向
+    王永順購得及自所購得之其他品種烏龜中挑出或拾獲之珍貴
+    稀有保育類野生動物柴棺龜共19隻（已於另案宣告沒收）。
+    理  由
+甲、證據能力部分
+一、被告之自白非出於強暴、脅迫、利誘、詐欺、疲勞訊問、違
+    法羈押或其他不正之方法，且與事實相符者，得為證據。刑
+    事訴訟法第156條第1項定有明文。查本件被告於本院行準備
+    程序及審理程序時，對於公訴檢察官提出被告於警詢時及偵
+    查中之筆錄證據能力均不爭執，亦未抗辯其自白非出於任意
+    性，復查無明顯事證足認檢察官及警察機關於製作該等筆錄
+    時，有對被告施以法律所禁止之不正方法等情事，應認被告
+    之自白均具有任意性，而具有證據能力。
+二、被告以外之人於審判外之言詞或書面陳述，除法律有規定者
+    外，不得作為證據。被告以外之人於偵查中向檢察官所為之
+    陳述，除顯有不可信之情況者外，得為證據。刑事訴訟法第
+    159條第1項、第159條之1第2項分別定有明文。經查，證人
+    即同案被告羅慶隆、羅子翔於偵查中具結後之言詞陳述，均
+    係被告以外之人於審判外所為之言詞陳述，核其性質屬傳聞
+    證據，依刑事訴訟法第159條第1項規定，本不具證據能力。
+    惟其係向檢察官所為之陳述並已於偵查中具結，且無顯有不
+    可信之情況，依前述刑事訴訟法第159條之1第2項規定，渠
+    等所為之言詞陳述自亦有證據能力。
+三、刑事訴訟法第一百五十九條之四規定「除前三條之情形外，
+    下列文書亦得為證據：一、除顯有不可信之情況外，公務員
+    職務上製作之紀錄文書、證明文書。二、除顯有不可信之情
+    況外，從事業務之人於業務上或通常業務過程所須製作之紀
+    錄文書、證明文書。三、除前二款之情形外，其他於可信之
+    特別情況下所製作之文書。」。由於第一款之公務員職務上
+    製作之文書，係公務員依其職權所為，與其責任、信譽攸關
+    ，若有錯誤、虛偽，公務員可能因此負擔刑事及行政責任，
+    其正確性高，此乃基於對公務機關客觀義務之信賴所致，且
+    該等文書經常處於可受公開檢查之狀態（具有公示性，非以
+    例行性為必要），設有錯誤，甚易發現而予及時糾正，其真
+    實之保障極高。卷附搜索票（（100年度偵字第14084號偵查
+    卷（以下簡稱偵(二)卷）第61頁、第121頁）、搜索扣押筆錄
+    （偵(二)卷第63至65頁、第122至124頁）、扣押物品目錄表（
+    偵(二)卷第67頁、第125頁）屬公務員職務上製作之證明、紀
+    錄文書，用以證明文書所載事項真實，依前開說明，應有證
+    據能力。
+四、被告以外之人於審判外之言詞或書面陳述，除法律有規定者
+    外，不得作為證據。被告以外之人於審判外之陳述，雖不符
+    前4條之規定，而經當事人於審判程序同意作為證據，法院
+    審酌該言詞陳述或書面陳述作成時之情況，認為適當者，亦
+    得為證據。當事人、代理人或辯護人於法院調查證據時，知
+    有第159條第1項不得為證據之情形，而未於言詞辯論終結前
+    聲明異議者，視為有前項之同意。刑事訴訟法第159條第1項
+    、第159條之5分別定有明文。經查，卷附國立屏東科技大學
+    研究發展處野生動物保育服務中心物種鑑定書（偵(二)卷第15
+    6頁、第161頁）其鑑定並非由法院、審判長、受命法官或檢
+    察官視具體個案之需要而為選任、囑託，應係被告以外之人
+    於審判外所為之言詞陳述，核其性質屬傳聞證據，依刑事訴
+    訟法第159條第1項規定，本不具證據能力。惟被告於準備程
+    序及審判程序中均稱「無意見。」等語，亦未於言詞辯論終
+    結前聲明異議，本院審酌其鑑定之客觀情狀，既無違法或影
+    響鑑定任意性等不適當之情況發生，其鑑定內容又與本件事
+    實有相當之關聯性，復查無其他情節重大或使鑑定可信度明
+    顯過低之情事，依據前述刑事訴訟法第159條之5規定，卷附
+    國立屏東科技大學研究發展處野生動物保育服務中心物種鑑
+    定書自亦有證據能力。
+五、卷附跟監照片（偵(一)卷第77頁)、扣案柴棺龜照片（偵(二)卷
+    第150至152頁）係以機械（照相機）方式所留存之影像，均
+    非依憑人之記憶再加以轉述而得，是以上開照片均非供述證
+    據，殊無傳聞證據排除法則之適用，復無證據證明係公務員
+    違背法定程序或經偽造、變造所取得，而上開物證又與本件
+    事實具有相當之關聯性，應認均有證據能力。
+六、有偵查犯罪職權之公務員，依通訊保障及監察法規定聲請核
+    發通訊監察書所監聽之錄音內容，為實施刑事訴訟程序之公
+    務員依法定程序取得之證據。而依該通訊監察錄音所作成之
+    譯文，乃監察錄音內容之顯示。倘當事人對於該譯文內容之
+    同一性或真實性發生爭執或有所懷疑時，法院固應依刑事訴
+    訟法之規定，勘驗該監聽錄音踐行調查證據程序，以確保監
+    察錄音內容與譯文之真實、同一性。惟當事人若已承認監察
+    錄音譯文之內容屬實，或對於該譯文內容並無爭執，而法院
+    復已就該譯文依法踐行調查證據程序者，該通訊監察錄音之
+    譯文即與播放錄音有同等價值，自得作為判斷之依據（最高
+    法院99年度台上字第982號判決參照），揆前揭說明，卷附
+    監聽譯文（偵(二)卷第49至57頁)，亦有證據能力。
+乙、實體部分
+一、訊據被告王永順坦承有前開犯罪事實一所載之犯行，並稱柴
+    棺龜是他們俗稱的麵龜（米龜），他有養過四隻，就是起訴
+    書說的97年抓到的3隻、99年抓到的1隻，離他被查獲的時候
+    ，已經養超過一年了。核與其於警詢、偵查中所述情節相符
+    ，並有卷附搜索票（（100年度偵字第14084號偵查卷（以下
+    簡稱偵(二)卷）第121頁）、搜索扣押筆錄（偵(二)卷第122至12
+    4頁）、扣押物品目錄表（偵(二)卷第125頁）、如附表一、二
+    所示柴棺龜照片（偵(二)卷第151至152頁）、國立屏東科技大
+    學研究發展處野生動物保育服務中心物種鑑定書（偵(二)卷第
+    161頁）附卷可稽，被告自白應與事實相符而可採信。
+        另被告雖矢口否認有何販賣柴棺龜犯行，並辯稱他是用
+    網子抓鱉，有時候烏龜也會跑進去，我賣的是一般俗稱的水
+    龜，不是偵查卷內照片所示的柴棺龜。他並未將柴棺龜賣予
+    同案被告羅慶隆、羅子翔父子云云。惟查：
+（一）同案被告羅慶隆、羅子翔父子於100年7月12日9時27分許
+      ，為警持本院核發之搜索票，在其位於台南市○○區○○
+      路359巷153號旁之養殖場當場查獲柴棺龜共19隻之事實，
+      有卷附搜索票（偵(二)卷）第61頁）、搜索扣押筆錄（偵(二)
+      卷第63至65頁）、扣押物品目錄表（偵(二)卷第67頁）、扣
+      案柴棺龜照片（偵(二)卷第150頁）、國立屏東科技大學研
+      究發展處野生動物保育服務中心物種鑑定書（偵(二)卷第15
+      6頁）附卷可稽。
+（二）關於前開柴棺龜之來源，證人即同案被告羅慶隆於偵查中
+      具結證稱他向王永順買過兩次，都是跟王永順買食蛇龜跟
+      柴棺龜。第一次買的數量是兩種加起來28到29斤，買的時
+      間他不太記得了，第二次買的數量是兩種加起來30幾斤，
+      買的時間他也忘了，兩次都是一斤1400元。都是他在跟王
+      永順聯絡，羅子翔只是負責載運。搜索那天扣得的柴棺龜
+      是他第二次跟王永順買的（偵(二)卷第175頁）。羅慶隆於
+      本院亦證稱他有向王永順買過兩次柴棺龜，是他與王永順
+      電話聯絡及談價錢，並叫羅子翔去載。兩次都是買草龜，
+      但是有加米龜（柴棺龜）。第一次有沒有（食蛇龜及柴棺
+      龜）他不知道，因為在電話裡講而已，是羅子翔去載，有
+      沒有載到他不知道，第二次有（食蛇龜及柴棺龜）。本案
+      發生後他有問羅子翔，那19隻是不是在王永順那裡載的，
+      羅子翔說大部分都在那邊載的（101年6月14日審判筆錄）
+      。
+          證人即同案被告羅子翔於偵查中具結證稱為警查獲之
+      19隻柴棺龜是他的。有兩隻是撿的、兩隻是買斑龜時混在
+      裹面，其他是跟順仔（即被告王永順）買的。他總共向順
+      仔買過2次龜，扣案之15隻柴棺龜是分兩次買的，都是上
+      個月（100年6月）買的，第一次只有柴棺龜，幾隻他不記
+      得了，第二次才有包括食蛇龜（100年度他字第1556號偵
+      查卷（以下簡稱偵(一)卷）第89至90頁）。羅子翔於本院亦
+      證稱他跟王永順交易過烏龜，通常議價是由羅慶隆跟王永
+      順議價。他負責運送。他是之前買賣斑龜時，有一次他在
+      王永順那裡看到柴棺龜，就回去跟羅慶隆講，叫羅慶隆去
+      跟王永順買。卷附跟監照片（偵(一)卷第77頁)所示2639-LW
+      號自小客車是他在使用，他載烏龜都是開這部車去。照片
+      中的車號2639-LW自小客車，是他所駕駛，地點在王永順
+      住處。扣案柴棺龜有部分是向王永順買來的，幾隻他忘記
+      了。有一些是從向王永順買的斑龜裡面挑出來的，有一些
+      是在路上撿到，但是幾隻他不太知道（101年6月14日審判
+      筆錄）。
+          經比對前開證人供述，其細節部分雖因記憶及參與不
+      同（羅慶隆負責聯絡及議價、羅子翔負責載運）而有所出
+      入，然對於渠等為警所查獲之柴棺龜部分係購自被告王永
+      順一節則供述始終一致。且羅慶隆、羅子翔為父子關係，
+      渠等苟有意誣陷被告王永順，當有足夠之機會串證使供述
+      趨於一致，而不致有所出入。是扣案之柴棺龜有部分係羅
+      慶隆、羅子翔父子向被告王永順購得一節應可認定。
+（三）依卷附跟監照片（偵(一)卷第77頁)所示，證人羅子翔確實
+      有開車至王永順住處之事實。再者，依卷附監聽譯文（偵
+      (二)卷第49至57頁)所載內容觀之，證人羅慶隆亦確實有與
+      被告王永順聯絡及議價，及付證人羅子翔攜錢前往被告王
+      永順處之事實。此跟監照片及監聽譯文雖尚不足以證明
+      羅慶隆、羅子翔父子向被告王永順購買之烏龜種類為何，
+      但至少可證明案發期間，羅慶隆、羅子翔父子確實有向被
+      告王永順購買烏龜之事實。且由監聽譯文內容至少可知羅
+      慶隆、羅子翔父子向被告王永順購買之烏龜有明顯之價格
+      差異。參諸羅慶隆於偵查及本院所稱監聽譯文中「14」是
+      食蛇龜及柴棺龜之價格一斤1400元等情，應可佐證羅慶隆
+      、羅子翔父子前開所述為警所查獲之柴棺龜部分係購自被
+      告王永順一節應可採信。
+        從而，被告前開所辯尚不足採，本件事證明確，被告前
+    開犯行洵堪認定，應依法論科。
+二、核被告所為，係違反野生動物保育法第41條第1項第1款之非
+    法獵捕保育類野生動物罪，及同法第40條第2款之非法販賣
+    保育類野生動物罪。被告捕獲柴棺龜之犯行相距達1、2年，
+    顯係基於不同之犯意為之。被告前開獵捕及販賣柴棺龜之犯
+    行，犯意各別，行為亦殊，應分論併罰。
+        被告曾於82年間因違反肅清煙毒條例等案件經本院及臺
+    灣高等法院臺南分院先後判處有期徒刑4月、3年2月、12 年
+    確定，嗣並定其應執行刑為有期徒刑15年確定，甫於89年6
+    月20日假釋出監，97年7月21日保護管束期滿執行完畢。另
+    於99年間因公共危險案件，經本院判處有期徒刑3月確定，
+    有臺灣臺南地方法院檢察署刑案資料查註紀錄表及臺灣高等
+    法院被告全國前案紀錄表各1件在卷可按，其於5年內故意再
+    犯本件99年間非法獵捕保育類野生動物罪，及100年6月間非
+    法販賣保育類野生動物罪等有期徒刑以上之罪，均為累犯，
+    應各依刑法第47條第1項規定，加重其刑。至於被告於97年
+    間非法獵捕保育類野生動物犯行，因無法確認其行為係在97
+    年7月21日之前或之後，無從認定已構成累犯，爰不依刑法
+    第47條第1項規定加重其刑，附此敘明。
+        爰審酌被告有前科犯行，品行非佳、非法獵捕及販賣保
+    育類野生動物破壞生態、所獵捕、販賣保育類野生動物數量
+    尚非甚大，及其智識程度不高、犯罪之手段、犯罪後態度等
+    一切情狀，分別量處如主文所示之宣告刑，並定其應執行刑
+    示懲。
+三、扣案如附表一、二所示之柴棺龜共4隻，係查獲之稀有珍貴
+    保育類野生動物，爰應依野生動物保育法第52條第1項前段
+    規定宣告沒收。
+        另野生動物保育法第52條第1項前段之沒收規定為「得
+    沒收」。本件同案被告羅慶隆、羅子翔父子向王永順為警查
+    獲時所扣案之柴棺龜共19隻已於另案宣告沒收，且亦無從區
+    隔何者係購自被告王永順，爰不再重複沒收，附此敘明。
+四、依刑事訴訟法第299條第1項前段，野生動物保育法第40條第
+    2款、第41條第1項第1款、第52條第1項前段，刑法11條前段
+    、第47條第1項、第51條第5款，判決如主文。
+本案經檢察官莊玲如到庭執行職務。
+中    華    民    國   101    年    7     月    19    日
+                      刑事第四庭審判長法  官   林逸梅
+                                      法  官   莊政達
+                                      法  官   鄭文祺
+以上正本證明與原本無異。
+如不服本判決，應於收受送達後10日內向本院提出上訴書狀（應
+附繕本）。
+                                      書記官   張尹嫚
+中    華    民    國   101    年    7     月    19    日
+附錄論罪科刑法條：
+野生動物保育法第40條
+有下列情形之一，處 6 月以上 5 年以下有期徒刑，得併科新臺
+幣 30 萬元以上 1 百 50 萬元以下罰金：
+一、違反第 24 條第 1 項規定，未經中央主管機關同意，輸入
+    或輸出保育類野生動物之活體或其產製品者。
+二、違反第 35 條第 1 項規定，未經主管機關同意，買賣或意
+    圖販賣而陳列、展示保育類野生動物或其產製品者。
+野生動物保育法第41條
+有下列情形之一，處 6 月以上 5 年以下有期徒刑，得併科新臺
+幣 20 萬元以上 100 萬元以下罰金：
+一、未具第18條第1項第1款之條件，獵捕、宰殺保育類野生動物
+    者。
+二、違反第18條第1項第2款規定，未經中央主管機關許可，獵捕
+    、宰殺保育類野生動物者。
+三、違反第19條第1項規定，使用禁止之方式，獵捕、宰殺保育
+    類野生動物者。
+於劃定之野生動物保護區內，犯前項之罪者，加重其刑至三分之
+一。
+第1項之未遂犯罰之。
+附表一：
+┌────────────┬───┬─────────┐
+│  名                稱  │數  量│  備          註  │
+├────────────┼───┼─────────┤
+│柴棺龜（學名：Mauremys  │3隻   │1.屬珍貴稀有保育類│
+│mutica）                │      │  野生動物。      │
+│                        │      │2.於100年7月12日上│
+│                        │      │  午9時45分在臺南 │
+│                        │      │  市學甲區三慶里紅│
+│                        │      │  茄90號查獲。    │
+│                        │      │3.偵(二)卷第151頁下 │
+│                        │      │  方照片編號1、2、│
+│                        │      │  4所示之體型較大 │
+│                        │      │  者。            │
+└────────────┴───┴─────────┘
+附表二：
+┌────────────┬───┬─────────┐
+│  名                稱  │數  量│  備          註  │
+├────────────┼───┼─────────┤
+│柴棺龜（學名：Mauremys  │1隻   │1.屬珍貴稀有保育類│
+│mutica）                │      │  野生動物。      │
+│                        │      │2.於100年7月12日上│
+│                        │      │  午9時45分在臺南 │
+│                        │      │  市學甲區三慶里紅│
+│                        │      │  茄90號查獲。    │
+│                        │      │3.偵(二)卷第151頁下 │
+│                        │      │  方照片編號3所示 │
+│                        │      │  之體型較小者。  │
+└────────────┴───┴─────────┘</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWTND\CRIMINAL\10107\19\TNDM1017J.01F] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[2]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共56
+											筆 / 現在第8
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=101&selectedCrmid=%e8%a8%b4&selectedCrmno=000242&selectedCrtid=TND','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=7&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=9&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=56&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=101%2c%e8%a8%b4%2c242%2c20120719%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=242&jdate=1010719&jcheck=2">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=101%2c%e8%a8%b4%2c242%2c20120719%2c2&v_court=TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=101&jcase=%e8%a8%b4&jno=242&jdate=1010719&jcheck=2">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('101%2c%e8%a8%b4%2c242%2c20120719%2c2','TND+%e8%87%ba%e7%81%a3%e8%87%ba%e5%8d%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','101','%e8%a8%b4','242','1010719','2')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="8"> <input type="hidden" name="v_court" value="TND 臺灣臺南地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

@@ -1,0 +1,341 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣高等法院-高雄分院-刑-95上訴1812</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+8oa+pTkVg5vs2VgnTwPp72r81/w=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣高等法院 高雄分院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共73
+											筆 / 現在第43
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=095&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001812&selectedCrtid=KSH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=42&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=44&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=73&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=95%2c%e4%b8%8a%e8%a8%b4%2c1812%2c20061026%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=95&jcase=%e4%b8%8a%e8%a8%b4&jno=1812&jdate=951026&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=95%2c%e4%b8%8a%e8%a8%b4%2c1812%2c20061026%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=95&jcase=%e4%b8%8a%e8%a8%b4&jno=1812&jdate=951026&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('95%2c%e4%b8%8a%e8%a8%b4%2c1812%2c20061026%2c1','KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2','M','95','%e4%b8%8a%e8%a8%b4','1812','951026','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">95,上訴,1812</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">951026</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反<font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣高等法院高雄分院刑事判決　　　　95年度上訴字第1812號
+上　訴　人　臺灣屏東地方法院檢察署檢察官
+被　　　告　甲○○
+上列上訴人因被告違反野生動物保育法案件，不服臺灣屏東地方
+法院95年度訴字第488 號中華民國95年8 月2 日第一審判決（起
+訴案號：台灣屏東地方法院檢察署95年度偵字第2489號），提起
+上訴，本院判決如下：
+     主  文
+上訴駁回。
+     事  實
+一、甲○○曾犯偽造文書等案件，經台灣屏東地方法院於民國（
+    下同）92年2 月6 日以91年度易字第438 號判處有期徒刑3
+    月確定，於同年5 月15日易科罰金執行完畢，仍不知悔改，
+    明知鱸鰻係行政院農業委員會所公告列為保育類之野生動物
+    ，且族群數量並未逾越環境容許量，亦非基於學術研究或教
+    育目的，未經主管機關之許可，竟基於獵捕保育類野生動物
+    鱸鰻之故意，於95年4 月14日上午6 時許，在屏東縣牡丹鄉
+    內四重溪（古石門段），設置釣鉤獵捕鱸鰻1 尾（重約4. 5
+    公斤、長約90公分）。嗣於同日上午6 時15分許，由張昌紋
+    駕駛車號0713－FC號自用小貨車離開，行經屏199 線29.5公
+    里處為警攔檢查獲，並扣得上開鱸鰻1 尾（該尾鱸鰻經拍照
+    存證後，已由屏東縣牡丹鄉公所保育人員領回處理）、及其
+    所有且供獵捕用之釣鉤1 支、漁網1 具。
+二、案經屏東縣警察局恒春分局報請臺灣屏東地方法院檢察署檢
+    察官偵查起訴。
+    理  由
+一、訊據被告甲○○固坦承有於上揭時、地，以上述方法捕得鱸
+    鰻1 尾之事實，惟矢口否認有何獵捕保育類野生動物鱸鰻之
+    故意，辯稱：伊當天釣到鰻魚是意外，不知道是牠是鱸鰻，
+    更不知是保育類動物，且當場並無鱸鰻圖形或標本及鱸鰻為
+    保育動物之警告標示，被查獲時如果知道是違法，當場應會
+    急於脫逃或丟棄，由此可見伊根本不知捕獲鱸鰻是違法云云
+    。惟查，被告上揭之犯行，業據證人即查獲員警徐振章及施
+    正木於原審審理中證述明確，復有警方繪製之查獲現場圖1
+    張、照片16張、領據1 張及國立海洋生物博物館95年4 月18
+    日海生字第0950001675號函附卷可稽，及扣案之鱸鰻1 尾（
+    該查扣之活鱸鰻1 尾，基於保護野生動物原則，經現場拍照
+    及請專責單位製作鑑定報告後，已交由屏東縣牡丹鄉公所保
+    育人員領回處理）可資佐證。況查被告於原審審理均自承：
+    伊到現場，準備要釣鯰魚、吳郭魚、鯉魚、土虱，我沒有釣
+    過鰻魚，我從小即開始釣魚，一年釣魚約有二、三十次，有
+    時在海邊釣魚，有時在溪邊釣魚，前後共釣20年左右，一年
+    平均溪釣約有一、二十次，我大部分都是溪釣等語（見原審
+    審理筆錄第24頁反面至第25頁），是以被告多年之釣魚經驗
+    ，既然未曾釣過鱸鰻，顯該魚類甚為稀有；而案發現場又有
+    政府公告野生動物保育法之相關規定（公告之現場照片附於
+    偵查卷第22頁），則被告於捕獲該稀有魚類時，依一般常情
+    判斷，即應警惕該魚類係政府列入保護之動物而應速予放生
+    ，惟被告卻心存僥倖執意捕獲之，嗣於為警查獲後，再辯稱
+    伊不知該魚類為政府列入保育類魚類云云，即與常理不合，
+    不足為信，其犯行堪以認定。
+二、查鱸鰻均經行政農委員公告列入珍貴稀有之保育野生動物，
+    且未經該會公告族群量逾越環境容量，有行政院農業委員會
+    91年4 月24日農林字第0910030783號函示明確，該魚類既未
+    逾越環境容許量，被告亦非基於學術研究或教育目的，而經
+    中央主管機關許可獵捕，故其無野生動物保育法第18條第1
+    項第1 款、第2 款所規定之除外情形，係侵害一個社會法益
+    ，而未侵害數法益，係單純一罪。是核被告所為同時違反該
+    法第18條第1 項第1 款、第2 款之規定，應依同法第41條第
+    1 項第1 款、第2 款之規定處罰。公訴人未認被告有違反同
+    法第18條第1 項第2 款之規定，顯有未洽。又查被告曾犯偽
+    造文書等案件，經原審法院於92年2 月6 日以91年度易字第
+    438 號判處有期徒刑3 月確定，於同年5 月15日易科罰金執
+    行完畢等情，有臺灣高等法院被告前案紀錄表1 份在卷可稽
+    。是被告於徒刑執行完畢5 年以內故意再犯本件有期徒刑以
+    上之罪，不論依修正前之刑法第47條，或修正後之刑法第47
+    條第1 項之規定，均構成累犯，對被告而言並無有利或不利
+    之情形，自不生新舊法比較之問題，應逕依修正前刑法第47
+    條，論以累犯，加重其刑。又查違反野生動物保育法第41條
+    第1 項第1 款、第2 款之法定本刑為6 月以上5 年以下之有
+    期徒刑，並得併科新台幣二十萬元以上一百萬元以下罰金，
+    而本件被告僅為國小教育程度，法治教育相對亦較為不足，
+    如因一時貪念釣獵鱸鰻僅1 尾，既令宣告法定罪低刑度（6
+    月以上），即須入監服刑，於法猶嫌過苛，是就其犯罪之情
+    狀，在客觀上應足以引起一般同情。審酌上情，認被告之犯
+    罪情狀顯可憫恕，縱科以最低度刑度仍嫌過重，爰依刑法第
+    59條之規定（該條文94年之修正，僅加上『顯』及『認科以
+    最低度刑度仍嫌過重』等文字而已，為法院就刑之酌減審認
+    見解之明文化，非屬法律之變更。），酌量減輕其刑。
+三、雖公訴人另於上訴意旨指稱：張昌紋係自始在場且參與被告
+    之犯行，應為共犯等語，並以證人即查獲之員警施正木於檢
+    察官詢問時曾證稱：查獲時，被告與另一人（即張昌紋）在
+    拉魚等語，為其主要論據。惟查，犯罪事實應依證據認定之
+    ，無證據不得認定犯罪事實，刑事訴訟法第154 條第2 項定
+    有明文。本件被告於偵查、審理中自始至終均已明確聲稱當
+    日係伊一人在釣魚，張昌紋僅負責接受伊來回而已，並未參
+    與等語，且觀之被告之釣魚方法，係以結繩底釣即以一條線
+    掛著魚鉤固定於一處之簡單方式釣取（無魚竿），僅需一人
+    已足以，衡情不須動用二人。況且縱使張昌紋曾有拉魚之動
+    作，但亦有可能屬捕獲之事後行為，更何況被告於原審及本
+    院審理中供稱係捕獲後，始通知張昌紋到場等語，亦無違常
+    理之處，是原審未為共犯之認定，並無違誤之處。至於被告
+    一再辯稱伊不知等語而否認犯罪乙事，因被告本身即無自證
+    有罪之義務，是被告有所辯解，亦屬常情；況本件被告亦確
+    實僅捕獲一尾鱸鰻而已，就社會之一般通念，如僅為一條魚
+    而入監服刑6 個月以上，實有「法重情輕」之議，在客觀上
+    應已足以引起一般同情，因而原審依刑法第59條之規定，僅
+    酌減其法定最低刑1 個月，亦屬洽當。
+四、原判決以被告罪證明確，因而依野生動物保育法第41條第1
+    項第1 款、第2 款、第52條第1 項，刑法第11條前段、第2
+    條第1 項前段，修正前刑法第47條、第41條第1 項前段、（
+    原判決漏引修正前刑法第59條）修正前罰金罰鍰提高標準條
+    例第2 條規定，並審酌被告犯罪動機、目的所生危害、知識
+    程度、犯後態度等一切情狀，量處有期徒刑5 月，並於比較
+    新舊法後，以修正前刑法之易科罰金折算標準對行為人較為
+    有利，爰依修正前刑法第41條第1 項及修正前罰金罰鍰提高
+    標準條例第2 條之規定，諭知易科罰金之折算標準。並說明
+    扣案之釣鉤1 支、漁網1 具，為被告所有供犯罪所用之獵具
+    ，依野生動物保育法第52條第1 項規定，併宣告沒收。另捕
+    獲之鱸鰻1 尾，雖屬保育類野生動物，惟依野生動物保育法
+    第52條第1 項前段「犯第40條、第41條、第42條或第43 條
+    第3 項之罪，查獲之保育類野生動物得沒收之」及其施行細
+    則第36條「因犯本法第40條、第41條、第42條或第43條第3
+    項之罪而扣押或宣告沒收之保育類野生動物及其產製品，經
+    完成鑑定出具物種類別及拍照存證後，案件繫屬之法院或檢
+    察官得因主管機關之聲請，將該保育類野生動物及產製品移
+    由主管機關予以釋放或為其他處理」之規定，認扣案之鱸鰻
+    1 尾既由警方交予屏東縣牡丹鄉公所保育人員領回處理，即
+    並無宣告沒收之必要，爰不為沒收。經核原判決認事用法並
+    無違誤，量刑亦稱妥當。公訴人之上開上訴意旨並指摘原判
+    決量刑不當，乃無理由，應予駁回。
+據上論斷，應依刑事訴訟法第273 條之1 第1 項、第368 條，判
+決如主文。
+本案經檢察官陳國全到庭執行職務。
+中　　華　　民　　國　　95　　年　　10　　月　　26　　日
+                  刑事第四庭    審判長法  官  蕭權閔
+                                      法  官  林水城
+                                      法  官  吳進寶
+以上正本證明與原本無異。
+如不服本判決應於收受本判決後10日內向本院提出上訴書狀，其
+未敘述上訴理由者，並得於提起上訴後10日內向本院補提理由書
+狀（均須按他造當事人之人數附繕本）「切勿逕送上級法院」。
+中　　華　　民　　國　　95　　年　　10　　月　　26　　日
+　　　　　　　　　　　　　　　　　　　書記官  林佳蓉
+附錄本判決論罪科刑法條：
+野生動物保育法第41條
+有下列情形之一，處六月以上五年以下有期徒刑，得併科新臺幣
+20萬元以上100萬元以下罰金：
+一、未具第18條第1 項第1 款之條件，獵捕、宰殺保育類野生動
+    物者。
+二、違反第18條第1 項第2 款規定，未經中央主管機關許可，獵
+    捕、宰殺保育類野生動物者。
+三、違反第19條第1 項規定，使用禁止之方式，獵捕、宰殺保育
+    類野生動物者。
+於劃定之野生動物保護區內，犯前項之罪者，加重其刑至三分之
+一。
+第1項之未遂犯罰之。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\judday\OK\LAWKSH\CRIMINAL\9510\26\KSHM95AQ.041] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共73
+											筆 / 現在第43
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=095&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=001812&selectedCrtid=KSH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=42&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=44&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=73&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=95%2c%e4%b8%8a%e8%a8%b4%2c1812%2c20061026%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=95&jcase=%e4%b8%8a%e8%a8%b4&jno=1812&jdate=951026&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=95%2c%e4%b8%8a%e8%a8%b4%2c1812%2c20061026%2c1&v_court=KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2&v_sys=M&jyear=95&jcase=%e4%b8%8a%e8%a8%b4&jno=1812&jdate=951026&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('95%2c%e4%b8%8a%e8%a8%b4%2c1812%2c20061026%2c1','KSH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e9%ab%98%e9%9b%84%e5%88%86%e9%99%a2','M','95','%e4%b8%8a%e8%a8%b4','1812','951026','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="43"> <input type="hidden" name="v_court" value="KSH 臺灣高等法院 高雄分院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

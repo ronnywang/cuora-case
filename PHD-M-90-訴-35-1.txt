@@ -1,0 +1,278 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣澎湖地方法院-刑-90訴35</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+YGsYrYpxptIcDD553RKTMFRwZ7E=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣澎湖地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000035&selectedCrtid=PHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c35%2c20010822%2c1&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=35&jdate=900822&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c35%2c20010822%2c1&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=35&jdate=900822&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('90%2c%e8%a8%b4%2c35%2c20010822%2c1','PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','90','%e8%a8%b4','35','900822','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">90,訴,35</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">900822</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反<font color=red>野生動物保育法</font>等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣澎湖地方法院刑事判決　　　　　　　　　　　　　　　九十年度訴字第三五號
+　　公　訴　人　臺灣澎湖地方法院檢察署檢察官
+　　被　　　告　庚○○
+　　被　　　告　辛○○
+　　被　　　告　戊○○
+　　被　　　告　己○○
+　　被　　　告　乙○○
+　　被　　　告　丙○○
+右列被告因違反國家安全法案件，經檢察官提起公訴（九十年度偵字第三三三號），
+本院判決如左：
+    主    文
+庚○○、辛○○、戊○○、己○○、乙○○、丙○○共同未經許可入境，各處有期徒
+刑參月，如易科罰金，均以參佰元折算壹日。均緩刑貳年。
+扣案之三層刺網捌拾張、雜魚肆拾陸公斤、綠蠵龜壹隻沒收之。
+    事    實
+一、庚○○係中國大陸籍「閩莆漁二０七五號」漁船之船長，辛○○、戊○○、己○
+    ○、乙○○、丙○○則為該船之船員。渠等於民國九十年六月二十一日下午七時
+    許，基於共同犯意之聯絡，未經我國主管機關許可，駕駛上開漁船進入澎湖縣屈
+    爪嶼東方零點五海浬之臺灣地區，又渠等明知三層刺網為澎湖縣政府公告禁止使
+    用之網具，竟利用庚○○所有之三層刺網網具八十張，在上開地點附近，捕得雜
+    魚四十六公斤、綠蠵龜一隻。嗣於同年六月二十二日凌晨三時許，經行政院海岸
+    巡防署甲○巡防總局第八海巡隊，在上開地點查獲，並扣得三層刺網網具八十張
+    、雜魚四十六公斤、綠蠵龜一隻。
+二、案經行政院海岸巡防署甲○巡防總局第八海巡隊報請臺灣澎湖地方法院檢察署檢
+    察官偵查起訴。
+    理      由
+一、被告庚○○、辛○○、戊○○、己○○、乙○○、丙○○均坦承有未經許可、進
+    入我國國境，以三層刺網捕魚之行為，惟矢口否認有何違反漁業法之犯行，辯稱
+    ：不知澎湖縣政府公告不得以三層刺網捕魚云云。惟查：澎湖縣政府於八十八年
+    十月四日即公告禁止漁船使用多層刺網網具，有上開公告附卷可稽，被告等人為
+    捕魚謀生之人，對上揭事項應有知悉。渠等所辯，無非事後卸責之詞，不足採信
+    。此外，並有扣案之三層刺網網具八十張、雜魚四十六公斤、綠蠵龜一隻足資佐
+    證。本案事證明確，被告等人犯行堪予認定。
+二、核被告庚○○、辛○○、戊○○、己○○、乙○○、丙○○所為，係違反國家安
+    全法第三條第一項、漁業法第四十四條第三款之規定，應依國家安全法第六條第
+    一項、漁業法第六十一條之規定處斷。又渠等就上開犯行，有犯意聯絡及行為分
+    擔，為共同正犯。渠等所犯上開二罪間，有方法結果之牽連關係，應從較重之國
+    家安全法第六條第一項之罪處斷。爰審酌被告犯罪之動機、目的、手段，所捕得
+    魚類之數量，及犯後尚能大致坦承等一切情狀，量處主文所示之刑，並諭知易科
+    罰金之折算標準。又被告等人前未曾受有期徒刑以上刑之宣告，因一時失慮，偶
+    罹刑典，事後亦深具悔意，經此刑之宣告後，應知警惕而無再犯之虞，本院因認
+    暫不執行其刑為當，均予以宣告緩刑二年，用啟自新。又扣案之三層刺網八十張
+    、雜魚四十六公斤、綠蠵龜一隻，為被告等人採捕之漁獲物及漁具，應依漁業法
+    第六十八條之規定沒收之。
+三、公訴意旨另以：被告等人上述以三層刺網捕魚之行為，尚捕得保育類動物綠蠵龜
+    一隻，因認被告等人另涉野生動物保育法第四十一條第一項第三款之罪嫌。被告
+    庚○○、辛○○、戊○○、己○○、乙○○、丙○○均堅詞否認有何上開犯行，
+    辯稱：渠等不知道綠蠵龜是保育類動物，也沒有故意要捕綠蠵龜，本意只是要捕
+    魚，不知為何會捕到綠蠵龜等語。
+四、按犯罪事實應依證據認定之，無證據不得推定其犯罪事實；不能證明被告犯罪者
+    ，應諭知無罪之判決，刑事訴訟法第一百五十四條、第三百零一條第一項定有明
+    文。又野生動物保育法第四十一條第一項第三款之罪，係行為人故意以禁止之方
+    式，獵捕、宰殺保育類野生動物，始足構成。經查：被告等人於警訊、偵查，及
+    本院審理時，均一致陳稱：進入澎湖海域係為捕魚謀生，並未故意捕綠蠵龜，也
+    不知綠蠵龜係保育類動物，不知為何捕到綠蠵龜等語，觀諸渠等所辯情節，前後
+    均一致相符；又參酌渠等捕獲之漁獲物，僅有綠蠵龜一隻，其餘均為各種雜魚等
+    情，被告等人所辯，並非故意捕綠蠵龜等語，應堪予以採信。被告等人就此部分
+    罪名尚屬不能證明。又公訴人認此部分與前述論罪科刑之部分，屬方法結果之牽
+    連關係，為裁判上一罪，本院就此部分不另為無罪諭知。
+據上論斷，應依刑事訴訟法第二百九十九條第一項前段，國家安全法第六條第一項，
+漁業法第六十一條、第六十八條，刑法第十一條、第二十八條、第五十五條、第
+四十一條第一項前段、第七十四條第一款，罰金罰鍰提高標準條例第二條，判決如主
+文。
+本案經檢察官丁○○到庭執行職務。
+中      華      民      國    九十    年      八      月    二十二      日
+                              臺 灣 澎 湖 地 方 法 院 刑 事 庭
+                                    法      官  李    宛    玲
+右正本證明與原本無誤。
+如不服本判決，應於判決送達後十日內，向本院提出上訴狀（須附繕本）。
+中      華      民      國    九十    年      八      月    二十三      日
+                                    書  記  官  劉    竹    苞
+附錄本判決論罪之法條：
+國家安全法第三條第一項：
+人民入出境，應向內政部警政署入出境管理局申請許可。未經許可者，不得入出境。
+國家安全法第六條第一項：
+違反第三條第一項規定，未經許可入出境者，處三年以下有期徒刑、拘役或科或併科
+新台幣九萬元以下罰金。
+漁業法第六十一條：
+違反主管機關依第四十四條第三款所為之公告事項者，處六月以下有期徒刑、拘役或
+科或併科新台幣三萬元以下罰金。
+漁業法第六十八條：
+依第六十條、第六十一條、第六十二條第三款、第六十四條及第六十五條第一款所為
+之處罰，並得沒收或沒入其採捕之漁獲物及漁具；如全部或一部不能沒收或沒入時，
+追徵或追繳其價額。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Jud12\OK\LAWPHD\CRIMINAL\9008\24\PHDM908O.001] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共2
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e8%a8%b4&selectedCrmno=000035&selectedCrtid=PHD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=2&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e8%a8%b4%2c35%2c20010822%2c1&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=35&jdate=900822&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=90%2c%e8%a8%b4%2c35%2c20010822%2c1&v_court=PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=90&jcase=%e8%a8%b4&jno=35&jdate=900822&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('90%2c%e8%a8%b4%2c35%2c20010822%2c1','PHD+%e8%87%ba%e7%81%a3%e6%be%8e%e6%b9%96%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','90','%e8%a8%b4','35','900822','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="PHD 臺灣澎湖地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

@@ -1,0 +1,470 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣雲林地方法院-刑-98訴38</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+P3+/jPpPXboQeel/k+TRZwjsEaY=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣雲林地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共35
+											筆 / 現在第11
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000038&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=35&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c38%2c20090205%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=38&jdate=980205&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c38%2c20090205%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=38&jdate=980205&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c38%2c20090205%2c1','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','38','980205','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,訴,38</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">980205</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反<font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣雲林地方法院刑事判決　　　　　　　　98年度訴字第38號
+公　訴　人　臺灣雲林地方法院檢察署檢察官
+被　　　告　甲○○
+上列被告因違反野生動物保育法案件，經檢察官提起公訴（97年
+度偵字第279 號），本院於審理程序進行中，因被告就被訴事實
+為有罪之陳述，經告知簡式審判程序意旨，並聽取公訴人及被告
+意見後，本院合議庭裁定由受命法官獨任依簡式審判程序審理，
+判決如下：
+    主    文
+甲○○未經主管機關同意，意圖販賣而陳列及展示瀕臨絕種野生
+動物產製品，處有期徒刑捌月，緩刑貳年。扣案如附表編號1 至
+35所示之物均沒收。
+    事    實
+一、甲○○係雲林縣北港鎮○○路4 號手工藝品店之實際負責人
+    ，明知詳如附表編號1 至35所示之物品分別為玳瑁、臺灣黑
+    熊標本均係瀕臨絕種保育類野生動物之產製品，未經主管機
+    關同意，不得買賣或意圖販賣而陳列、展示，詎其竟意圖販
+    賣，未經主管機關同意，自民國95年間某日起，在上開手工
+    藝品店旁空地之工廠，將其先前於66年間某日，在高雄市鼓
+    山區碼頭，購得之玳瑁標本3 隻及原料龜甲片、半成品，加
+    工製作成玳瑁戒指、手鐲、項鍊、髮飾、鏡框、胸針、袖扣
+    等飾品（下稱玳瑁飾品），並將上開物品與先前於60年間某
+    日，在屏東縣恆春鎮，購得之臺灣黑熊1 隻，一同陳列及展
+    示在其所經營之上開公眾得出入之手工藝品店及工廠內，並
+    駕駛車牌號碼5M—2858號自小客車，至嘉義縣朴子市玄天上
+    帝廟前廣場夜市、雲林縣北港鎮同仁夜市，擺攤公開展示、
+    販售上開玳瑁標本1 隻及玳瑁飾品。嗣於97年01月16日12時
+    許，在上開手工藝品店及工廠、自小客車內，為警持本院搜
+    索票查獲，並扣得如附表編號1 至35所示物品。
+二、案經雲林縣警察局北港分局報告臺灣雲林地方法院檢察署檢
+    察官偵查起訴。
+    理    由
+壹、程序部分：本件被告甲○○所犯之罪，核屬刑事訴訟法第27
+    3 條之1 第1 項所定死刑、無期徒刑、最輕本刑為3 年以上
+    有期徒刑以外之罪，亦非高等法院管轄之第一審案件，而被
+    告於本院行準備程序中就被訴事實為有罪之陳述，經告知被
+    告簡式審判程序之旨並聽取當事人意見後，本院合議庭裁定
+    由受命法官獨任進行簡式審判程序，是本件之證據調查，依
+    刑事訴訟法第273 條之2 規定，不受同法第159 條第1 項、
+    第161 條之2 、第161 條之3 、第163 條之1 及第164 條至
+    第170 條規定之限制，合先敘明。
+貳、實體部分：
+  一、認定犯罪事實所憑之證據及理由：上揭犯罪事實，業據被
+      告於本院審理中坦承不諱，核與證人即檢舉人A1化名小蟲
+      於警詢中證述情節相符（見本院卷第71頁至第73頁），並
+      有被告之名片、蒐證照片（見本院卷第74頁至第76頁）、
+      國立屏東科技大學研究發展處附設野生動物保育服務中心
+      臨時物種鑑定表 (見警卷第46頁)、 法務部調查局鑑定書
+      （見本院卷第11頁至第62頁）等各1 份及現場照片24幀（
+      見警卷第28頁至第39頁）在卷可按。此外，並有扣案如附
+      表編號1 至35所示之物品可資佐證，足認被告於審理中出
+      於任意性之自白，與事實相符而堪採信。從而，本件事證
+      明確，被告犯行洵堪認定，自應依法論科。
+  二、論罪科刑之理由：
+    (一)核被告所為，係違反野生動物保育法第35條第1 項規定，
+      應依同法第40條第1 項第2 款之意圖販賣而陳列及展示瀕
+      臨絕種野生動物產製品罪處斷。
+    (二)爰審酌被告並無前科紀錄，品行尚佳、因貪圖小利意圖販
+      賣而陳列及展示瀕臨絕種野生動物產製品，所為助長盜獵
+      瀕臨絕種野生動物危害自然生態，惟被告犯後業已坦承犯
+      行，態度尚佳，甚有悔意等一切情狀，量處如主文所示之
+      刑，以資警惕。又被告前未曾受有期徒刑以上刑之宣告，
+      此有臺灣高等法院被告全國前案紀錄表1 份在卷可憑，被
+      告因一時失慮，偶罹刑典，且犯後已坦承犯行，甚有悔意
+      ，被告歷此偵審程序及罪刑之宣告後，應知所警惕，信無
+      再犯之虞，本院認所宣告之刑以暫不執行為適當，併諭知
+      緩刑2 年，以勵自新。扣案如附表編號1 至35所示之物，
+      應依野生動物保育法第52條第1項規定宣告沒收。
+  三、公訴意旨另以：被告於上開時、地陳列及展示如附表編號
+      36至39所示物品之行為，亦涉有違反野生動物保育法之犯
+      行，惟附表編號36至39所示物品，經法務部調查局鑑定結
+      果為人工仿冒品、非屬保育類野生動物產製品或無法判定
+      是否屬保育類野生動物玳瑁產製品等情，有上開法務部調
+      查局鑑定書1 份附卷可稽，則被告陳列及展示上開物品之
+      行為即非野生動物保育法所禁止，此部分既不能證明被告
+      犯罪，依法自應為被告無罪之諭知，惟公訴人認被告此部
+      分所犯與前開已論罪科刑之有罪部分，係屬事實上一罪之
+      關係，在審判上不可分割，爰不另為被告無罪之諭知，亦
+      無庸宣告沒收。
+、適用之法律：
+  一、刑事訴訟法第284 條之1 前段、第273 條之1 第1 項、第
+      299 條第1 項前段。
+  二、野生動物保育法第35條第1 項、第40條第1 項第2 款、第
+      52 條 第1 項，刑法第11條前段、第74條第1 項第1 款。
+本案經檢察官梁義順到庭執行職務。
+中　　華　　民　　國　　98　　年　　2 　　月　　5 　　日
+                  刑事第二庭    法  官  許佩如
+以上正本證明與原本無異。
+如不服本判決應於收受判決後10日內向本院提出上訴書狀，並應
+敘述具體理由；其未敘述上訴理由者，應於上訴期間屆滿後20日
+內向本院補提理由書（均須按他造當事人之人數附繕本）。「切
+勿逕送上級法院」。
+                                書記官　徐基典
+中　　華　　民　　國　　98　　年　　2 　　月　　5 　　日
+附錄本案論罪科刑法條全文：
+【野生動物保育法第35條】
+  保育類野生動物、瀕臨絕種及珍貴稀有野生動物產製品，非經
+  主管機關之同意，不得買賣或在公共場所陳列、展示。
+  前項保育類野生動物、瀕臨絕種及珍貴稀有野生動物產製品之
+  種類，由中央主管機關公告之。
+【野生動物保育法第40條】
+  有下列情形之一，處六月以上五年以下有期徒刑，得併科新臺
+  幣三十萬元以上一百五十萬元以下罰金：
+    一、違反第二十四條第一項規定，未經中央主管機關同意，
+        輸入或輸出保育類野生動物之活體或其產製品者。
+    二、違反第三十五條第一項規定，未經主管機關同意，買賣
+        或意圖販賣而陳列、展示保育類野生動物或瀕臨絕種及
+        珍貴稀有野生動物產製品者。
+附表：
+  ┌──┬──────┬───┬─────────────┐
+  │編號│名      稱  │數 量 │   備                註   │
+  ├──┼──────┼───┼─────────────┤
+  │01  │龜甲片      │17公斤│                          │
+  ├──┼──────┼───┼─────────────┤
+  │02  │龜甲片      │15公斤│                          │
+  ├──┼──────┼───┼─────────────┤
+  │03  │龜甲片      │18公斤│                          │
+  ├──┼──────┼───┼─────────────┤
+  │04  │龜甲片      │16公斤│                          │
+  ├──┼──────┼───┼─────────────┤
+  │05  │龜甲片      │15公斤│                          │
+  ├──┼──────┼───┼─────────────┤
+  │06  │龜甲片      │16公斤│                          │
+  ├──┼──────┼───┼─────────────┤
+  │07  │龜甲片      │20公斤│                          │
+  ├──┼──────┼───┼─────────────┤
+  │08  │龜甲片      │16公斤│                          │
+  ├──┼──────┼───┼─────────────┤
+  │09  │龜甲片      │18公斤│                          │
+  ├──┼──────┼───┼─────────────┤
+  │10  │玳瑁標本    │ 3  隻│                          │
+  ├──┼──────┼───┼─────────────┤
+  │11  │臺灣黑熊標本│ 1  隻│                          │
+  │    │            │      │                          │
+  ├──┼──────┼───┼─────────────┤
+  │12  │玳瑁原料    │ 9公斤│                          │
+  ├──┼──────┼───┼─────────────┤
+  │13  │玳瑁原料    │21公斤│                          │
+  ├──┼──────┼───┼─────────────┤
+  │14  │玳瑁半成品  │11公斤│                          │
+  ├──┼──────┼───┼─────────────┤
+  │15  │玳瑁原料    │ 1公斤│                          │
+  ├──┼──────┼───┼─────────────┤
+  │16  │玳瑁龜頭    │ 2  顆│                          │
+  ├──┼──────┼───┼─────────────┤
+  │17  │玳瑁龜腳    │ 1  隻│                          │
+  ├──┼──────┼───┼─────────────┤
+  │18  │胸針【法務部│52  件│均具玳瑁背甲外觀紋路及化學│
+  │    │調查局編號00│      │成分，屬保育類瀕臨絕種野生│
+  │    │1】         │      │動物產製品。              │
+  ├──┼──────┼───┼─────────────┤
+  │19  │眼鏡框【法務│12  件│均具玳瑁背甲外觀紋路及化學│                        │
+  │    │部調查局編號│      │成分，屬保育類瀕臨絕種野生│                        │
+  │    │002】       │      │動物產製品。              │                        │
+  ├──┼──────┼───┼─────────────┤
+  │20  │胸針、項鍊、│3124件│均具玳瑁背甲外觀紋路及化學│
+  │    │髮飾、手環、│      │成分，屬保育類瀕臨絕種野生│
+  │    │袖扣等飾品【│      │動物產製品。              │
+  │    │法務部調查局│      │                          │
+  │    │編號003 (一)至│      │                          │
+  │    │(十六)-1、(十六)-2、│      │                          │
+  │    │(十六)-3、(十八)】  │      │                          │
+  ├──┼──────┼───┼─────────────┤
+  │21  │手環【法務部│ 24 件│均具玳瑁背甲外觀紋路及化學│
+  │    │調查局編號00│      │成分，屬保育類瀕臨絕種野生│
+  │    │4 】        │      │動物產製品。              │
+  ├──┼──────┼───┼─────────────┤
+  │22  │戒指【法務部│ 68 件│均具玳瑁背甲外觀紋路及化學│
+  │    │調查局編號00│      │成分，屬保育類瀕臨絕種野生│
+  │    │5 】        │      │動物產製品。              │
+  ├──┼──────┼───┼─────────────┤
+  │23  │胸針【法務部│229 件│均具玳瑁背甲外觀紋路及化學│
+  │    │調查局編號00│      │成分，屬保育瀕臨絕種類野生│
+  │    │6】         │      │動物產製品。              │
+  ├──┼──────┼───┼─────────────┤
+  │24  │項鍊、胸針等│434 件│均具玳瑁背甲外觀紋路及化學│
+  │    │飾品【法務部│      │成分，屬保育類瀕臨絕種野生│
+  │    │調查局編號00│      │動物產製品。              │
+  │    │7 (一)至(二)、(四)│      │                          │
+  │    │A區、(五)A區】│      │                          │
+  ├──┼──────┼───┼─────────────┤
+  │25  │手環【法務部│ 56 件│均具玳瑁背甲外觀紋路及化學│
+  │    │調查局編號00│      │成分，屬保育類瀕臨絕種野生│
+  │    │8】         │      │動物產製品。              │
+  ├──┼──────┼───┼─────────────┤
+  │26  │手環【法務部│ 75 件│均具玳瑁背甲外觀紋路及化學│
+  │    │調查局編號00│      │成分，屬保育類瀕臨絕種野生│
+  │    │9】         │      │動物產製品。              │
+  ├──┼──────┼───┼─────────────┤
+  │27  │戒指【法務部│208 件│均具玳瑁背甲外觀紋路及化學│
+  │    │調查局編號01│      │成分，屬保育類瀕臨絕種野生│
+  │    │0】         │      │動物產製品。              │
+  ├──┼──────┼───┼─────────────┤
+  │28  │項鍊【法務部│107 件│均具玳瑁背甲外觀紋路及化學│
+  │    │調查局編號01│      │成分，屬保育類瀕臨絕種野生│
+  │    │1 (一)、(二)A 區│      │動物產製品。              │
+  │    │、(三)】      │      │                          │
+  ├──┼──────┼───┼─────────────┤
+  │29  │項鍊【法務部│ 55 件│均具玳瑁背甲外觀紋路及化學│
+  │    │調查局編號01│      │成分，屬保育類瀕臨絕種野生│
+  │    │2】         │      │動物產製品。              │
+  ├──┼──────┼───┼─────────────┤
+  │30  │髮飾【法務部│  9 件│均具玳瑁背甲外觀紋路及化學│
+  │    │調查局編號01│      │成分，屬保育類瀕臨絕種野生│
+  │    │3】         │      │動物產製品。              │
+  ├──┼──────┼───┼─────────────┤
+  │31  │項鍊、胸針等│860 件│均具玳瑁背甲外觀紋路及化學│
+  │    │飾品【法務部│      │成分，屬保育類瀕臨絕種野生│
+  │    │調查局編號01│      │動物產製品。              │
+  │    │4】         │      │                          │
+  ├──┼──────┼───┼─────────────┤
+  │32  │戒指【法務部│212 件│均具玳瑁背甲外觀紋路及化學│
+  │    │調查局編號01│      │成分，屬保育類瀕臨絕種野生│
+  │    │5】         │      │動物產製品。              │
+  ├──┼──────┼───┼─────────────┤
+  │33  │胸針【法務部│  6 件│均具玳瑁背甲外觀紋路及化學│
+  │    │調查局編號01│      │成分，屬保育類瀕臨絕種野生│
+  │    │6】         │      │動物產製品。              │
+  ├──┼──────┼───┼─────────────┤
+  │34  │項鍊、胸針等│252 件│均具玳瑁背甲外觀紋路及化學│
+  │    │飾品【法務部│      │成分，屬保育類瀕臨絕種野生│
+  │    │調查局編號01│      │動物產製品。              │
+  │    │7 (一)至(二)、(四)│      │                          │
+  │    │】          │      │                          │
+  ├──┼──────┼───┼─────────────┤
+  │35  │袖扣、領帶夾│ 94 件│均具玳瑁背甲外觀紋路及化學│
+  │    │、領帶別針等│      │成分，屬保育類瀕臨絕種野生│
+  │    │飾品【法務部│      │動物產製品。              │
+  │    │調查局編號01│      │                          │
+  │    │8 】        │      │                          │
+  ├──┼──────┼───┼─────────────┤
+  │36  │疑似玳瑁製品│ 86 件│(1)編號003 (十七)-1飾品22件，均│
+  │    │【法務部調查│      │  不具玳瑁背甲外觀紋路及化│
+  │    │局編號003 (十七)│      │  學成分，為人工仿冒品。  │
+  │    │-1、(十七)-2】  │      │(2)編號003 (十七)-2A 區飾品51件│
+  │    │            │      │  ，均不具玳瑁背甲外觀紋路│
+  │    │            │      │  及化學成分，為人工仿冒品│
+  │    │            │      │  。                      │
+  │    │            │      │(3)編號003 (十七)-2B 區飾品1 件│
+  │    │            │      │  ，具牛角外觀及化學成成分│
+  │    │            │      │  ，非屬保育類野生動物產製│
+  │    │            │      │  品。                    │
+  │    │            │      │(4)編號003 (十七)-2C 區飾品12件│
+  │    │            │      │  ，均為礦石，非屬野生動物│
+  │    │            │      │  產製品。                │
+  ├──┼──────┼───┼─────────────┤
+  │37  │疑似玳瑁製品│ 55 件│(1)編號007 (三)飾品35件，均不│
+  │    │【法務部調查│      │  具玳瑁背甲外觀紋路及化學│
+  │    │局編號007 (三)│      │  成分，為人工仿冒品。    │
+  │    │、(四)B 區、(五)│      │(2)編號007 (四)B 區飾品18件，│
+  │    │B 區】      │      │  均不具玳瑁背甲外觀紋路及│
+  │    │            │      │  化學成分，為人工仿冒品。│
+  │    │            │      │(3)編號007 (五)B 區飾品2 件，│
+  │    │            │      │  均為礦石，非屬野生動物產│
+  │    │            │      │  製品。                  │
+  ├──┼──────┼───┼─────────────┤
+  │38  │疑似玳瑁製品│  3 件│編號011 (二)B 區飾品3 件，均│
+  │    │【法務部調查│      │不具玳瑁背甲外觀紋路及化學│
+  │    │局編號011 (二)│      │成分，為人工仿冒品。      │
+  │    │B 區】      │      │                          │
+  ├──┼──────┼───┼─────────────┤
+  │39  │疑似玳瑁製品│ 47 件│(1)編號017 (三)A 區飾品45件，│
+  │    │【法務部調查│      │  均不具玳瑁背甲外觀紋路及│
+  │    │局編號017 (三)│      │  化學成分，為人工仿冒品。│
+  │    │】          │      │(2)編號017 (三)B 區飾品1 件，│
+  │    │            │      │  檢品外部不具玳瑁背甲外觀│
+  │    │            │      │  紋路及化成分，為人工仿冒│
+  │    │            │      │  品。檢品內部夾層具有玳瑁│
+  │    │            │      │  背甲外觀紋路，因無法進行│
+  │    │            │      │  破壞性檢驗，以確認其成分│
+  │    │            │      │  ，故無法判定是否屬保育類│
+  │    │            │      │  野生動物玳瑁產製品。    │
+  │    │            │      │(3)編號017 (三)C 區飾品1 件係│
+  │    │            │      │  礦石，非屬野生動物產製品│
+  │    │            │      │  。                      │
+  └──┴──────┴───┴─────────────┘
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\Judday\OK\LAWULD\CRIMINAL\9802\05\ULDM9825.005] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共35
+											筆 / 現在第11
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e8%a8%b4&selectedCrmno=000038&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=10&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=35&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e8%a8%b4%2c38%2c20090205%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=38&jdate=980205&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=98%2c%e8%a8%b4%2c38%2c20090205%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e8%a8%b4&jno=38&jdate=980205&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e8%a8%b4%2c38%2c20090205%2c1','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','98','%e8%a8%b4','38','980205','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="11"> <input type="hidden" name="v_court" value="ULD 臺灣雲林地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

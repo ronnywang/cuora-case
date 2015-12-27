@@ -1,0 +1,348 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣花蓮地方法院-刑-99訴220</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+YGsYrYpxptIcDD553RKTMFRwZ7E=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣花蓮地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共121
+											筆 / 現在第33
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000220&selectedCrtid=HLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=32&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=34&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=121&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c220%2c20100820%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=220&jdate=990820&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c220%2c20100820%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=220&jdate=990820&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%2c220%2c20100820%2c1','HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4','220','990820','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">99,訴,220</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">990820</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體"><font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣花蓮地方法院刑事判決　　　　　　 99年度訴字第220號
+公　訴　人　臺灣花蓮地方法院檢察署檢察官
+被　　　告　甲○○
+選任辯護人　楊志航律師
+上列被告因野生動物保育法案件，經檢察官提起公訴（99年度偵
+字第1745號），本院判決如下：
+    主  文
+甲○○犯野生動物保育法第四十一條第一項第一款、第三款之非
+法獵捕保育類野生動物罪，處有期徒刑柒月。扣案如附表所示之
+物均沒收。
+    事  實
+一、甲○○於民國99年2月12日前1至 2日左右，在山羌、長鬃山
+    羊（下簡稱山羊）之族群量並未逾越環境容許量之情形下，
+    至花蓮縣萬榮鄉西林村林田山事業區35林班地，以禁止之吊
+    鋼索方式設陷阱約10個，獵捕保育類野生動物山羌 2隻、山
+    羊 4隻，嗣交由其不知情之兒子謝貴正（業經檢察官為不起
+    訴處分）載運已支解、詳如附表所示之山羌、山羊屍塊下山
+    時，為警當場查獲。
+二、案經花蓮縣警察局鳳林分局報告台灣花蓮地方法院檢察署檢
+    察官偵查起訴。
+    理  由
+一、證據能力部分：
+  (一)按被告以外之人於審判外之言詞或書面陳述，除法律有規定
+    者外，不得作為證據；被告以外之人於偵查中向檢察官所為
+    之陳述，除顯有不可信之情況者外，得為證據；又被告以外
+    之人於審判外之陳述，雖不符前四條之規定，而經當事人於
+    審判程序同意作為證據，法院審酌該言詞陳述或書面陳述作
+    成時之情況，認為適當者，亦得為證據，刑事訴訟法第 159
+    條第1項、第159條之1第2項、第159條之 5第1項分別定有明
+    文。
+  (二)證人謝貴正於警詢之證詞、花蓮縣政府農業發展處保育與林
+    政科99年 2月12日野生動物鑑識憑證、行政院農業委員會特
+    有生物研究保育中心99年 3月15日農特動字第0993601409號
+    函，經當事人同意有證據能力，且審酌該言詞陳述或書面陳
+    述作成時之情況，並無不適當情事，依刑事訴訟法第 159條
+    之5第1項規定，認有證據能力。
+  (三)證人謝貴正於偵查中之證詞，核無顯不可信之情形，依刑事
+    訴訟法第159條之1第2項之規定，有證據能力。
+二、訊據被告甲○○固坦承於上開時間、地點以吊鋼索方式設陷
+    阱獵捕野生動物，惟矢口否認有何上開犯行，辯稱：「我是
+    要獵捕山豬，沒想到有1隻山羊自己掉進陷阱，我只獵到1隻
+    山羊，其他烤乾的山羌、山羊，都是布農族獵人送給我的。
+    」云云。經查：
+  (一)證人謝貴正於警詢證稱：「扣案的野生動物是我爸爸甲○○
+    獵捕的，我沒有跟他一起分解、烤乾野生動物，我到現場時
+    ，野生動物已經被分解泡在水裏了，我車上的野生動物都是
+    我爸爸甲○○分解、烤乾的，我開車和我爸爸騎機車一起去
+    35林班地，是為了要搬運野生動物的肉，載回家，我是第一
+    次去載肉，因為我全家人過年，大家回來要吃肉，我爸爸還
+    要留在山上收陷阱，所以無法下山，我爸爸跟我說他要大年
+    初二才要下山，所以我就先把動物的肉搬運下山回家，我爸
+    爸目前還在35林班地內，走路進去還要 6個小時才會到獵場
+    ，他是用吊索方式獵捕野生山羊和山羌，我知道這些是保育
+    類野生動物，我有跟我爸爸講，不要再用陷阱抓野生動物了
+    ，這是違法的行為，我跟他說過年夠吃就好了，所以他要把
+    陷阱收了。」等語明確，謝貴正為被告之子，當無故意陷害
+    被告之理，且所述與偵查中證詞大致相符，證詞應堪採信。
+    被告及辯護人於本院準備程序自承，被告設有10個陷阱，且
+    被告稱其設的陷阱，山豬、山羊、山羌都可以掉得進去，顯
+    見無法排除山豬以外之保育類野生動物遭其所設之陷阱獵捕
+    ，被告主觀上具有獵捕山羌、山羊之故意，應堪認定。至於
+    被告辯稱只獵捕 1隻山羊，其他都是不詳布農族獵人所贈云
+    云，與其警詢供述「我只有抓到1隻山羊」 ，其他都是在工
+    寮內人家不要的，我覺得可惜就撿回來。」云云不符，況扣
+    案之肉塊大部分均烤熟，他人辛苦獵捕、分解、烤熟野生動
+    物，豈有贈與給根本不認識之被告之理？被告所辯顯難採信
+    。
+  (二)此外，復有自謝貴正車上扣得之如附表所示野生動物屍塊、
+    查獲時拍攝之照片36張、花蓮縣政府農業發展處保育與林政
+    科99年 2月12日野生動物鑑識憑證、行政院農業委員會特有
+    生物研究保育中心99年 3月15日農特動字第0993601409號函
+    在卷可佐，堪以認定扣案之野生動物均係被告所捕獲。綜上
+    ，本件被告犯行事證明確，堪以認定，應予依法論科。
+三、核被告所為，係違反野生動物保育法第18條第1項第1款、第
+    19條第1項第6款之規定，應依同法第41條第1項第 1、3款之
+    規定處罰。檢察官原只起訴同條項第 3款，嗣由公訴檢察官
+    當庭補充同條項第1、2款之犯罪事實、法條，然按野生動物
+    保育法第41條第1項第2款係規定，違反同法第18條第1項第2
+    款之規定，未經中央主管機關許可，獵捕保育類野生動物者
+    ，為其成立要件，亦即行為人係基於學術研究或教育目的，
+    而未經中央主管機關許可，獵捕保育類野生動物，方可成立
+    。如非基於上述之目的而有擅自獵捕保育類野生動物之行為
+    者，則屬是否構成同法第41條第1項第1款之罪之問題（最高
+    法院86年度臺上字第 3821號判決意旨參照)。本件被告設陷
+    阱獵捕山羌、山羊，業據被告供述係要拿回家食用，顯非為
+    學術研究或教育之目的，是揆諸上開說明，尚不得論以野生
+    動物保育法第41條第1項第2款之罪，合先敘明。又被告之行
+    為雖兼具上開兩種違法情形，且獵捕獲山羌2隻、山羊4隻，
+    然因獵捕行為只有 1個，仍只成立一罪，不能認為係法規競
+    合或犯罪競合，僅須於判決主文將各款情形順序揭明即可，
+    併此敘明。
+四、爰審酌被告教育程度為國小 3年級，係太魯閣族、目前無業
+    ，業經其子勸告以陷阱獵捕保育類野生動物為違法行為，仍
+    逕自設置大量陷阱，獵捕山羌2隻、山羊4隻，對野生動物保
+    育所生損害非輕，且雖年老然，仍體健，犯罪遭查獲後，仍
+    避重就輕，並無悔意等一切情狀，量處如主文所示之刑。
+五、扣案如附表所示之物，均係被告犯野生動物保育法第41條第
+     1項第1、3款之罪所查獲之保育類野生動物，爰依野生動物
+    保育法第52條第1項前段之規定宣告沒收。
+據上論斷，應依刑事訴訟法第299條第1項前段，野生動物保育法
+第18條第1項第1款、第19條第1項第6款、第41條第1項第1款、第
+3款、第52條第1項，判決如主文。
+本案經檢察官吳宇青到庭執行職務。
+中    華    民    國    99    年    8     月    20    日
+                  刑事第三庭    審判長法  官  李世華
+                                      法  官  許乃文
+                                      法  官  蕭一弘
+以上正本證明與原本無異。
+如不服本判決應於收受送達後10日內向本院提出上訴書狀，並應
+敘述具體理由。其未敘述上訴理由者，應於上訴期間屆滿後20日
+內向本院補提理由書(均須按他造當事人之人數附繕本)「切勿逕
+送上級法院」。
+中    華    民    國    99    年    8     月    20    日
+                                       書記官
+野生動物保育法第18條第1項
+保育類野生動物應予保育，不得騷擾、虐待、獵捕、宰殺或為其
+他利用。但有下列情形之一，不在此限：
+一、族群量逾越環境容許量者。
+二、基於學術研究或教育目的，經中央主管機關許可者。
+前項第1款保育類野生動物之利用，應先經地方主管機關許可
+；其可利用之種類、地點、範圍及利用數量、期間與方式，由中
+央主管機關公告之。
+前二項申請之程序、費用及其他有關事項，由中央主管機關定之
+。
+野生動物保育法第19條第1項第6款
+獵捕野生動物，不得以下列方法為之：
+六  使用陷阱、獸鋏或特殊獵捕工具。
+野生動物保育法第41條第1項
+有下列情形之一，處6月以上5年以下有期徒刑，得併科新臺幣20
+萬元以上1百萬元以下罰金：
+一、未具第18條第1項第1款之條件，獵捕、宰殺保育類野生動物
+    者。
+二、違反第18條第1項第2款規定，未經中央主管機關許可，獵捕
+    、宰殺保育類野生動物者。
+三、違反第19條第 1項規定，使用禁止之方式，獵捕、宰殺保育
+    類野生動物者。
+野生動物保育法第52條
+犯第40條、第41條、第42條或第43條第 3項之罪，查獲之保育類
+野生動物得沒收之；查獲之保育類野生動物產製品及供犯罪所用
+之獵具、藥品、器具，沒收之。
+附錄法條：
+野生動物保育法第18條第1項
+保育類野生動物應予保育，不得騷擾、虐待、獵捕、宰殺或為其
+他利用。但有下列情形之一，不在此限：
+一、族群量逾越環境容許量者。
+二、基於學術研究或教育目的，經中央主管機關許可者
+附表：
+一、長鬃山羊頭顱四個（其中三個已烤乾）。
+二、生長鬃山羊腿四隻。
+三、已烤乾長鬃山羊腳十二隻。
+四、山羌頭二個。
+五、山羌腿五隻。
+六、山羌腳十一隻。
+七、已烤乾山羌肉塊十塊。
+八、已烤乾山羌胃袋三個</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\judday\OK\LAWHLD\CRIMINAL\9908\20\HLDM998K.005] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共121
+											筆 / 現在第33
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=099&selectedCrmid=%e8%a8%b4&selectedCrmno=000220&selectedCrtid=HLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=32&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=34&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=121&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=99%2c%e8%a8%b4%2c220%2c20100820%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=220&jdate=990820&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=99%2c%e8%a8%b4%2c220%2c20100820%2c1&v_court=HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=99&jcase=%e8%a8%b4&jno=220&jdate=990820&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('99%2c%e8%a8%b4%2c220%2c20100820%2c1','HLD+%e8%87%ba%e7%81%a3%e8%8a%b1%e8%93%ae%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','99','%e8%a8%b4','220','990820','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="33"> <input type="hidden" name="v_court" value="HLD 臺灣花蓮地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

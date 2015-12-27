@@ -1,0 +1,409 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣高等法院-臺南分院-刑-90上更(一)598</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+8oa+pTkVg5vs2VgnTwPp72r81/w=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣高等法院 臺南分院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共23
+											筆 / 現在第15
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e4%b8%8a%e6%9b%b4(%e4%b8%80)&selectedCrmno=000598&selectedCrtid=TNH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=16&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=23&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e4%b8%8a%e6%9b%b4(%e4%b8%80)%2c598%2c20020417%2c1&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e6%9b%b4(%e4%b8%80)&jno=598&jdate=910417&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=90%2c%e4%b8%8a%e6%9b%b4(%e4%b8%80)%2c598%2c20020417%2c1&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e6%9b%b4(%e4%b8%80)&jno=598&jdate=910417&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('90%2c%e4%b8%8a%e6%9b%b4(%e4%b8%80)%2c598%2c20020417%2c1','TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2','M','90','%e4%b8%8a%e6%9b%b4(%e4%b8%80)','598','910417','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">90,上更(一),598</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">910417</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體"><font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣高等法院臺南分院刑事判決　　　　九十年度上更(一)字第五九八號　 孝股
+　　上訴人即被告　丁○○
+右上訴人因違反野生動物保育法案件，不服臺灣臺南地方法院八十七年度訴字第六○
+九號中華民國八十八年三月十一日第一審判決（起訴案號：臺灣臺南地方法院檢察署
+八十六年度偵字第五一二九號），提起上訴，本院判決後，經最高法院第一次發回更
+審，本院判決如左：
+      主  文
+原判決關於丁○○、戊○○部分撤銷。
+丁○○、戊○○均無罪。
+      理  由
+一、公訴意旨略以：
+（一）被告丁○○與某姓名年籍不詳成年男子基於犯意之聯絡，於八十六年四月二日
+      上午九時許，在台南縣善化鎮○○路『善化牛販趕集市場』（俗稱『善化牛墟
+      』）丁○○所主持販賣藥布、藥洗攤位內，未經主管機關同意，意圖販賣而陳
+      列、展示內裝屬於珍貴稀有野生動物之保育類野生動物眼鏡蛇一隻，及內有百
+      步蛇（屬瀕臨絕種野生動物）、眼鏡蛇、雨傘節、龜殼花（以上三者均屬珍貴
+      稀有野生動物）屍體共九條之野生動物產製品蛇酒一罈，由該姓名不詳男子當
+      場宰殺非屬保育類野生動物之臭青母蛇一隻，丁○○並向在旁圍觀者介紹蛇酒
+      具有提昇男人性能力等好處。嗣於同日上午十一時三十分許，被警方當場查獲
+      ，並扣得前開眼鏡蛇一隻，及裝有瀕臨絕種及珍貴稀有野生動物產製品蛇酒一
+      罈。因認被告丁○○涉有野生動物保育法第四十條第一項第二款之罪嫌云云。
+（二）被告戊○○與程景春（業經原審判處無罪確定）基於共同之犯意，未經主管機
+      關同意，於八十六年三月間之某日，在高雄縣林園鄉向年籍姓名不詳之人買入
+      保育類野生動物『食蟹蒙』（俗稱棕簑貓，學名Herpestesurva ）一隻，並攜
+      往台南縣善化鎮○○路『善化牛販趕集市場』其二人共同經營之草藥攤位供人
+      觀覽以招攬顧客。嗣於八十六年四月二日上午十一時三十分許，經警於上址當
+      場查獲，並扣得保育類野生動物『食蟹蒙』一隻（經依規定由臺南縣政府農業
+      局轉送國立屏東技術學院動物收容中心收容）。因認被告戊○○涉有野生動物
+      保育法第四十條第一項第二款之罪嫌云云。
+二、按犯罪事實應依證據認定之，無證據不得推定其犯罪事實。又不能證明被告犯罪
+    者，應諭知無罪之判決，刑事訴訟法第一百五十四條、第三百零一條第一項分別
+    定有明文。再事實之認定，應憑證據，如未能發現相當證據，或證據不足以證明
+    ，自不能以推測或擬制之方法，為裁判基礎（最高法院四十年臺上字第八六號判
+    例參照）。再按認定犯罪事實，所憑之證據，雖不以直接證據為限，間接證據亦
+    包括在內，然無論直接或間接證據，其為訴訟上之證明，須於通常一般之人均不
+    致於有所懷疑，而得確信其為真實之程度者，始得據之為有罪之認定，倘其證明
+    尚未達到此一程度，而有合理性懷疑之存在時，即無從為有罪之認定，此亦有最
+    高法院七十六年臺上字第四九八六號判例可資參照。
+三、本件公訴人認被告丁○○、戊○○涉犯上開犯行，無非係以（一）被告丁○○於
+    警訊供稱：警方查獲該蛇類時攤位是其主持，眼鏡蛇是一個朋友的，他借其攤位
+    ，因係朋友關係，始幫忙介紹蛇毒的好處，而現場其朋友有宰殺一條臭青母等語
+    ，核與同案被告程景春於警訊中所供：在場有三人，除我之外，主持人為被告丁
+    ○○，另一位在場跑腿男子我並不知道他姓名，現場殺的蛇是臭青母，不是眼鏡
+    蛇，是那位不知名男子殺的等語相符，則該眼鏡蛇及蛇酒既係陳列於被告丁○○
+    主持之攤位上經查獲，現場並有人當場宰殺蛇類，而被告丁○○又為之宣揚蛇毒
+    之好處，則其陳列展示前開眼鏡蛇及蛇酒，顯係意圖販賣；（二）同案被告程景
+    春於警訊中供稱：『食蟹蒙』是被告戊○○於八十六年三月間向他朋友買的，買
+    來給顧客觀賞用等語，及於偵查中供稱：與被告戊○○去林園做生意的時候，看
+    到別人捕捉買回來養的等語，及照片、搜索扣押證明書、領據等件附卷可稽等語
+    ，為主要之論罪依據。
+四、訊據上訴人即被告丁○○、戊○○雖供承有於右揭時、地被警方查獲眼鏡蛇一隻
+    ，及裝有百步蛇、眼鏡蛇、雨傘節、龜殼花屍體共九條之野生動物產製品蛇酒乙
+    罈及保育類野生動物『食蟹蒙』一隻等事實，但均堅詞否認有何違反野生動物保
+    育法之犯行，被告丁○○辯稱：扣案蛇酒非伊所有，乃案外人呂秀蘭帶至伊販賣
+    膏藥攤位旁，表示已浸泡十餘年，不知是否仍可飲用，請伊代為鑑定等語；被告
+    戊○○則以：扣案『食蟹蒙』乙隻，係伊與友人途經高雄縣林園鄉時，見一群孩
+    童捕捉到腳部受傷之『食蟹蒙』，乃請該群小孩送伊帶回家嗣養，伊並未向渠等
+    購買等語置辯。
+五、經查：
+（甲）被告丁○○部分：
+    (1)被告丁○○於前揭時、地，在其主持攤位上經警當場查獲陳列展示內裝百步蛇
+      、眼鏡蛇、雨傘節、龜殼花蛇類屍體浸泡製成蛇酒一罈及眼鏡蛇活體一條等情
+      ，固據其於警訊及偵審中坦承不諱，並有臺南縣警察局善化分局搜索扣押證明
+      筆錄乙紙及彩色照片二幀附於警訊卷可証。再眼鏡蛇、雨傘節、龜殼花、百步
+      蛇分別經行政院農業委員會公告列為保育類野生動物、瀕臨絕種保育類野生動
+      物一節，復有該委員會（九０）農林字第九００一六五０四八號函附於本院卷
+      足憑。然該蛇酒一罈係証人呂秀蘭所有，因浸泡年限已久，深恐質變而放置在
+      被告丁○○前開攤位上，委請被告丁○○鑑定一節，復據証人呂秀蘭於本院更
+      審前之上訴審到庭結証明確（見本院上訴卷第六十七頁正面至反面）；核與証
+      人蘇文里於本院更審前之上訴審証述：「我去呂秀蘭他家，他前同居人曾拿他
+      泡的蛇酒，這是七、八年前的事，二、三年前我又去，她還是拿同樣的蛇酒讓
+      我喝，我說放了那麼久，會有問題」、「我不喝，她說要送去鑑定」等語（見
+      本院上訴卷第八十七頁正、反面）相符，而該二名証人之証詞，又與被告丁○
+      ○自偵查迄至本院調查、審理時所辯「該蛇酒係呂秀蘭所有」、「係呂秀蘭委
+      請鑑定」等語相吻合。足認被告丁○○所辯，與事實並無重大出入而可採信。
+    (2)被告丁○○於警訊中雖供稱：伊案發當日上午八時許至善化牛墟市場擺設攤位
+      ，販賣藥布、藥洗，蛇酒乙罈在伊攤位上查獲，然係伊朋友所有，伊有介紹蛇
+      毒、蛇酒之功效及好處，亦知道眼鏡蛇係保育類野生動物等語（詳警卷第一頁
+      背面至第二頁正面、第三頁背面）。但此亦僅得証明被告丁○○知悉蛇酒內所
+      浸泡之眼鏡蛇等係保育類野生種物一節，尚無從以此即認被告丁○○有何販賣
+      該蛇酒之意圖。再案發當日同時被查獲被告程景春雖供稱：被查獲攤位係丁○
+      ○所設，案發當日上午第一場由伊老闆戊○○主持販賣青草膏藥，第一場結束
+      後戊○○即先行離去，並交待伊留在該處幫丁○○做完場子並收拾攤位，第二
+      場由一位不詳姓名男子向丁○○借用攤位，販售眼鏡蛇酒及藥膏，警方查獲時
+      正由丁○○主持第三場等語（詳警卷第六頁正面）。然該蛇酒係証人呂秀蘭所
+      寄放委請被告丁○○鑑定一節，已如前述。則同案被告程景春上開所供，是否
+      真實，尚非全然無疑。況當日經警查獲扣案之物，除該蛇酒外，尚有眼鏡蛇一
+      條，而該扣案之眼鏡蛇一條，乃證人張芳鵬所有，因張芳鵬父親重病住院，而
+      託被告丁○○寄養，復據證人張芳鵬於偵查中證述屬實（詳偵查卷第四十四頁
+      背面最末行至第四十五頁正面第六行）。則同案被告程景春上開所供「該位不
+      詳姓名男子向丁○○借用攤位，販售眼鏡蛇酒及藥膏」，即與事實不符，而無
+      可採。
+    (3)再証人即當日前往查獲之臺南縣警察局善化分局巡佐丙○○到庭結證稱：「．
+      ．．當時是穿便服去巡視，．．．蛇酒係在靠近場內地上查獲，他們有說喝蛇
+      酒很好，並說一些有關男人性能力方面療效很好的話」「上述蛇酒等物都在場
+      內發現，．．．我在現場看時，被告有說要用蛇酒請客．．．」等語（詳原審
+      卷第一百三十八頁正面及背面）。然經本院再次傳訊案發當日查獲之警員即証
+      人丙○○、乙○○、甲○○結果，証人丙○○証稱「（你有沒有到現場埋伏）
+      我們有到現場查看」、「（當時看到時被告只是放蛇酒而已，或是有叫賣蛇酒
+      ）細節我忘了，現場應該只有這瓶蛇酒，應該沒有其他浸泡動物的酒，至於他
+      有無叫賣我忘了」等語；証人甲○○則証稱「（現場除了蛇酒外，還有沒有其
+      他浸泡動物的酒，或是有在叫賣蛇酒）我是到現場支援拿查扣的東西，細節我
+      不清楚」；証人乙○○則稱「（有否到現場）沒有，當時我是主管」等語（見
+      本院九十一年一月三十一日訊問筆錄）。該三名証人均無法証明被告丁○○當
+      日有叫賣該蛇酒或暗示販賣該蛇酒之情。此外，查獲現場除經查扣該蛇酒及眼
+      鏡蛇外，並無其他蛇類、蛇酒或分裝蛇酒之工具。尚難以被告丁○○曾向客人
+      介紹該蛇酒之好處或要請客人飲用，即認被告丁○○有販賣該蛇酒之意圖。
+    (4)復按被告並無自証無罪之義務或責任。縱令被告所辯不足採信，但在無其他証
+      據足証犯罪之下，尚難以被告所辯不足採信，即可以此推論被告有何犯罪之事
+      實。另野生動物保育法第四十條第一項第二項之「意圖販賣而陳列、展示保育
+      類野生動物產品」之規定，須行為人之陳列、展示該保育類野生動物產品，係
+      基於販賣之意圖而為陳列或展示，始為相當。本件縱令被告丁○○曾於前開時
+      間、在其攤位上陳列或展示該罈蛇酒，但除同案被告程景春前開不利被告之供
+      詞外（已如前述），綜觀本件卷証資料或証人丙○○等人之証詞，除被告丁○
+      ○曾向在場客人表示蛇酒之好處或功效外，均無被告丁○○曾有叫賣該罈蛇酒
+      或暗示販售該罈蛇酒或有和不詳姓名成年男子共同基於販賣該蛇酒之意圖等情
+      事，尚難以被告丁○○於警訊所供「該蛇酒係一不知名男子所有」與其後所供
+      該蛇酒係証人呂秀蘭所有等語不符（見警訊卷第三頁反面），及向在場之客人
+      介紹蛇酒之功能或好處，即認被告丁○○有何販賣該蛇酒之意圖。況依証人丙
+      ○○之前開証詞，足見証人丙○○於查獲前，已在現場停留查看，並聞見被告
+      丁○○介紹蛇酒，則若果真被告丁○○有販賣之意圖，衡情豈有未能就被告販
+      賣該蛇酒之情節詳為說明之理，是証人丙○○等人之上開証詞，均不足為被告
+      不利証據之認定。至於被告警訊所供「該蛇酒係一不知名男子所有」，雖與其
+      後所供該蛇酒係「証人呂秀蘭」所有不符，或係為隱瞞該蛇酒所有人之真實身
+      分，非必以此即可推論「被告丁○○確有販賣之意圖」。
+    (5)再查該罈蛇酒為証人呂秀蘭所有，委請被告丁○○鑑定，已如前述。被告丁○
+      ○事後向客人介紹蛇酒功效或好處時，曾言及「要請客人飲用」，雖為証人丙
+      ○○於原審証明在卷，但証人丙○○亦証稱「但有無請群眾喝，我沒看見」（
+      見一審卷第一三八頁反面），則被告丁○○縱有介紹該蛇酒之功效或好處，並
+      「要請客人飲用」，或為其做生意之手法，以招徠顧客購買藥布之用，尚難以
+      此即認被告係為求「販賣」蛇酒而為上開之行為。
+    (6)末查扣案眼鏡蛇活體一條，係証人張芳鵬所有寄養一節，為被告丁○○供明在
+      卷。復經證人張芳鵬証述明確，已如前述（詳偵查卷第四十四頁背面最末行至
+      第四十五頁正面第六行）。又前開查扣眼鏡蛇一條，業經證人張芳鵬向臺灣省
+      屏東縣政府農業局申請登記合法飼養，有該縣政府八十七年十月二十三日（八
+      七）屏府農畜字第一八四四一四號函檢送之保育類野生動物資料登記卡一份附
+      卷足稽（詳原審卷第一百三十三頁至第一百三十四頁）。故被告丁○○辯稱：
+      該眼鏡蛇係證人張芳鵬所寄養乙節，尚與事實相符，應可憑採。以此而論該條
+      眼鏡蛇既屬證人張芳鵬所有，而寄養於被告丁○○處，衡情被告丁○○應無擅
+      自販賣予他人之理。則縱令被告丁○○陳列或展示該眼鏡蛇，亦難以此即認有
+      何違反野生動物保育法第四十條第一項第二款之規定。
+    (7)此外，復查無其他積極証據，足証被告丁○○有何前開公訴人所指之犯行，應
+      認不能証明被告丁○○犯罪。
+（乙）被告戊○○部分：
+    (1)同案被告程景春於警訊時雖供稱：「．．．食蟹蒙是我老闆戊○○的，他是於
+      八十六年三月間向他朋友購買的，買來給顧客觀賞用」「該食蟹蒙是我老闆戊
+      ○○在高雄方面做生意途中購回來的」等語（見警卷第六頁背面第二行至第三
+      行、第七頁背面第五行），於偵查中供稱「我們去林園做生意的時候，看到別
+      人捕捉買回來養的」等語（見偵查卷第三頁反面），並有警方查獲之食蟹蒙彩
+      色照片二幀附卷足憑。又該隻食蟹蒙經囑託臺南縣政府農業局鑑定結果，證實
+      為保育類野生動物，有臺南縣政府八十七年十月七日八十七府農林字第一七九
+      二九四號函一紙在卷可稽（詳偵查卷第五十六頁）。然同案被告程景春於原審
+      審理時則供稱：「我並沒有與我老闆去林園，我只知道貓（指食蟹蒙）是我老
+      闆從林園帶回來的。」、「（你為何說是你老闆買回來的）我並沒有去林園，
+      但我猜想我老闆可能是買的，所以才對警察和檢察官說是我老闆買的」（見一
+      審卷第二十八頁反面）。則同案被告程景春是否確與被告戊○○同往高雄縣林
+      園地區，並由被告戊○○購買該食蟹蒙，已非無疑。再者，証人吳清寧於原審
+      証稱：「該食蟹蒙係八十六年二、三月間，由其載被告戊○○及林永田到東港
+      看見有幾個小孩抓著玩，該動物有受傷，被告戊○○見了就把該動物帶回養」
+      等語，証人林永田則証述：「被告戊○○並沒有付錢，是那些小孩送的」等語
+      （均見一審卷第五十二頁反面至五十三頁正面），足認同案被告程景春並非與
+      被告戊○○同往高雄縣林園地區，則同案被告程景春於偵查中所供「該食蟹蒙
+      係與被告戊○○同往高雄做生意途中所購買」等語，與事實已有不同，顯係憶
+      測之詞，尚難遽採為被告戊○○不利之証據。
+    (2)再查被告戊○○與友人途經高雄縣林園鄉時，見一群孩童捕捉到腳部受傷之食
+      蟹蒙，乃請該群小孩送伊帶回家嗣養一節，業據被告戊○○供明在卷。並經証
+      人郭春來於本院更審前上訴審調查時証述：「有一天我有去找他（即被告戊○
+      ○），他有向我說在林園有一位小孩給他一隻受傷的棕簑貓，我就去買藥回來
+      讓他敷藥，因是受傷，小孩子才送他嗣（飼）養帶回醫療」等語明確（見本院
+      上訴卷第六十七頁反面至六十八頁正面）。且該『食蟹蒙』之右前掌確有斷趾
+      之情事，又有屏東技術學院保育類野生動物基本資料附卷足憑（見最高法院台
+      上六五三六號卷第二十三頁），核與被告戊○○所供該食蟹蒙腳部有受傷一節
+      相符，足認被告戊○○前開所辯該食蟹蒙因腳部受傷，該群小孩始授予其帶回
+      家嗣養等語，並非無據。
+    (3)按野生動物保育法第四十條第一項第二款之「意圖販賣而陳列、展示保育類野
+      生動物產品」之規定，須行為人之陳列、展示該保育類野生動物產品，係基於
+      販賣之意圖而為陳列或展示，始為相當。該食蟹蒙既非被告戊○○所購買，且
+      案發當日該食蟹蒙係放置在車上，並未將之放置在前開攤位，為同案被告程景
+      春供明在卷（見偵查卷第三十一頁正面至反面、一審卷第九十八反面），此外
+      ，綜觀全卷卷証資料，又無証據足証案發當日被告戊○○有叫賣或暗示販賣該
+      食蟹蒙之情事，自難認被告有何販賣之意圖，而陳列或展示該食蟹蒙。
+    (4)此外，復查無其他積極証據足証被告戊○○有何公訴人所指之犯行，應認不能
+      証明被告戊○○犯罪。
+六、原審未詳予審酌卷証資料，即依同案被告程景春警訊所供及扣案之蛇酒及眼鏡蛇
+    活體一條均為保育類野生動物，及被告丁○○警訊所供，並在場向客人介紹蛇酒
+    之功效或好處等情，率予被告丁○○、戊○○有罪之判決，顯有未當。被告丁○
+    ○、戊○○上訴意旨否認犯罪，為有理由，應由本院將原判決撤銷改判無罪。
+據上論結，應依刑事訴訟法第三百六十九條第一項前段、第三百六十四條、第三百零
+一條第一項，判決如主文。
+本案經檢察官吳忠賢到庭執行職務。
+中      華      民      國    九十一    年      四      月     十七     日
+                                  臺灣高等法院臺南分院刑事第五庭
+                                          審判長法官  鄭  文  肅
+                                                法官  王  浦  傑
+                                                法官  陳  珍  如
+右正本證明與原本無異。
+檢察官如不服本判決，應於判決送達後十日內向本院提出上訴狀，其未敘述理由者並
+應於提出上訴狀後十日內向本院補提理由書（應附繕本)。
+                                           法院書記官  周  美  莉
+中      華      民      國    九十一     年      四     月      十九    日
+附錄：
+野生動物保育法第三五條第一項：
+保育類野生動物，瀕臨絕種及珍貴稀有野生動物產製品，非經主管機關之同意，不得
+買賣或在公共場所陳列、展示。
+野生動物保育法第四十條第一項第二款：
+有下列情形之一者，處六月以上五年以下有期徒刑，得併科臺幣三十萬元以上一百五
+十萬元以下罰金：
+一、違反第二十四條第一項規定者，未經中央主管機關同意，輸入或輸出保育類野生
+    動物之活體或其產製品者。
+二、違反第三十五條規定第一項規定，未經主管機關同意，買賣或意圖販賣而陳列、
+    展示保育類野生動物產品者。
+野生動物保育法第五十二條第一項：
+犯第四十條、第四十一條、第四十二條或第四十三條第三項之罪，查獲之保育類野生
+動物得沒收之；查獲之保育類野生動物產製品及供犯罪所用之獵具、藥品、器具，沒
+收之。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Jud12\OK\LAWTNH\CRIMINAL\9104\19\TNHM914J.024] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共23
+											筆 / 現在第15
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=090&selectedCrmid=%e4%b8%8a%e6%9b%b4(%e4%b8%80)&selectedCrmno=000598&selectedCrtid=TNH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=16&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=23&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=90%2c%e4%b8%8a%e6%9b%b4(%e4%b8%80)%2c598%2c20020417%2c1&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e6%9b%b4(%e4%b8%80)&jno=598&jdate=910417&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=90%2c%e4%b8%8a%e6%9b%b4(%e4%b8%80)%2c598%2c20020417%2c1&v_court=TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2&v_sys=M&jyear=90&jcase=%e4%b8%8a%e6%9b%b4(%e4%b8%80)&jno=598&jdate=910417&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('90%2c%e4%b8%8a%e6%9b%b4(%e4%b8%80)%2c598%2c20020417%2c1','TNH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2+%e8%87%ba%e5%8d%97%e5%88%86%e9%99%a2','M','90','%e4%b8%8a%e6%9b%b4(%e4%b8%80)','598','910417','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="15"> <input type="hidden" name="v_court" value="TNH 臺灣高等法院 臺南分院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

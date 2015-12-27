@@ -1,0 +1,452 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣南投地方法院-刑-104原訴6</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+P3+/jPpPXboQeel/k+TRZwjsEaY=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣南投地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共81
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e5%8e%9f%e8%a8%b4&selectedCrmno=000006&selectedCrtid=NTD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=81&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e5%8e%9f%e8%a8%b4%2c6%2c20150907%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e5%8e%9f%e8%a8%b4&jno=6&jdate=1040907&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e5%8e%9f%e8%a8%b4%2c6%2c20150907%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e5%8e%9f%e8%a8%b4&jno=6&jdate=1040907&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e5%8e%9f%e8%a8%b4%2c6%2c20150907%2c1','NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e5%8e%9f%e8%a8%b4','6','1040907','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,原訴,6</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040907</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反<font color=red>野生動物保育法</font>等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣南投地方法院刑事判決　　　　　　　104年度原訴字第6號
+公　訴　人　臺灣南投地方法院檢察署檢察官
+被　　　告　幸智雄
+選任辯護人　楊志航律師
+上列被告因違反野生動物保育法等案件，經檢察官提起公訴（10
+4 度偵字第67號），因被告於準備程序中就被訴事實均為有罪之
+陳述，本院合議庭裁定由受命法官獨任進行簡式審判程序，判決
+如下：
+    主          文
+幸智雄犯森林法第五十二條第一項第四款之竊取森林主產物罪，
+處有期徒刑陸月，併科罰金新臺幣肆萬零壹佰拾肆元，有期徒
+刑如易科罰金，罰金如易服勞役，均以新臺幣壹仟元折算壹日。
+扣案之揹架具均沒收。又共同犯野生動物保育法第四十一條第
+一項第一款之非法獵捕保育類野生動物罪，處有期徒刑陸月，如
+易科罰金，以新臺幣壹仟元折算壹日。應執行有期徒刑玖月，併
+科罰金新臺幣肆萬零壹佰拾肆元，有期徒刑如易科罰金，罰金
+如易服勞役，均以新臺幣壹仟元折算壹日，扣案之揹架具均沒
+收。緩刑年，並應於判決確定日起個月內，向公庫支付新臺
+幣萬元。
+    犯罪事實及理由
+一、犯罪事實：
+  (一)幸智雄係布農族原住民，其與真實姓名、年籍均不詳之成年
+    人2 名共同基於意圖為自己不法所有，結夥2 人以上，竊取
+    森林主產物之犯意聯絡，由幸智雄攜帶其所有之揹架3 具（
+    下稱系爭揹架）之行竊工具，於民國103 年3 月28日9 時許
+    前不久之某時許，前往行政院農業委員會林務局南投林區管
+    理處（下稱南投林管處）所管理、屬國有林之南投縣（下不
+    引縣）信義鄉○○○○區○00號林班地，其等3 人於該林班
+    地內之路邊，見有已遭不詳人士砍伐、裁切，仍置於南投林
+    管處管領力支配下之扁柏2 塊及紅檜1 塊【總材積共0.1644
+    立方公尺，山價共計新臺幣（下同）2 萬0,067 元，下稱系
+    爭檜木】置於該處，幸智雄等3 人共同徒手以系爭揹架共同
+    竊取系爭檜木得手。
+  (二)幸智雄明知臺灣野山羊（學名：Capricornis swinhoei），
+    業經中央主管機關行政院農業委員會（下稱農委會）公告列
+    珍貴稀有野生動物，非因族群量逾越環境容許量，未經中央
+    主管機關之許可，不得獵捕、宰殺，而其未具有野生動物保
+    育法第21條所定不受該法第17條第1 項、第18條第1 項及第
+    19條第1 項規定限制之情形，亦非基於其傳統文化、祭儀，
+    而有獵捕、宰殺或利用野生動物之必要，未經農委會之許可
+    ，竟與真實姓名、年籍均不詳之成年人2 名，共同基於非法
+    獵捕保育類野生動物之犯意聯絡，於103 年3 月28日9 時許
+    前不久之某時許，在不詳地點，以不詳之方式，獵捕臺灣野
+    山羊1 隻（無積極證據證明捕得時尚為活體）後，予以肢解
+    4 塊（下稱山羊屍塊），連同上述系爭檜木搬運下山，將系
+    爭揹架、系爭檜木及山羊屍塊均置放幸智雄之妻全玉惠（涉
+    犯違反森林法部分，業經臺灣南投地方法院檢察署檢察官以
+    10 4年度偵字第67號為不起訴處分確定在案）所承租位於信
+    義鄉明德村明德段第1641-50 、1641-51 地號，供種植梅子
+    樹果園距離約500 公尺之明德村10甲郡坑溪牛相觸（衛星座
+    標位置為X ：240447、Y ：0000000 ）之地點（下稱系爭地
+    點），並以草欉覆蓋以之遮蔽。
+  (三)嗣於同年3 月28日上午員警因接獲民眾報案，乃前往梅子樹
+    果園附近執行巡邏勤務，發現幸智雄駕駛廂型車自系爭地點
+    駛出行跡可疑，惟未對之攔查，而繼續執行巡邏執務，於同
+    日9 時許，在系爭地點查獲並扣得幸智雄所有、置於該處之
+    系爭揹架、系爭檜木（業經南投林管處水里工作站技士張傑
+    鈞領回）、山羊屍塊（交由南投縣政府農業處林務保育科人
+    員盧俊輔代保管），及與本案無關、為幸智雄之妻全玉惠所
+    有，幸智雄及全玉惠共同使用之行動電話1 具（內插置全玉
+    惠申登之門號0000-000000 號、0000-000000 號之SIM 卡）
+    ，復經警調閱該行動電話之申請人，因而循線查悉上情。
+  (四)案經南投林管處訴由南投縣政府警察局信義分局報告臺灣南
+    投地方法院檢察署檢察官偵查起訴。
+二、證據名稱：
+  (一)被告幸智雄於本院準備程序與審理中之自白。
+  (二)證人南投林管處水里工作站技士張傑鈞於警詢、偵查中之證
+    述（參見警卷第12頁至第13頁；偵卷第39頁至第40頁）。
+  (三)證人即南投縣政府農業處林務保育科人員盧俊輔於警詢之證
+    述（參見警卷第33頁至第34頁）。
+  (四)證人金保榮、金育得、全美倫於警詢中之陳述（參見警卷第
+    14頁至第20頁、第24頁至第26頁）；證人全玉惠於警詢、偵
+    查中之證述（參見警卷第8 頁至第11頁；偵卷第21頁至第23
+    頁）及證人即員警石發財、伍志強於偵查中之證述（參見偵
+    卷第32頁至第34頁）。
+  (五)通聯調閱查單5 份（見警卷第38頁至第40頁、第43頁至第48
+    頁）、亞太行動資料查詢3 份（見本院卷第37頁至第39頁）
+    、中華電信股份有限公司客戶服務處第一客服中心第一作業
+    中心簡便函暨附件1 份（見本院卷第54頁至第55頁）、屏東
+    科技大學研究發展處附設野生動物保育服務中心臨時物種鑑
+    定表影本1 份（見警卷第50頁）、贓物認領保管單1 份（見
+    警卷第51頁）、保安警察第七總隊第六大隊代保管條1 份（
+    見警卷第52頁）、檢尺表影本1 份（見警卷第53頁）、103.
+    03.28 查獲涉嫌竊取2 塊扁柏及紅檜1 塊位置圖與南投處轄
+    內貴重木被害位置圖1 份（見偵卷第41頁）及刑案現場照片
+    6 張（見警卷第35頁至第37頁）。
+三、論罪科刑之理由：
+  (一)被告幸智雄為犯罪事實(一)之行為後，森林法第52條業於104
+    年5 月6 日經總統修正公布，並自公布日施行，104 年5 月
+    8 日生效，該條修正前所規定之刑罰為「處6 月以上5 年以
+    下有期徒刑，併科贓額2 倍以上5 倍以下罰金」，修正後規
+    定「處1 年以上7 年以下有期徒刑，併科贓額5 倍以上10倍
+    以下罰金」新舊法比較結果，以舊法較有利於被告，依刑法
+    第2 條第1 項前段之規定，本件自應適用舊法。
+  (二)按森林法竊盜罪為刑法竊盜罪之特別法，依特別法優於普通
+    法原則，自應優先適用森林法竊盜罪處斷。次按森林係指林
+    地及其群生竹、木之總稱，森林法第3 條第1 項前段定有明
+    文。而所謂森林主產物，依國有林林產物處分規則第3 條第
+    1 款之規定，係指生立、枯損、倒伏之竹木及餘留之根株、
+    殘材而言。是森林主產物，並不以附著於其生長之土地，仍
+    為森林構成部分者為限，尚包括已與其所生長之土地分離，
+    而留在林地之倒伏竹、木、餘留殘材等。至其與所生長土地
+    分離之原因，究係出於自然力或人為所造成，均非所問。他
+    人盜伐後未運走之木材，仍屬於林地內之森林主產物。森林
+    法第50條所定竊取森林主、副產物之竊取云者，即竊而取之
+    之謂，並不以自己盜伐者為限，縱令係他人盜伐而仍在森林
+    內，既未遭搬離現場，自仍在管理機關之管領力支配下，如
+    予竊取，仍為竊取森林主產物，應依森林法之規定論處（最
+    高法院92年第17次刑事庭會議決議、93年台上字第860 號判
+    例參照）。本件被告竊取如犯罪事實(一)所示之系爭檜木，係
+    遭他人砍伐、裁切並而仍在林地內，既未遭搬離現場，自仍
+    在管理機關南投林管處之管領力支配下，應屬森林法所稱之
+    森林主產物無訛。是核被告所為如犯罪事實(一)所示之犯行，
+    係犯修正前森林法第52條第1 項第4 款之結夥2 人以上竊取
+    森林主產物罪。
+  (三)又按「保育類野生動物應予保育，不得騷擾、虐待、獵捕、
+    宰殺或為其他利用。但有下列情形之一，不在此限：一、族
+    群量逾越環境容許量者」；又「有下列情形之一，處六月以
+    上五年以下有期徒刑，得併科新臺幣二十萬元以上一百萬元
+    以下罰金：一、未具第十八條第一項第一款之條件，獵捕、
+    宰殺保育類野生動物者」，野生動物保育法第18條第1 項第
+    1 款、第41條第1 項第1 款分別定有明文。查臺灣野山羊業
+    經農委會公告列入珍貴稀有之保育類野生動物，未經中央主
+    管機關許可，均不得獵捕、宰殺，且其族群數量未逾越環境
+    容許量，有行政院農業委員會林務局自然保育網之網頁列印
+    資料1 份在卷可稽。被告為如犯罪事實(二)所示之獵捕臺灣野
+    山羊1 隻（無積極證據證明捕得時尚為活體，自無宰殺適用
+    ）後，予以肢解，核其所為，係犯野生動物保育法第41條第
+    1 項第1 款之非法獵捕保育類野生動物罪。
+  (四)被告與真實姓名、年籍均不詳之成年人2 名，就如犯罪事實
+    (一)(二)所示之犯行，均有犯聯絡及行為分擔，均應論以共同正
+    犯。又其等涉犯犯罪事實(一)部分，因森林法第52條第1 項第
+    4 款業已明定為「結夥2 人以上」，故主文之記載自無再加
+    列「共同」之必要，附此敘明。
+  (五)被告就如犯罪事實(一)(二)所示之犯行，犯意各別，行為互殊，
+    應予分論併罰。
+  (六)爰審酌被告：(1)結夥竊取森林主產物，罔顧自然生態維護之
+    不易，恣意竊取國家重要森林資源，對國家財產及森林保育
+    工作均造成相當程度之損害；又所為違反野生動物保育法之
+    犯行不唯侵害系爭保育類野生動物之生命，更有害物種多樣
+    性及自然生態平衡之維護，行為均不足取；(2)竊得之系爭檜
+    木，總材積0.1644立方公尺，山價共計2 萬0,067 元、獵捕
+    野生動物之數量為1 隻；(3)兼衡被告犯後於本院審理中尚知
+    均坦承犯行等一切情狀，分別量處如主文所示之刑，暨諭知
+    易科罰金之折算標準，並就有期徒刑部分定應執行之刑，並
+    諭知易科罰金之折算標準。
+  (七)又修法前森林法第52條第1 項所載併科贓額2 倍以上5 倍以
+    下之罰金，其贓額之計算，應以被告竊取森林主（副）產物
+    時，被害客體之山價為準，如係已就贓物加工或搬運者，自
+    須將該項加工與搬運之費用，扣除計算（最高法院47年台上
+    字第1095號判例、96年度台上字第6851號判決參照），再森
+    林法第52條第1 項之加重竊取森林主（副）產物罪，關於併
+    科罰金部分，係以贓額（即山價）之倍數（2 倍至5 倍）為
+    準據，自屬刑法第33條第5 款之特別規定。故如遇山價計算
+    至百元以下者，乘以倍數後之罰金，仍應計算至百元以下（
+    最高法院95年度台上字第2020號、臺灣高等法院暨所屬法院
+    99年法律座談會刑事類提案第11號法律問題討論意見意旨參
+    照），且森林法於87年5 月27日修正時，相關罰金之條文均
+    已修正為以新臺幣為罰金之單位，雖同法第52條未予明示，
+    仍規定「併科贓額2 倍以上5 倍以下罰金」，惟同法之罰金
+    條文既已經全部修正為以新臺幣為貨幣單位，解釋上該條文
+    之貨幣單位應與其他條文相同（臺灣高等法院暨所屬法院95
+    年法律座談會刑事類提案第20號研討結果、最高法院101 年
+    度台上字第2578號判決參照）。查被告為犯罪事實(一)所示之
+    犯行所竊取之系爭檜木山價共計2 萬0,067 元，此有南投林
+    管處水里工作站出具之檢尺表影本1 份在卷可佐（見警卷第
+    53頁）。本院斟酌被告犯罪情節，爰依森林法第52條之規定
+    ，就被告所為，認以併科贓額即山價之2 倍為適當，即各併
+    科贓額2 倍即4 萬0,134 元（計算方式：2 萬0,067 元&#215;2
+    ＝4 萬0,134 元）之罰金，並諭知罰金易服勞役之折算標準
+    。
+  (八)又被告前未曾受有期徒刑以上刑之宣告，此有臺灣高等法院
+    被告前案紀錄表1 份在卷可參，其因一時失慮，致罹刑章，
+    信其歷此偵審程序及刑之宣告後，當知所警惕，而無再犯之
+    虞，因認所宣告之刑以暫不執行為適當，爰依法併予宣告如
+    主文所示之緩刑，以啟自新。然為促使被告日後得以知曉尊
+    重法治之觀念，本院認除前開緩刑宣告外，實有賦予一定負
+    擔之必要，爰依刑法第74條第2 項第4 款規定，命被告應於
+    判決確定日起3 個月內，向公庫支付新臺幣3 萬元，以資警
+    惕；若被告不履行此一負擔，且情節重大，足認原宣告之緩
+    刑難收其預期效果，而有執行刑罰之必要者，依刑法第75條
+    之1 第1 項第4 款之規定，得撤銷其宣告，附此敘明。
+  (九)扣案之揹架3 具均為被告所有，供本案犯罪事實(一)所示之犯
+    行所用之物，業據被告於本院審理中供承甚明（見本院卷第
+    81頁），爰依刑法第38條第1 項第2 款規定，在被告涉犯森
+    林法科刑項下均予宣告沒收。至扣案之行動電話1 具（內插
+    置門號0000-000000 、0000-000000 號之SIM 卡），均為被
+    告之妻全玉惠所有、申登，為被告及全玉惠共同使用，且均
+    與本案犯行無關，亦據證人全玉惠及被告供述明確在卷（參
+    見警卷第10頁；偵卷第22頁；本院卷第81頁），爰均不予宣
+    告沒收。至於查獲之山羊屍塊，業據南投縣政府農業局林務
+    保育課人員盧俊輔代為保管，有保安警察第七總隊第六大隊
+    代保管條1 紙附卷可稽（見警卷第52頁），爰不為沒收之諭
+    知，俾主管機關得依同法第52條第2 項、第3 項處理，併予
+    敘明。
+四、應適用之法條：
+  (一)刑事訴訟法第273 條之1 第1 項、第299 條第1 項前段、第
+    310 條之2 、第454 條第1 項。
+  (二)刑法第2 條第1 項前段、第11條前段、第28條、第41條第1
+    項前段、第8 項、第51條第5 款、第42條第3 項、第38 條
+    第1 項第2 款、第74條第1 項第1 款、第2 項第4 款。
+  (三)104 年5 月8 日修正生效前森林法第52條第1 項第4 款。
+  (四)野生動物保育法第41條第1 項第1 款。
+五、如不服本件判決，得自收受送達之日起10日內，繕具理由向
+    本院提起上訴。
+本案經檢察官劉仁慈到庭執行職務。
+中    華    民    國   104    年    9     月    7     日
+                          臺灣南投地方法院刑事第一庭
+                              法  官  蔡志明
+以上正本與原本無異。
+如不服本判決應於收受送達後10日內向本院提出上訴書狀，並應
+敘述具體理由；其未敘述上訴理由者，應於上訴期間屆滿後20日
+內向本院補提理由書（均須按他造當事人之人數附繕本）「切勿
+逕送上級法院」。
+告訴人或被害人如對於本判決不服者，應具備理由請求檢察官上
+訴，其上訴期間之計算係以檢察官收受判決正本之日期為準。
+                              書記官  余富誠
+中    華    民    國   104    年    9     月    7     日
+附錄本案論罪科刑法條:
+森林法第52條
+（加重竊取森林主、副產物罪）
+犯第 50 條第 1 項之罪而有下列情形之一，處 1 年以上 7 年
+以下有期徒刑，併科贓額五倍以上十倍以下罰金：
+一、於保安林犯之者。
+二、依機關之委託或其他契約，有保護森林義務之人犯之者。
+三、於行使林產物採取權時犯之者。
+四、結夥二人以上或僱使他人犯之者。
+五、以贓物為原料，製造木炭、松節油、其他物品或培植菇類者
+    。
+六、為搬運贓物，使用牲口、船舶、車輛，或有搬運造材之設備
+    者。
+七、掘採、毀壞、燒燬或隱蔽根株，以圖罪跡之湮滅者。
+八、以贓物燃料，使用於礦物之採取，精製石灰、磚、瓦或其他
+    物品之製造者。
+前項未遂犯罰之。
+第 1 項森林主產物為貴重木者，加重其刑至二分之一，併科贓
+額十倍以上二十倍以下罰金。
+前項貴重木之樹種，指具高經濟或生態價值，並經中央主管機關
+公告之樹種。
+犯本條之罪者，其供竊取之器材及第 1 項第 6 款之牲口、船舶
+、車輛，或有搬運造材之設備，不問屬於犯人與否，沒收之。
+第 1 項第 5 款所製物品，以贓物論，並沒收之。
+第 50 條及本條所列刑事案件之被告或犯罪嫌疑人，於偵查中供
+述與該案案情有重要關係之待證事項或其他正犯或共犯之犯罪事
+證，因而使檢察官得以追訴該案之其他正犯或共犯者，以經檢察
+官事先同意者為限，就其因供述所涉之犯罪，減輕或免除其刑。
+野生動物保育法第41條
+有下列情形之一，處 6 月以上 5 年以下有期徒刑，得併科新臺
+幣 20 萬元
+以上 100 萬元以下罰金：
+一、未具第 18 條第 1 項第 1 款之條件，獵捕、宰殺保育類野
+生動物者。
+二、違反第 18 條第 1 項第 2 款規定，未經中央主管機關許可
+，獵捕、宰殺保育類野生動物者。
+三、違反第 19 條第 1 項規定，使用禁止之方式，獵捕、宰殺保
+育類野生動物者。
+於劃定之野生動物保護區內，犯前項之罪者，加重其刑至三分之
+一。
+第 1 項之未遂犯罰之。</pre>
+<!-- 原因：[騷擾] -->
+<!-- 檔名：[D:\jupload\upload\NOK\LAWNTD\CRIMINAL\10409\07\NTDM10497.00B] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共81
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e5%8e%9f%e8%a8%b4&selectedCrmno=000006&selectedCrtid=NTD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=81&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e5%8e%9f%e8%a8%b4%2c6%2c20150907%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e5%8e%9f%e8%a8%b4&jno=6&jdate=1040907&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e5%8e%9f%e8%a8%b4%2c6%2c20150907%2c1&v_court=NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e5%8e%9f%e8%a8%b4&jno=6&jdate=1040907&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e5%8e%9f%e8%a8%b4%2c6%2c20150907%2c1','NTD+%e8%87%ba%e7%81%a3%e5%8d%97%e6%8a%95%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e5%8e%9f%e8%a8%b4','6','1040907','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="NTD 臺灣南投地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

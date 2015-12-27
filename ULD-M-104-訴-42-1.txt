@@ -1,0 +1,380 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣雲林地方法院-刑-104訴42</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+P3+/jPpPXboQeel/k+TRZwjsEaY=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣雲林地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共35
+											筆 / 現在第5
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000042&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=35&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c42%2c20150325%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=42&jdate=1040325&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c42%2c20150325%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=42&jdate=1040325&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c42%2c20150325%2c1','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','42','1040325','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">104,訴,42</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1040325</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反<font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣雲林地方法院刑事判決　　　　　　　 104年度訴字第42號
+公　訴　人　臺灣雲林地方法院檢察署檢察官
+被　　　告　蔡天印
+　　　　　　林淂鶴
+　　　　　　賴東輝
+　　　　　　郭淑卿
+　　　　　　蔡瑞郎
+　　　　　　許建智
+　　　　　　陳仁茂
+　　　　　　許增祥
+　　　　　　黃祈福
+　　　　　　游朝松
+　　　　　　周志忠
+　　　　　　戴秀雲
+上列被告因違反野生動物保育法案件，經檢察官提起公訴（102
+年度偵字第5412號、第5545號、第6316號、103 年度偵字第367
+號、第1143號），本院判決如下：
+    主  文
+被告蔡天印、賴東輝、林淂鶴、蔡瑞郎、許建智、陳仁茂、游朝
+松、許增祥、黃祈福涉犯非法獵捕保育類野生動物及私運管制物
+品進口罪部分；被告蔡天印、林淂鶴、蔡瑞郎、許建智、陳仁茂
+、游朝松、許增祥、黃祈福、賴東輝、郭淑卿涉犯非法買賣保育
+類野生動物罪部分均管轄錯誤，移送臺灣宜蘭地方法院。
+被告周志忠、戴秀雲涉犯非法買賣保育類野生動物罪部分管轄錯
+誤，移送臺灣嘉義地方法院。
+    理  由
+一、公訴意旨略以：被告蔡天印、賴東輝、林淂鶴、蔡瑞郎、許
+    建智、陳仁茂、游朝松、許增祥、黃祈福等九人（住所均於
+    宜蘭縣，下稱「獵捕鯨豚方」）於海上作業時，非法獵捕保
+    育類野生動物即鯨豚，並將鯨豚屠體私運進口至宜蘭縣南方
+    澳漁港，因認「獵捕鯨豚方」即被告蔡天印等九人涉犯非法
+    獵捕保育類野生動物罪及私運管制物品進口罪。「獵捕鯨豚
+    方」將鯨豚屠體私運進口後，被告蔡天印、林淂鶴、蔡瑞郎
+    、許建智、陳仁茂、游朝松、許增祥、黃祈福等八人即分別
+    基於非法買賣保育類野生動物之犯意；被告賴東輝與被告郭
+    淑卿（夫妻）則共同基於非法買賣保育類野生動物之犯意聯
+    絡（即「獵捕鯨豚方」加上被告郭淑卿，共十人為販賣鯨豚
+    屠體之行為，被告郭淑卿住所亦在宜蘭縣），於起訴書附表
+    一所示之時地（均在宜蘭縣），將鯨豚屠體賣予被告邱旻
+    、賴萬益、潘聖宏、張怡芬、林立偲（渠等五人組成名叫「
+    公司」之機構，下稱「宜蘭公司方」）。「宜蘭公司方」（
+    住所均在宜蘭縣）再於起訴書附表二所示時地（宜蘭縣境內
+    ），將鯨豚屠體販賣予被告黃昭霖、陳淑惠、王柳晴、林秀
+    蘭、吳俊儀、林哲民（上六人住所均位於雲林縣，下稱「雲
+    林買賣方」）、周志忠、戴秀雲（上二人住所均位於嘉義縣
+    ，下稱「嘉義買賣方」）。「雲林買賣方」再於起訴書所載
+    時地為非法販賣鯨豚屠體之行為。「嘉義買賣方」則於起訴
+    書犯罪事實欄七所載時地為非法買賣保育類動物之犯行（其
+    餘詳如附件起訴書所載）等語。
+二、按案件由犯罪地或被告之住所、居所或所在地之法院管轄；
+    數同級法院管轄之案件相牽連者，得合併由其中一法院管轄
+    ；有左列情形之一者，為相牽連之案件：(一)一人犯數罪者。
+    (二)數人共犯一罪或數罪者。(三)數人同時在同一處所各別犯罪
+    者。(四)犯與本罪有關係之藏匿人犯、湮滅證據、偽證、贓物
+    各罪者，刑事訴訟法第5 條第1 項、第6 條第1 項及第7 條
+    分別定有明文。又同法第7 條第3 款雖規定數人同時在同一
+    處所各別犯罪者為相牽連之案件，依同法第6 條第1 項規定
+    ，得合併由其中一法院管轄，惟其所謂得合併由其中一法院
+    合併管轄，係就各款分別所列之情形而言，並非第3 款再併
+    第1 款或第3 款所列亦為相牽連。且各個具體刑事案件本應
+    按照事物及土地管轄定管轄法院，相牽連案件得合併由其中
+    一法院管轄審判，係基於促進訴訟及訴訟經濟之考量，故應
+    以案件與案件之間存在特殊的關聯性關係為前提，作為認定
+    管轄權之依據（臺灣高等法院暨所屬法院98年法律座談會刑
+    事類提案第33號研討結論參照）。再無管轄權之案件，應諭
+    知管轄錯誤之判決，並同時諭知移送於管轄法院，且得不經
+    言詞辯論為之，刑事訴訟法第304 條、第307 條亦分別定有
+    明文。
+三、經查：
+  (一)本案經臺灣雲林地方法院檢察署檢察官向本院提起公訴，本
+    院於104 年1 月15日以104 年度訴字第42號繫屬在案等情，
+    有本案起訴書、臺灣雲林地方法院檢察署104 年1 月15日雲
+    檢培正102 偵5412字第1119號函上本院收文章戳在卷足憑，
+    合先敘明。
+  (二)本院有固有管轄權及牽連管轄部分：
+  1.「雲林買賣方」即被告黃昭霖、陳淑惠、王柳晴、林秀蘭、
+    吳俊儀、林哲民之住所地均於雲林縣境內，故本院對「雲林
+    買賣方」所涉案件，均有固有管轄權。是就起訴書附表二編
+    號1 至3 、犯罪事實欄三、四所示，「雲林買賣方」向「宜
+    蘭公司方」即被告邱旻等五人「購買」鯨豚屠體之犯行，
+    本院均有固有管轄權。
+  2.按案件有「數人同時在同一處所各別犯罪」之情形者，為相
+    牽連案件，刑事訴訟法第7 條第3 款定有明文。而「宜蘭公
+    司方」將鯨豚屠體於起訴書附表二編號1 至3 所示時地販賣
+    予「雲林買賣方」之犯行，與「雲林買賣方」於起訴書附表
+    二編號1 至3 、犯罪事實欄三、四所示時地向「宜蘭公司方
+    」「購買」鯨豚屠體之犯行，存有數人同時在同一處所各別
+    犯罪之關係，故本院就「宜蘭公司方」所涉如起訴書附表二
+    編號1 至3 之販賣鯨豚屠體予「雲林買賣方」之案件，即因
+    牽連管轄而有管轄權。另非法買賣保育類野生動物，實務上
+    屬接續犯之一行為關係，故就起訴書附表二編號4 所示「宜
+    蘭公司方」將鯨豚屠體販賣予「嘉義買賣方」即被告周志忠
+    、戴秀雲之部分，本院亦有管轄權。
+  (三)本院無管轄權部分：
+  1.「獵捕鯨豚方」即被告蔡天印等九人之住所地均不在本院轄
+    區內，有渠等之個人戶籍資料查詢結果在卷可考，檢察官亦
+    未釋明渠等之居所地在本院轄區內，本院復查無渠等有於檢
+    察官起訴時所在地於本院轄區內之情事，有渠等之臺灣高等
+    法院被告前案紀錄表在卷可參。另依起訴書犯罪事實欄一第
+    5 頁第13行至第20行所載，「獵捕鯨豚方」係將鯨豚屠體私
+    運進入宜蘭縣境內，則渠等之犯罪地（含行為及結果），亦
+    非於本院轄區內，則本院就「獵捕鯨豚方」即被告蔡天印等
+    九人所涉非法獵捕保育類野生動物罪及私運管制物品進口罪
+    均無管轄權，應移送有管轄權之臺灣宜蘭地方法院。
+  2.被告蔡天印、林淂鶴、蔡瑞郎、許建智、陳仁茂、游朝松、
+    許增祥、黃祈福、賴東輝、郭淑卿等十人（「獵捕鯨豚方」
+    加上被告郭淑卿）涉犯非法買賣保育類野生動物罪，應移送
+    臺灣宜蘭地方法院管轄：
+  (1)「獵捕鯨豚方」及被告郭淑卿等十人之住所地均不在本院轄
+    區內，有渠等之個人戶籍資料查詢結果在卷可考，檢察官亦
+    未釋明渠等之居所在本院轄區內，本院復查無渠等於檢察官
+    起訴時所在地於本院轄區內之情事，有渠等之臺灣高等法院
+    被告前案紀錄表在卷可參。另依起訴書犯罪事實欄一第5 頁
+    第20行至第6 頁第7 行及附表一所載，「獵捕鯨豚方」及被
+    告郭淑卿等十人係於宜蘭縣境內將鯨豚屠體販賣予「宜蘭公
+    司方」即被告邱旻等五人，其犯罪地（含行為及結果地）
+    均非於本院轄區內，依前說明，本院就「獵捕鯨豚方」及被
+    告郭淑卿等十人上述所涉非法買賣保育類野生動物案件並無
+    固有之管轄權。
+  (2)「宜蘭公司方」所涉如起訴書附表二所示之「販賣」鯨豚屠
+    體犯行，本院因牽連管轄之規定而有管轄權，已如前述。另
+    「宜蘭公司方」所涉如起訴書附表一所示之向「獵捕鯨豚方
+    」及被告郭淑卿等十人「購買」鯨豚屠體之犯行，因與起訴
+    書附表二所示之「販賣」鯨豚屠體犯行，有先「買」後「賣
+    」之實質上一罪關係，本院因而依牽連管轄之規定，對「宜
+    蘭公司方」所涉如起訴書附表一所示之「購買」鯨豚屠體犯
+    行亦有管轄權。但就「獵捕鯨豚方」及被告郭淑卿等十人所
+    涉如起訴書附表一所示之「販賣」鯨豚屠體犯行部分，本院
+    已是牽連（即本院依刑事訴訟法第7 條第3 款之規定，取得
+    「宜蘭公司方」涉犯如起訴書附表一所示之「購買」鯨豚屠
+    體犯行之管轄權），再牽連（即必須再一次適用刑事訴訟法
+    第7 條第3 款同時犯之規定，始能取得「獵捕鯨豚方」及被
+    告郭淑卿等十人涉犯如起訴書附表一所示之「販賣」鯨豚屠
+    體犯行）之關係。而依前揭說明，牽連管轄並不及於「再牽
+    連」之部分，故本院就「獵捕鯨豚方」及被告郭淑卿等十人
+    涉犯如起訴書附表一所示之「販賣」鯨豚屠體犯行並無管轄
+    權。
+  (3)據此，本院應將「獵捕鯨豚方」及被告郭淑卿等十人涉犯如
+    起訴書附表一所示之「販賣」鯨豚屠體犯行，移送臺灣宜蘭
+    地方法院。
+  3.「嘉義買賣方」即被告周志忠、戴秀雲「購買」鯨豚屠體之
+    犯行部分，應移送臺灣嘉義地方法院管轄：
+  (1)「嘉義買賣方」即被告周志忠等二人之住所地均不在本院轄
+    區內，有渠等之個人戶籍資料查詢結果在卷可考，檢察官亦
+    未釋明渠等之居所在本院轄區內，本院復查無渠等於檢察官
+    起訴時所在地於本院轄區內之情事，有渠等之臺灣高等法院
+    被告前案紀錄表在卷可參。又依起訴書犯罪事實欄七所載：
+    被告周志忠等二人購買鯨豚屠體後，「宜蘭公司方」係以宅
+    配方式將鯨豚屠體寄送嘉義縣等語，足認渠等之犯罪地（含
+    行為及結果地）非於本院之轄區內，則本院就被告周志忠、
+    戴秀雲所涉如起訴書犯罪事實欄七部分（含起訴書附表二編
+    號4 接續購買鯨豚屠體部分）並無固有之管轄權。
+  (2)本院雖依牽連管轄及實質上一罪關係就「宜蘭公司方」即被
+    告邱旻等五人涉犯如起訴書附表二編號4 之「販賣」鯨豚
+    屠體犯行有管轄權，但就「嘉義買賣方」即被告周志忠等二
+    人所涉如起訴書犯罪事實欄七及附表二編號4 之接續購買鯨
+    豚屠體犯行部分，同屬牽連（即本院依刑事訴訟法第7 條第
+    3 款之規定，取得「宜蘭公司方」涉犯如起訴書附表二編號
+    4 所示之「販賣」鯨豚屠體犯行之管轄權），再牽連（即必
+    須再一次適用刑事訴訟法第7 條第3 款同時犯之規定，始能
+    取得「嘉義買賣方」即被告周志忠等二人涉犯如起訴書犯罪
+    事實欄七及附表二編號4 之「購買」鯨豚屠體犯行）之關係
+    。而依前揭說明，牽連管轄並不及於「再牽連」之部分，故
+    本院就「嘉義買賣方」即被告周志忠等二人涉犯如起訴書犯
+    罪事實欄七及附表二編號4 所示之「購買」鯨豚屠體犯行並
+    無管轄權，自應移送有管轄權之臺灣嘉義地方法院。
+四、綜上所述，上開各案件本院無管轄權部分，檢察官誤向本院
+    提起公訴，自有未合，揆諸前開說明，本件爰不經言詞辯論
+    ，逕為管轄錯誤判決之諭知，並分別移送於被告之住所地由
+    各該法院管轄。至本院有管轄權之部分，被告邱旻、賴萬
+    益、潘聖宏、張怡芬、林立偲聲請移轉管轄為無理由，礙難
+    准許，一併敘明。
+五、據上論斷，應依刑事訴訟法第304 條、第307 條，判決如主
+    文。
+中    華    民    國   104    年    3    月    25     日
+            刑事第八庭  審判長法  官  王紹銘
+                              法  官  高士傑
+                              法  官  簡廷恩
+以上正本證明與原本無異。
+如不服本判決應於收受送達後10日內向本院提出上訴書狀，並應
+敘述具體理由；其未敘述上訴理由者，應於上訴期間屆滿後20日
+內向本院補提理由書（均須按他造當事人之人數附繕本）「切勿
+逕送上級法院」。
+                              書記官  廖千慧
+中    華    民    國   104    年    3     月    25    日
+附件：臺灣雲林地方法院檢察署102年度偵字第5412號、第5545
+號、第6316號、103 年度偵字第367號、第1143號檢察官起訴書</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWULD\CRIMINAL\10403\25\ULDM1043P.001] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共35
+											筆 / 現在第5
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=104&selectedCrmid=%e8%a8%b4&selectedCrmno=000042&selectedCrtid=ULD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=6&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=35&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=104%2c%e8%a8%b4%2c42%2c20150325%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=42&jdate=1040325&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=104%2c%e8%a8%b4%2c42%2c20150325%2c1&v_court=ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=104&jcase=%e8%a8%b4&jno=42&jdate=1040325&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('104%2c%e8%a8%b4%2c42%2c20150325%2c1','ULD+%e8%87%ba%e7%81%a3%e9%9b%b2%e6%9e%97%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','104','%e8%a8%b4','42','1040325','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="ULD 臺灣雲林地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

@@ -1,0 +1,497 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>福建金門地方法院-刑-97訴21</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+YGsYrYpxptIcDD553RKTMFRwZ7E=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>福建金門地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
+											筆 / 現在第4
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e8%a8%b4&selectedCrmno=000021&selectedCrtid=KMD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=97%2c%e8%a8%b4%2c21%2c20080717%2c1&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=21&jdate=970717&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=97%2c%e8%a8%b4%2c21%2c20080717%2c1&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=21&jdate=970717&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('97%2c%e8%a8%b4%2c21%2c20080717%2c1','KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','97','%e8%a8%b4','21','970717','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">97,訴,21</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">970717</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體"><font color=red>野生動物保育法</font>等</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>福建金門地方法院刑事判決　　　　　　　　97年度訴字第21號
+公　訴　人　福建金門地方法院檢察署檢察官
+被　　　告　丙○○
+　　　　　　丁○○
+上列被告因違反野生動物保育法等案件，經檢察官提起公訴（97
+年度偵字第110號、第173號），本院判決如下：
+    主  文
+丙○○、丁○○共同為中華民國船舶船長，違反中華民國船舶，
+非經主管機關許可，不得航行至大陸地區之規定，各處有期徒刑
+捌月。
+    事  實
+一、丙○○為重1噸餘無船籍小船之船長，乙○○（另行審結）
+    則為該船駕駛，其等與丁○○均明知未經主管機關許可，中
+    華民國船舶不得航行至大陸地區，仍共同基於擅自出航行駛
+    至大陸地區之犯意聯絡，於民國97年3月5日上午先由丁○○
+    指示丙○○、乙○○共同將鸚鵡（被訴違反野生動物保育法
+    部分，爰不另為無罪之諭知詳見下述）、鴿子連同鳥籠及養
+    鴿參考書籍等物，於金門縣金沙鎮洋山海堤岸際搬運至上開
+    船舶後，旋由乙○○駕駛該船附載丙○○於該日上午10時20
+    分許自該處出發，駛往大陸地區，該船舶並於同日上午11時
+    28分許越過禁止水域線，終於同日上午11時42分許駛抵大陸
+    地區中嶼島附近海域時，為行政院海岸巡防署中部地區巡防
+    局金門機動查緝隊、第九海巡隊、第九岸巡總隊、金門縣警
+    察烈嶼警察所共同查獲。
+二、案經行政院海岸巡防署中部地區巡防局移送福建金門地方法
+    院檢察署檢察官偵查起訴。
+    理  由
+壹、程序部分：查本判決下列所引用之各項證據方法之證據能力
+    ，當事人於本院準備程序及審判期日中均未予爭執，且迄至
+    言詞辯論終結前亦未再聲明異議，就供述證據部分，本院審
+    酌該等言詞陳述及書面陳述作成時之情況，並無不宜作為證
+    據之情事，依刑事訴訟法第159條之5之規定，自均得作為證
+    據。其餘非屬供述證據之部分，既無傳聞法則之適用問題，
+    當事人復未就證據能力有所爭辯，亦均得作為證據。
+貳、實體部分：
+一、被告丙○○為上開無船籍小船之船長，乙○○則為當日駕駛
+    該船之人，其2人於上開時地受被告所託，將鸚鵡、鴿子連
+    同鳥籠與飼養書籍等物搬運上船後，乙○○隨即駕船駛離該
+    處岸際等情，除為被告丙○○、丁○○所不否認外，亦與證
+    人乙○○於警詢與偵查所述，及證人即當日在場蒐證之第九
+    岸巡總隊劉澳機動站站長甲○○結證情節互核相符，足認屬
+    實。乙○○駕駛該艘船舶出航後，確實有逾越國防部依臺灣
+    地區與大陸地區人民關係條例第29條第2項公告之禁止水域
+    線之行為，其後更駛抵大陸地區之中嶼島附近海域此情，亦
+    有雷達航跡海圖在卷可證。被告丁○○雖辯稱：伊雖曾交代
+    丙○○將鴿子載去外海放，讓鴿子飛回臺灣，但伊有強調不
+    可將船開超過1,500公尺以外，且當日丙○○與乙○○曾經
+    中途折返，其時伊便叫他們去吃便當，之後丙○○等再行出
+    海越界之行為自與伊無關云云；被告丙○○則辯以：伊不知
+    界線何在，當初出海動機也不是要跟大陸交易，至丁○○確
+    實曾跟伊說不要出海不要超過1,500公尺云云。然查：
+（一）本案被告丙○○之前開船舶經查獲後，員警於船上除發現
+      有各兩百餘隻之鴿子與鸚鵡外，另扣得養鴿參考書本共計
+      59冊，此有查獲照片可供對照，倘被告丁○○所述為真，
+      該批鴿子確係由一真實姓名不詳之黃先生自高雄寄來請其
+      協助訓練，對方要求將鴿子載到半海釋放，再讓鴿子飛回
+      臺灣，該位名為黃先生之人，何須將大批養鴿書籍一併寄
+      來由被告丁○○加以收受，該批書籍如非黃先生所寄，被
+      告丁○○又從何得來，被告丁○○其後更進而將之一併委
+      託被告丙○○與乙○○搬至船上後運往外海，此等書籍既
+      與受委託放飛鴿子一事全無關連，被告丁○○又何必多此
+      一舉，凡此均未見被告等提出合理解釋。況查，經查獲之
+      物品中，另有如附表之鸚鵡等鳥類，經行政院農業委員會
+      特有生物研究保育中心（下稱農委會生物研究保育中心）
+      鑑定確認屬保育類之動物，有該中心出具之97年3月11日
+      農特中字第0973501240號函附於偵查卷內可稽，被告丁○
+      ○雖辯稱不知此情，惟亦不否認其知悉該等鳥類有一定之
+      價值，陳稱鸚鵡部分原本黃先生即計畫留於金門加以飼養
+      ，僅係因故暫時置放於該船之上，然就此等價值非微之動
+      物，被告丁○○竟在對飼育方式與養殖環境全無準備計劃
+      之情形下，即輕易接收其所稱之黃先生送來之該批鸚鵡，
+      如因設備不善致生鸚鵡之死傷結果，應如何釐清責任，被
+      告丁○○如真有飼養計劃，又怎能不顧慮此點，待養殖場
+      所建立之後，再與黃先生確認接收該批鳥類之事宜，被告
+      丁○○所為之前揭辯詞，既有如上諸多不合情理之處，實
+      難採信，被告等斯時係預備將該批動物運往外海，以待不
+      知名之人士前來進行交易此情堪可認定。
+（二）被告丁○○另抗辯其曾命被告丙○○不得將船舶駛越1,50
+      0公尺範圍之外，然查，被告丁○○究竟係以不要將船開
+      過距岸際1,500公尺之界線為告知內容，或是如其於審判
+      中所述，當時是請被告丙○○以洋山海堤外距岸際500至
+      600公尺之礁石為準，表示不要超過該礁石與中嶼島連線
+      中點，被告丁○○前後陳述已有不一，遑論中嶼島與洋山
+      岸際間之距離超過5公里，此為本院職務上已知之事項，
+      如真有被告丁○○所述之礁石存在，以該礁石為準計算其
+      與中嶼島間之連線中點，該處離岸至少亦有幾近3公里之
+      距離，倘被告丁○○已對被告丙○○表示用前述連線中點
+      作為界線即可，又何須再另告知一顯小於該等距離之1,50
+      0公尺此項標準，被告丁○○前後所辯已存矛盾，再對照
+      被告丙○○偵查中陳稱被告丁○○告訴伊開離岸際2、3公
+      里等語，與被告丁○○前揭所述大相逕庭，更可證被告丁
+      ○○所持辯詞顯屬無稽。至被告丙○○雖另以前詞置辯，
+      然其既於警詢中自承對洋山灣等金門東北面海域很熟，理
+      應得輕易確認行進方向，控制航行距離，該船最終行駛至
+      屬大陸地區之中嶼島附近海域，被告丙○○豈能於過程中
+      毫無所悉，並立刻提醒駕船之乙○○命其修正航向，參以
+      證人乙○○於偵查中具結證稱之：係丙○○告訴伊開到中
+      嶼島附近的等語，更可徵被告丙○○當日開船出航之目的
+      地確為中嶼島周遭無誤。再者，以被告丙○○於警詢經問
+      以為何將鸚鵡置於船上飼養，目的為何時，作成之如下表
+      示：我沒等丁○○通知我都不知道，沒他通知我也不敢隨
+      便亂講，顯然被告丁○○所言對被告丙○○存有甚大之影
+      響力，如未經被告丁○○之具體指示，被告丙○○絕無可
+      能自作主張，任意搭載貨物出航，由是可知，被告丁○○
+      確係受被告丁○○告知後方與乙○○駕船而出，縱該船曾
+      於中途折返，承前所述，果被告丁○○真曾命被告丙○○
+      與乙○○兩人留下，被告丙○○又何須違逆其意，自行出
+      航又將有何意義，是被告丙○○與乙○○其後再次出航駛
+      往中嶼島之舉，亦必係受丁○○之指示而為要無疑問。
+（三）被告丁○○與丙○○前即曾因未經許可，共同將船舶航行
+      至大陸地區，經本院刑事庭先後以96年簡上字第10號、97
+      年簡上字第1號、第2號先後各判處兩次罪刑確定，斯時被
+      告丁○○與丙○○亦係將船舶航行至中嶼島附近海域，欲
+      與大陸人士進行貨物之交易，兩人既早有前述多次偵審經
+      驗，實無再對中嶼島為大陸地區島嶼此情予以諉稱不知，
+      竟於本案再次為交易船上動物，由被告丁○○委託被告丙
+      ○○、乙○○將船開往中嶼島附近海域，其等對該船將因
+      之逾越禁止水域界線進入大陸地區此項結果之發生此等事
+      實，自均具直接故意甚明，被告丁○○、丙○○確有未經
+      許可航行至大陸地區之犯行此節，均堪認定。
+二、核被告丙○○、丁○○所為，均係犯臺灣地區與大陸地區人
+    民關係條例第80條第1項中華民國船舶船長違反第28條規定
+    罪，被告2人與乙○○就此犯行，皆有犯意聯絡與行為分擔
+    ，俱為共同正犯，至被告丁○○雖非該船船長，然既與身為
+    船長之被告丙○○共同實施犯罪，依刑法第31條第1項前段
+    之規定，仍應以正犯論。被告丁○○雖與被告丙○○共犯前
+    述犯行，然其既不具中華民國船舶船長之身分，可非難性應
+    較被告丙○○為輕，爰依刑法第31條第1項後段減輕其刑，
+    。爰審酌被告丙○○、丁○○無視法律禁止之規定，一再共
+    同於未經主管機關許可情形下，擅自駕駛船舶駛往大陸地區
+    ，危害臺灣與大陸地區間對船舶直航之管制，被告2人犯罪
+    後態度亦非甚佳，一味否認，未能坦承所為之非等一切情狀
+    ，被告丁○○為其中主謀之人，行為自具更高之非難性，分
+    別量處如主文所示刑度，以示懲儆。
+三、公訴意旨另以：
+（一）被告丙○○、丁○○與乙○○另明知保育類野生動物之活
+      體非經中央主管機關之同意，不得輸入或輸出；且警察或
+      海岸巡防機關為維護國家安全之必要，對於出境旅客及其
+      所攜帶之物件均得依職權實施檢查，其等竟共同基於輸出
+      保育類野生動物之活體、逃避檢查之犯意聯絡，於前述時
+      地將如附表所示之保育類野生動物活體搬至船上，其後再
+      由乙○○駕駛該船附載丙○○及上開保育類野生動物逃避
+      檢查自金門縣金沙鎮洋山岸際出發，駛往大陸地區，終駛
+      抵大陸地區中嶼島海域，因認被告丙○○、丁○○另涉犯
+      國家安全法第6條第2項之逃避檢查，及野生動物保育法第
+      40條第1項第1款之未經中央主管機關同意輸出保育類野生
+      動物活體等罪嫌。經查：
+（二）按犯罪事實應依證據認定之，無證據不得認定犯罪事實，
+      刑事訴訟法第154條第2項定有明文。公訴人所為前述認定
+      ，無非係以出航之該艘船舶，係由金門縣金沙鎮洋山灣岸
+      際出發，被告丙○○、丁○○既無法於該處將貨物合法報
+      關，亦非由設有安全檢查所之料羅港或水頭港出航，自不
+      合法而屬逃避檢查之行為，而由被告丁○○交付，被告丙
+      ○○、乙○○駕船載往中嶼島之附表動物，亦均屬主管機
+      關公告之保育類野生動物，有農委會生物保育研究中心所
+      提之前開鑑定函文可為參佐等為其論據。訊據被告丙○○
+      、丁○○堅決否認有何公訴人所指之逃避檢查與輸出保育
+      類野生動物之犯行，均辯稱：當日搬運該批動物上船時，
+      均有海巡人員在旁監看，其等並無逃避不主動配合之行為
+      ，且其等皆不知載運之鸚鵡等鳥類竟屬公告之保育類野生
+      動物等語資為辯解。
+（三）經查：
+   1、被訴逃避檢查犯行部分：
+ （1）經本院傳喚被告等出航當日前往執行查察勤務之證人甲○
+      ○到庭結證表示：伊到洋山岸際後，有看到被告等在搬運
+      東西上船，前後過程均經伊與其他執勤人員拍攝蒐證，當
+      時被告沒有理會伊，然並無任何強制拒絕或逃避檢查的動
+      作，拍攝過程亦未經被告等之攔阻，有看到運送的貨物是
+      鴿紫、鸚鵡。由上可知，證人甲○○確曾於被告等裝運貨
+      物上船處所予以監視，並曾清楚確認被告等搬運之物品為
+      何，證人甲○○於蒐證過程中，亦從未受到被告等之無理
+      回應或抵抗。據此，足認當日證人甲○○在場之時，被告
+      丙○○、丁○○，均未有逃避之反應，被告所辯核與事實
+      相符，而證人甲○○既從未命被告丙○○或丁○○將鳥籠
+      打開供其拍照確認，則被告等自亦無何等拒絕檢查之行為
+      可言。
+ （2）雖被告丙○○、丁○○並未將該批鳥類貨物依循正常報關
+      程序，由設有安全檢查所之處諸如料羅或水頭碼頭等處出
+      海，然按國家安全法第6條第2項之逃避檢查罪，參照同法
+      第1條之立法意旨，其目的不外為藉此確保國家安全及維
+      護社會安定，而課予人民應於適當時間，前往實施檢查地
+      點接受檢查之義務，以排除其個人之入出境、所用交通工
+      具及攜帶物品可能對國家社會秩序產生之危害，行為人如
+      以逃避或拒絕之方式規避有權執行檢查任務之機關，其行
+      為即應被推定為具一定程度之危險性，而應依該條項之規
+      定予以處罰，惟於個案中若能以反證推翻前述推定，確認
+      行為人所為無此危險，對國家安全並不具危害性，應不得
+      認其成立此罪，否則無異過度擴張處罰界限，解釋上更將
+      與國家安全法之前述規範意旨大相違背。
+ （3）查證人甲○○當日前往被告等上船之處後，確曾就其等搬
+      運過程詳加蒐證，並已在旁確認搬運上船之貨物為何，至
+      證人甲○○雖未登船檢查，然此純係其個人基於檢查人員
+      之安全考量，自行決定不予涉水登船，證人甲○○更從未
+      要求須將船舶駛靠岸邊，準此，被告等雖確有未將貨物送
+      驗報關出港之行為，然此畢竟僅屬是否須另應依海關緝私
+      條例科以行政罰鍰之問題，被告丙○○、丁○○與乙○○
+      當日決定之出航行為，既無從認定確具危害國家安全之可
+      能性，對證人甲○○之要求亦無不予配合之逃避與拒絕之
+      行為，船上貨物更已經證人甲○○加以確認，揆諸前述說
+      明，被告等所為既已難認對國家安全或社會秩序存有何等
+      應予控制之危害性，自無由以逃避或拒絕檢查之罪名相繩
+      。
+   2、被訴輸出保育類野生動物活體犯行部分：
+ （1）按野生動物保育法第40條第1款之處罰未經中央主管機關
+      同意，輸出保育類野生動物之活體者，並無處罰過失犯之
+      明文。而其處罰之故意犯，雖不以行為人「明知」所輸出
+      之動物為保育類野生動物之確定故意為必要，然亦必須有
+      認識其為保育類動物之不確定故意，始克相當（最高法院
+      92年度台上字第6748號判決意旨參照）。所謂保育類野生
+      動物，依該法第4條第2項規定，則係委由野生動物保育諮
+      詢委員會評估分類，並由中央主管機關指定公告，製作名
+      錄。此種立法係將刑罰構成要件部分內容（即指定為保育
+      類野生動物）委由行政機關以命令為之，許多動物種類並
+      非生活化，屬名稱繁複非常見之各類動物名稱所在多有。
+      是如屬非通常習見之保育類動物，除因具新聞價值而經媒
+      體多方報導，或經政府多方宣導，得認一般民眾對此有所
+      認識，難以諉稱不知以外，如就其他一般民眾均屬陌生，
+      而僅具專業背景知識或有興趣之人可得認識者，欲令民眾
+      認知各種保育類野生動物，或有其困難。是以，如該保育
+      類野生動物非一般通常之人可得認識者，自須依其他間接
+      證據，例如被告有相關前案紀錄，曾因此遭科處刑罰或行
+      政處罰，或依其個人情事可認有此類相關背景知識，甚至
+      依價格、取得與運送過程與對象及查獲經過等情事，足堪
+      推認被告主觀上對於輸出之野生動物屬保育類動物應有認
+      識，而得以刑相加者外，自不能以推測或擬制之方法遽作
+      認定。
+ （2）本件被告丙○○、丁○○均非以販賣鳥類為生之人，並無
+      專業背景知識可得認識扣案如附表所示之鸚鵡為保育類動
+      物；其二人亦未曾因觸犯野生動物保育法案件遭處罰，亦
+      難認有比一般民眾更高注意義務而應採取更為積極之措施
+      來確認所運送之鸚鵡屬保育類動物；參以該批鸚鵡與鴿子
+      均從臺灣地區運送來台，易使一般人誤認鸚鵡與鴿子均係
+      市面上可自由買賣之商品；再觀諸被告丁○○係委託被告
+      丙○○連同鴿子一併運送鸚鵡，使用之運具為簡陋小船，
+      而依被告丙○○之供述，鴿子係置於船艙內，鸚鵡僅二件
+      置於船艙內，其餘四件鸚鵡置於無遮蔽之甲板上，對鸚鵡
+      未採取適當或更為嚴密的保護措施，足見被告丁○○、丙
+      ○○主觀上將所運送之鸚鵡與鴿子視同相類似價值之物；
+      又扣案之鴿子、鸚鵡合計多達493隻，其完稅價格僅新台
+      幣26萬8,940元，有財政部高雄關稅局97年6月11日高普緝
+      字第0971010836號函附卷可參，與一般人習知保育類動物
+      具有相當價值的認知不符；故綜合客觀情事判斷，無從認
+      定被告丁○○、丙○○明知或可得認識扣案之鸚鵡係屬保
+      育類動物。本件檢察官之舉證，僅能證明被告客觀上確有
+      輸出保育類野生動物之鸚鵡，被告二人主觀上是否認識該
+      批鸚鵡為保育類動物之部分，則乏相關證據可供佐證，本
+      院認尚存有合理之懷疑，無法形成有罪判決之確切心證。
+   3、此外復查無其他積極證據足認被告丙○○、丁○○確有公
+      訴人所述之逃避檢查與輸出保育類野生動物活體犯行，基
+      於罪疑唯輕原則，就此本應各自為其等無罪判決，然公訴
+      人既認該等部分如皆可成立犯罪，與前開被告丙○○、丁
+      ○○經論罪科刑之部分存有一行為觸犯數罪名之想像競合
+      關係，本院爰不另為無罪之諭知，併此敘明。
+據上論斷，應依刑事訴訟法第299條第1項前段，臺灣地區與大陸
+地區人民關係條例第80條第1項，刑法第11條前段、第28條、第
+31條，判決如主文。
+本案經檢察官席時英到庭執行職務。
+中　　華　　民　　國　　97　　年　　7 　　月　　17　　日
+　　　　　　　　　刑事庭審判長  法　官　施慶鴻
+                                法  官  鄭銘仁
+                                法  官  盧軍傑
+上正本證明與原本無異。
+如不服本判決應於送達後10日內向本院提出上訴書狀（並附繕本
+）；如上訴書狀未敘述上訴之理由者，並應於上訴期間屆滿後20
+日內向本院補提上訴理由書。
+中　　華　　民　　國　　97　　年　　7 　　月　　21　　日
+                                書記官  徐振玉
+附錄本案論罪科刑法條全文：
+臺灣地區與大陸地區人民關係條例第80條第1項：
+中華民國船舶、航空器或其他運輸工具所有人、營運人或船長、
+機長、其他運輸工具駕駛人違反第28條規定或違反第28條之1第1
+項規定或臺灣地區人民違反第28條之1第2項規定者，處3年以下
+有期徒刑、拘役或科或併科新臺幣1百萬元以上1千5百萬元以下
+罰金。但行為係出於中華民國船舶、航空器或其他運輸工具之船
+長或機長或駕駛人自行決定者，處罰船長或機長或駕駛人。
+附表：
+   ┌──┬─────────┬─────┐
+   │編號│保育類野生動物名稱│數量（隻）│
+   ├──┼─────────┼─────┤
+   │ 1  │藍黃金剛鸚鵡      │1         │
+   ├──┼─────────┼─────┤
+   │ 2  │彩虹吸蜜鸚鵡      │8         │
+   ├──┼─────────┼─────┤
+   │ 3  │紅色吸蜜鸚鵡      │8         │
+   ├──┼─────────┼─────┤
+   │ 4  │黃裙吸蜜鸚鵡      │8         │
+   ├──┼─────────┼─────┤
+   │ 5  │深紅玫瑰鸚鵡      │12        │
+   ├──┼─────────┼─────┤
+   │ 6  │麝香吸蜜鸚鵡      │14        │
+   ├──┼─────────┼─────┤
+   │ 7  │太陽鸚哥          │14        │
+   ├──┼─────────┼─────┤
+   │ 8  │太平洋鸚哥        │16        │
+   ├──┼─────────┼─────┤
+   │ 9  │非洲灰鸚哥        │16        │
+   ├──┼─────────┼─────┤
+   │ 10 │橫斑鸚哥          │18        │
+   ├──┼─────────┼─────┤
+   │ 11 │完美吸蜜鸚鵡      │20        │
+   ├──┼─────────┼─────┤
+   │ 12 │紅額鸚哥          │26        │
+   └──┴─────────┴─────┘
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\judday\OK\LAWKMD\CRIMINAL\9707\17\KMDM977H.002] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
+											筆 / 現在第4
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e8%a8%b4&selectedCrmno=000021&selectedCrtid=KMD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=3&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=5&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=97%2c%e8%a8%b4%2c21%2c20080717%2c1&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=21&jdate=970717&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=97%2c%e8%a8%b4%2c21%2c20080717%2c1&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=21&jdate=970717&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('97%2c%e8%a8%b4%2c21%2c20080717%2c1','KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','97','%e8%a8%b4','21','970717','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="4"> <input type="hidden" name="v_court" value="KMD 福建金門地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

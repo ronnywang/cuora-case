@@ -1,0 +1,322 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>苗栗簡易庭-刑-102原苗簡6</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+YGsYrYpxptIcDD553RKTMFRwZ7E=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>苗栗簡易庭 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共32
+											筆 / 現在第1
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e5%8e%9f%e8%8b%97%e7%b0%a1&selectedCrmno=000006&selectedCrtid=MLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=MLD+%e8%8b%97%e6%a0%97%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=32&v_court=MLD+%e8%8b%97%e6%a0%97%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e5%8e%9f%e8%8b%97%e7%b0%a1%2c6%2c20130924%2c1&v_court=MLD+%e8%8b%97%e6%a0%97%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jyear=102&jcase=%e5%8e%9f%e8%8b%97%e7%b0%a1&jno=6&jdate=1020924&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=102%2c%e5%8e%9f%e8%8b%97%e7%b0%a1%2c6%2c20130924%2c1&v_court=MLD+%e8%8b%97%e6%a0%97%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jyear=102&jcase=%e5%8e%9f%e8%8b%97%e7%b0%a1&jno=6&jdate=1020924&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('102%2c%e5%8e%9f%e8%8b%97%e7%b0%a1%2c6%2c20130924%2c1','MLD+%e8%8b%97%e6%a0%97%e7%b0%a1%e6%98%93%e5%ba%ad','M','102','%e5%8e%9f%e8%8b%97%e7%b0%a1','6','1020924','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">102,原苗簡,6</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">1020924</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體"><font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣苗栗地方法院刑事簡易判決　　　　102年度原苗簡字第6號
+聲　請　人　臺灣苗栗地方法院檢察署檢察官
+被　　　告　陳治誠
+上列被告因違反野生動物保育法案件，經檢察官聲請以簡易判決
+處刑（101 年度撤緩偵字第158 號），本院判決如下：
+    主  文
+陳治誠共同犯野生動物保育法第41條第1 項第1 款之非法宰殺保
+育類野生動物罪，處有期徒刑肆月，如易科罰金以新臺幣壹仟元
+折算壹日；扣案之山羌肆隻（均為死體）、土製獵槍參枝沒收。
+    犯罪事實及理由
+一、本件犯罪事實、證據名稱均引用檢察官聲請簡易判決處刑書
+    之記載（如附件，犯罪事實欄標題一第7 列之「獵捕」應更
+    正為「獵捕並宰殺」、第7 至8 列之「第二級保育類野生動
+    物」應更正為「第三級保育類野生動物」），證據名稱另補
+    充「內政部警政署森林暨自然保育警察隊扣押筆錄」、「保
+    育類野生動物名錄」。
+二、按野生動物保育法第41條第1 項第2 款之罪，須行為人係基
+    於學術研究或教育目的，而未經中央主管機關許可，獵捕、
+    宰殺保育野生動物，方可成立；如非基於上述之目的而有擅
+    自獵捕、宰殺保育類野生動物行為者，則屬是否構成同法第
+    41條第1 項第1 款之罪之問題（最高法院86年度台上字第38
+    21號判決意旨參照）。查被告陳治誠獵捕、宰殺山羌，係為
+    於參與運動會時供自己及親友食用，顯非基於學術研究或教
+    育目的，故核其所為，係犯野生動物保育法第41條第1 項第
+    1 款之非法宰殺保育類野生動物罪（獵捕之低度行為應為宰
+    殺之高度行為所吸收，不另論罪）；被告與楊智培、楊英豪
+    就前開犯行互有犯意聯絡及行為分擔，為共同正犯；其先後
+    宰殺4 隻山羌，係於密切接近之時地實施，侵害同一法益，
+    各行為之獨立性極為薄弱，依一般社會健全觀念，難以強行
+    分開，在刑法評價上，以視為數個舉動之接續施行，合為包
+    括之一行為予以評價，較為合理，應僅論以接續犯之包括一
+    罪。再查被告為泰雅族山地原住民，因傳統狩獵觀念尚未完
+    全根除，對於國家法令禁止獵捕宰殺保育類野生動物之意識
+    較為不足，致有本件犯行，而其目的僅係為供自己及親友食
+    用，並無販賣牟利之意圖，又無刑事前科，素行良好，足認
+    其惡性及對社會之危險性尚屬輕微，本件所論野生動物保育
+    法第41條第1 項第1 款之罪，法定本刑為6 月以上5 年以下
+    有期徒刑，得併科新臺幣20萬元以上100 萬元以下罰金，與
+    前揭被告犯罪之情狀相衡，實屬情輕法重，在客觀上足以引
+    起一般同情，本院認縱對被告科以有期徒刑6 月之最低度刑
+    ，猶嫌過重，爰依刑法第59條之規定，酌量減輕其刑。
+三、審酌被告犯罪之動機、目的、手段，非法獵捕並宰殺之保育
+    類野生動物種類、數量，對於野生動物之保育、物種多樣性
+    之維護及自然生態之平衡所生危害，犯罪後坦白承認、但未
+    珍惜緩起訴機會（未遵期提供60小時之義務勞務）之態度，
+    暨其品行、智識程度、生活狀況等一切情狀，量處如主文所
+    示之刑，並諭知易科罰金折算之標準；另就查獲之保育類野
+    生動物、供犯罪所用且屬於被告或共犯之獵具宣告沒收。本
+    判決所宣告之有期徒刑，除易科罰金外，亦得依刑法第41條
+    第2 項之規定易服社會勞動，惟均應於判決確定後向指揮執
+    行之檢察官提出聲請，併此提醒。
+四、依刑事訴訟法第449 條第1 項前段、第450 條第1 項、第45
+    4 條，野生動物保育法第41條第1 項第1 款、第52條第1 項
+    ，刑法第11條、第28條、第59條、第41條第1 項前段，逕以
+    簡易判決處刑如主文。
+五、如不服本件判決，得自判決送達之日起10日內，向本院管轄
+    之第二審合議庭提起上訴。
+中    華    民    國   102    年    9     月    24    日
+                  苗栗簡易庭  法  官  羅貞元
+以上正本證明與原本無異。
+如不服本判決應於收受判決後10日內向本院提出上訴書狀，並應
+敘述具體理由。其未敘述上訴理由者，應於上訴期間屆滿後20日
+內向本院補提理由書（均須附繕本) 「切勿逕送上級法院」。告
+訴人或被害人如對本判決不服者，應具備理由請求檢察官上訴，
+其上訴期間之計算係以檢察官收受判決正本之日期為準。
+                              書記官  劉碧雯
+中    華    民    國   102    年    9     月    24    日
+附錄本判決論罪科刑之法條：
+野生動物保育法第41條：
+有下列情形之一，處6 月以上5 年以下有期徒刑，得併科新臺幣
+20萬元以上100 萬元以下罰金：
+一、未具第18條第1 項第1 款之條件，獵捕、宰殺保育類野生動
+    物者。
+二、違反第18條第1 項第2 款規定，未經中央主管機關許可，獵
+    捕、宰殺保育類野生動物者。
+三、違反第19條第1 項規定，使用禁止之方式，獵捕、宰殺保育
+    類野生動物者。
+於劃定之野生動物保護區內，犯前項之罪者，加重其刑至三分之
+一。
+第1 項之未遂犯罰之。
+附件：
+臺灣苗栗地方法院檢察署檢察官聲請簡易判決處刑書
+                                  101年度撤緩偵字第158號
+    被      告  陳治誠  男  26歲（民國00年0月00日生）
+                        住苗栗縣泰安鄉○○村○○0 鄰00號
+                        國民身分證統一編號：Z000000000號
+上列被告因違反野生動物保育法案件，業經偵查終結，認宜以簡
+易判決處刑，茲將犯罪事實及證據並所犯法條分敘如下：
+        犯罪事實
+一、被告陳治誠、楊智培、楊英豪（後二人另為緩起訴處分）明
+    知山羌係經行政院農業委員會所公告列為保育類之野生動物
+    ，非因該野生動物族群逾越環境容許量，或基於學術研究或
+    教學目的，並經主管機關同意，不得獵補，仍於民國100 年
+    11月29日下午某時許，分持獵槍、鋼珠（所涉槍砲彈藥刀械
+    管制條例部分，另為不起訴處分）前往苗栗縣泰安鄉梅象橋
+    上游2 公里某處，共同在該處進行狩獵，共計獵捕第二級保
+    育類野生動物山羌4隻。嗣於100年12月1日凌晨5時30分許，
+    在苗栗縣泰安鄉梅象橋下游100 公尺處為警查獲。
+二、案經臺中市政府警察局豐原分局報告偵辦。
+        證據並所犯法條
+一、上開犯罪事實，業據被告陳治誠供承不諱且與證人即同案被
+    告楊智培、楊英豪之證述互核相符，且有扣案獵槍3 把、山
+    羌4 具、屏東科技大學研究發展處附設野生動物保育服務中
+    心臨時物種鑑定表、代保管條、現場圖、現場蒐證照片、警
+    員職務報告等扣案可佐，被告犯行足堪認定。
+二、核被告陳治誠所為，係違反野生動物保育法第18條第1 項之
+    規定而犯同法第41條第1 項之宰殺保育類野生動物罪嫌。至
+    扣案之物，請依法沒收。
+三、依刑事訴訟法第451條第1項聲請逕以簡易判決處刑。
+    此  致
+臺灣苗栗地方法院
+中    華    民    國   101    年    12    月    23    日
+                              檢察官  姜永浩
+本件證明與原本無異
+中    華    民    國   102    年    1     月    2     日
+                              書記官  陳巧庭
+所犯法條
+野生動物保育法第41條
+有下列情形之一，處六月以上 5 年以下有期徒刑，得併科新臺
+幣 20 萬元以上 1 百萬元以下罰金：
+一、未具第 18 條第 1 項第 1 款之條件，獵捕、宰殺保育類野
+    生動物者。
+二、違反第 18 條第 1 項第 2 款規定，未經中央主管機關許可
+    ，獵捕、宰殺保育類野生動物者。
+三、違反第 19 條第 1 項規定，使用禁止之方式，獵捕、宰殺
+    保育類野生動物者。
+於劃定之野生動物保護區內，犯前項之罪者，加重其刑至三分之
+一。
+第 1 項之未遂犯罰之。</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\jupload\upload\OK\LAWMLD\CRIMINAL\10209\24\MLDM1029O.00F] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共32
+											筆 / 現在第1
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=102&selectedCrmid=%e5%8e%9f%e8%8b%97%e7%b0%a1&selectedCrmno=000006&selectedCrtid=MLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=2&v_court=MLD+%e8%8b%97%e6%a0%97%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0" onmouseover="">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=32&v_court=MLD+%e8%8b%97%e6%a0%97%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=102%2c%e5%8e%9f%e8%8b%97%e7%b0%a1%2c6%2c20130924%2c1&v_court=MLD+%e8%8b%97%e6%a0%97%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jyear=102&jcase=%e5%8e%9f%e8%8b%97%e7%b0%a1&jno=6&jdate=1020924&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=102%2c%e5%8e%9f%e8%8b%97%e7%b0%a1%2c6%2c20130924%2c1&v_court=MLD+%e8%8b%97%e6%a0%97%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jyear=102&jcase=%e5%8e%9f%e8%8b%97%e7%b0%a1&jno=6&jdate=1020924&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('102%2c%e5%8e%9f%e8%8b%97%e7%b0%a1%2c6%2c20130924%2c1','MLD+%e8%8b%97%e6%a0%97%e7%b0%a1%e6%98%93%e5%ba%ad','M','102','%e5%8e%9f%e8%8b%97%e7%b0%a1','6','1020924','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="1"> <input type="hidden" name="v_court" value="MLD 苗栗簡易庭">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

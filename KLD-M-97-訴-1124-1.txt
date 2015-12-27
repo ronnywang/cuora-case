@@ -1,0 +1,520 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>基隆、瑞芳簡易庭-刑-97訴1124</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+YGsYrYpxptIcDD553RKTMFRwZ7E=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>基隆、瑞芳簡易庭 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共40
+											筆 / 現在第13
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e8%a8%b4&selectedCrmno=001124&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=40&v_court=KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=97%2c%e8%a8%b4%2c1124%2c20080909%2c1&v_court=KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=1124&jdate=970909&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=97%2c%e8%a8%b4%2c1124%2c20080909%2c1&v_court=KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=1124&jdate=970909&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('97%2c%e8%a8%b4%2c1124%2c20080909%2c1','KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad','M','97','%e8%a8%b4','1124','970909','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">97,訴,1124</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">970909</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">違反<font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>台灣基隆地方法院刑事判決　　　　　　　97年度訴字第1124號
+公　訴　人　台灣基隆地方法院檢察署檢察官
+被　　　告　甲○○
+　　　　　　　　　　國民
+上列被告因違反野生動物保育法案件，經檢察官聲請以簡易判決
+處刑（96年度偵字第6101號），本院認為不宜（97年度基簡字第
+92 號）， 經依通常程序審理並判決如下：
+    主  文
+甲○○違反保育類野生動物非經主管機關之同意，不得在公共場
+所展示之規定，未經主管機關同意，意圖販賣而展示保育類野生
+動物，處有期徒刑陸月；如易科罰金，以新台幣壹仟元折算壹日
+；緩刑貳年。
+扣案之黃山雀貳隻、紅頭山雀壹隻、青背山雀貳隻、冠羽鳳眉壹
+隻、白耳奇眉壹隻及賽內加爾鸚鵡貳隻，均沒收。
+    事  實
+一、犯罪經過
+    甲○○知悉黃山雀（學名為Parus holsti）、紅頭山雀（學
+    名為Aegithalos concinnus）、青背山雀（學名為Parus
+    monticolus）、冠羽畫眉（學名為Yuhina brunneiceps）、
+    白耳畫眉（學名為Heterophosia auricularis）、賽內加爾
+    鸚鵡（學名為Poicephalus senegalus）等 鳥類，係經保育
+    野生動物之中央主管機關行政院農業委員會（下稱農委會）
+    ，於民國91年4 月24日指定公告並製作名錄，自同年6 月1
+    日起實施之第一級及第二級保育類野生動物，分屬瀕臨絕種
+    保育類及珍貴稀有保育類野生動物，非經主管機關之同意，
+    不得買賣；詎其未經主管機關之同意，而於96年10月間，以
+    每隻新台幣（下同）150 元至200 元之價格，或在基隆市八
+    堵區○○○路八堵交流道附近，向向身分不詳之成年男子「
+    阿全」；或向台北市○○○路○段3 之4 號之「世界鳥園」
+    ，分別購買上開鳥類共13隻，即黃山雀二隻、紅頭山雀一隻
+    、青背山雀二隻、冠羽鳳眉一隻、白耳奇眉一隻及賽內加爾
+    鸚鵡二隻；再意圖販賣，而將上開鳥類飼養並陳列在其所有
+    LA-5450 號小貨車之鳥籠內。同年12月1 日晚間，並將其小
+    客車駛至基隆市○○路八斗子夜市內，繼續陳列並展示上開
+    鳥類，以供顧客公開觀賞選購。
+二、案發經過
+    同日晚間11時許，在基隆市○○路八斗子夜市內，為森林暨
+    自然保育警察隊羅東分隊協同基隆市警察局第四分局、基隆
+    市政府海洋發展局當場查獲，並查扣上開鳥類共13隻。
+貳、起訴經過
+    案經基隆市警察局第四分局報請台灣基隆地方法院檢察署檢
+    察官偵查而聲請以簡易判決處刑，經本院認為不宜而依通常
+    程序審理。
+    理  由
+壹、事實認定
+    右揭事實迭據被告甲○○於警詢、偵查及審判中坦承不諱，
+    並有基隆市野生動物保育聯合執行小組訪查紀錄表及切結書
+    各一紙、扣案鳥類照片18張在卷可稽；而上開鳥類中，黃山
+    雀及賽內加爾鸚鵡屬於珍貴稀有保育類野生動物，紅頭山雀
+    、青背山雀、冠羽鳳眉及白耳奇眉屬於其他應予保育野生動
+    物無訛，並經國立屏東科技大學研究發展處野生動物保育服
+    務中心鑑定屬實，有該中心物種鑑定書一紙附卷足憑；準此
+    以觀，足見被告之自白與事實相符，可以採信，從而其犯行
+    洵堪認定。
+貳、法律適用
+一、所犯罪名
+    核被告所為，係違反野生動物保育法第35條第1 項之規定，
+    而觸犯同法第40條第1 項第2 款之未經主管機關許可，意圖
+    販賣而陳列、展示保育類野生動物罪，蓋野生動物保育法第
+    35條第1 項規定：「保育類野生動物、瀕臨絕種及珍貴稀有
+    野生動物產製品，非經主管機關之同意，不得買賣或在公共
+    場所陳列、展示。」被告意圖販賣而有前開陳列、展示行為
+    ，依同法第40條第1 項第2 款之規定，自應予以處罰。
+二、繼續犯
+    被告陳列、展示上開鳥類之犯罪行為在繼續中，並非犯罪狀
+    態在繼續中，係繼續犯，並非狀態犯。
+三、吸收關係
+    陳列係展示之前階行為，當其陳列已在供人觀賞時，即已提
+    昇為展示，應依高度行為吸收低度行為原則，逕以展示罪加
+    以處罰，無庸再論其陳列之罪。因此，主文僅以「展示」一
+    詞表之，不再重複使用「陳列」一詞。
+四、立法用語
+１、欠缺明確
+    按野生動物保育法第35條第1 項規定：「保育類野生動物、
+    瀕臨絕種及珍貴稀有野生動物產製品，非經主管機關之同意
+    ，不得買賣或在公共場所陳列、展示。」本項之動詞係買賣
+    、陳列及展示，惟其主詞究竟為「保育類野生動物」及「瀕
+    臨絕種及珍貴稀有野生動物產製品」兩項，或只有「產製品
+    」一項（即「保育類野生動物之產製品、瀕臨絕種野生動物
+    之產製品及珍貴稀有野生動物之產製品）？並不明確。其次
+    ，同法第40條第1 項規定：「有下列情形之一，處六月以上
+    五年以下有期徒刑，得併科新台幣三十萬元以上一百五十萬
+    元以下罰金：一、違反第二十四條第一項規定，未經中央主
+    管機關同意，輸入或輸出保育類野生動物之活體或其產製品
+    者。二、違反第三十五條第一項規定，未經主管機關同意，
+    買賣或意圖販賣而陳列、展示保育類野生動物或瀕臨絕種及
+    珍貴稀有野生動物產製品者。」其第2 項之動詞乃買賣、陳
+    列及展示，惟其受詞究竟為「保育類野生動物」及「瀕臨絕
+    種及珍貴稀有野生動物產製品」兩項，或只有「產製品」一
+    項（即「保育類野生動物之產製品、瀕臨絕種野生動物之產
+    製品及珍貴稀有野生動物之產製品）？亦不明確。
+２、正確解讀
+    讀者必須先知野生動物保育法第4 條規定：「野生動物區分
+    為下列二類：一、保育類：指瀕臨絕種、珍貴稀有及其他應
+    予保育之野生動物。二、一般類：指保育類以外之野生動物
+    。」然後對照同法第35條及第40條第1 項第2 款之立法詞句
+    ，才能得知其同法第35條之主詞及第40條第1 項第2 款之受
+    詞，乃「保育類野生動物」及「產製品」兩項，亦即所謂「
+    保育類野生動物，包括「瀕臨絕種」、「珍貴稀有」及「其
+    他應予保育」之三種野生動物；而所謂「產製品」僅限於「
+    瀕臨絕種」及「珍貴稀有」兩種之野生動物，不包括「其他
+    應予保育」之野生動物。由此可見，同法第35條及第40條第
+    1 項第2 款之立法用語欠缺明確性，容易造成不同之解讀，
+    自會妨害法律之安定性。
+３、解決之道
+    為免讀者誤會，宜修法仿照同法第24條或第40條第1 項第1
+    款之用語，在同法第35條及第40條第1 項第2 款之「保育類
+    野生動物」之後，加上「活體」二字，使讀者一望即知其主
+    詞或受詞乃「活體」與「產製品」二者，「保育類野生動物
+    」乃「活體」之修飾詞；「瀕臨絕種及珍貴稀有野生動物」
+    乃「產製品」之修飾詞。一言以蔽之，一、同法第35條第1
+    項應修正為：「保育類野生動物『活體』、瀕臨絕種及珍貴
+    稀有野生動物產製品，非經主管機關之同意，不得買賣或在
+    公共場所陳列、展示。」二、同法第40條第1 項第2 款應修
+    正為：「二、違反第三十五條第一項規定，未經主管機關同
+    意，買賣或意圖販賣而陳列、展示保育類野生動物『活體』
+    或瀕臨絕種及珍貴稀有野生動物產製品者。」
+、違憲審查
+一、憲法原則
+１、人性尊嚴原則
+    其次，德國基本法第一條第一項規定：「人性尊嚴不可侵犯
+    。尊重及保護人性尊嚴，乃所有國家權力機構之義務。」依
+    據國民主權原理，國民是國家主人，其人性尊嚴不可侵犯。
+    尊重及保護其人性尊嚴，實係行政、立法、司法機關之義務
+    。就刑事立法而言，若無法益侵害或法益危險之行為而予以
+    犯罪化，或較輕責任之行為而賦予重刑罰之處罰，即是違背
+    人性尊嚴原則，而為違憲之立法。
+２、比例原則
+    按一般認為比例原則之內涵，係適當性原則、必要性原則及
+    比例性原則三項。事實上，比例原則可分為二層次，其一須
+    「適當」，其次須「相當」。就刑法而言，所謂適當，是指
+    其犯罪化而處以刑罰為適當。所謂相當即不過量，所謂不過
+    量乃指侵害最小，是指犯罪化後所賦予之刑罰種類為相當，
+    為不過量，為侵害最小。因此，若要簡而言之，比例原則之
+    必要性原則及比例性原則，可以合而為一，姑且名之曰相當
+    性原則。若其犯罪化而犯以刑罰之立法並不適當，即是不合
+    適當性原則，進而違背比例原則。若其犯罪化之立法適當，
+    而其刑罰種類之賦予並不相當，即是不合相當性原則，進而
+    無論其為過重或過輕，皆是違背比例原則之立法。其次，依
+    據適當性原則之要求，國家刑罰權之行使，應限於必要之干
+    預；能以其他手段而達成目的時，則應放棄刑罰。此由於刑
+    法係以刑罰為其反應手段，屬於規範社會共同生活秩序之最
+    後手段。若以其他手段亦能有效防止不法行為時，不應使用
+    刑罰手段。唯在以其他手段未能有效防止不法行為時，始得
+    使用刑罰。此謂之刑罰之「最後手段性」。在符合適當性原
+    則時，立法者對於數手段之選擇，仍須符合最小侵害原則及
+    比例性原則；既不能以立法形成自由為詞，而選擇侵害較大
+    之手段；當其選擇該手段後，亦不能以立法形成自由為由，
+    而使規定嚴苛，以致形成對人民權利之過量侵害，使其目的
+    與限制程度不成比例。
+３、法益原則
+    據比例原則中之適當性原則之要求，國家刑罰權之行使，應
+    限於必要之干預；能以其他手段而達成目的時，則應放棄刑
+    罰。此謂之刑罰之「最後手段性」，亦即刑罰謙抑原則之表
+    現。欲知其犯罪化之立法是否合乎適當性原則適當，必須求
+    諸於法益原則。因此，比例原則中之「適當性原則」，可以
+    導出刑事立法上之「法益原則」。申言之，刑事立法上之「
+    法益原則」要求任何行為要加以犯罪化，必因其法益受到侵
+    害或危險。蓋刑事立法之核心，在於其所保護之法益。刑法
+    之任務，在於法益之保護。無法益保護，無刑法可言；亦即
+    無法益受到侵害或危險，則無施以刑罰之必要。行為如未造
+    成「法益侵害」或「法益危險」，則無將之犯罪化之必要。
+    在法益侵害，為「實害犯」；在法益危險，為「危險犯」。
+    再者，法益本身依其價值評價之強度，而呈現法益位階。生
+    命、身體、自由、名譽、財產五者，按其順序，而高低位階
+    化。生命法益最高，其次身體法益，其次自由法益，其次名
+    譽法益，而財產法益最低。此五種傳統法益，稱之為「個人
+    法益」。在個人法益以外之法益，即「超個人法益」或「一
+    般法益」、「團體法益」、「整體法益」，亦必須其與個人
+    法益具有關連性者，始得為刑法所保護之一般法益。所謂危
+    險犯，亦即行為人之行為造成法益危險，尚未至法益侵害，
+    亦立法予以犯罪化。以最高位階之生命法益言之，刑法之有
+    預備殺人罪、預備放火罪、預備強盜罪、預備擄人勒贖罪，
+    均因其行為已造成生命法益之危險；否則，各該罪即無設預
+    備犯之必要。如係單純身體、自由、名譽、財產之法益危險
+    行為，則未曾設預備犯而加以犯罪化。
+４、罪刑相當原則
+    在犯罪化之立法之後，其刑罰種類之賦予是否合乎行為之罪
+    責，亦即是否罪刑相當，乃刑罰相當性之問題。申言之，欲
+    知其犯罪化之立法是否合乎適當性原則適當，必須求於罪刑
+    相當原則。因此，比例原則中之「適當性原則」，可以導出
+    刑事立法上之「罪刑相當原則」。如前所述，就刑法而言，
+    所謂相當即不過量，所謂不過量乃指侵害最小，是指犯罪化
+    後所賦予之刑罰種類為相當，為不過量，為侵害最小。因此
+    ，法定刑之刑罰種類及自由刑之刑度輕重，必須與其行為責
+    任之輕重相當，亦即在具有相當性時，始得為該種刑罰之賦
+    予或該級刑度之訂定。如此，其刑罰之賦予始為合乎「罪責
+    原則」，使其罪責與刑罰得以相適應而具有相當性，亦即立
+    法上之「罪刑相當原則」。若其犯罪化之立法適當，而其刑
+    罰種類之賦予並不相當，即是違背「罪刑相當原則」，自然
+    不合相當性原則，進而無論其為過重或過輕，皆是違背比例
+    原則之立法。
+二、陳列展示保育類野生動物罪
+１、罪之審查
+    野生動物保育法第40條，將輸入、輸出保育類野生動物之活
+    體；買賣、陳列、展示該等動物產製品之行為；第41條將獵
+    捕、宰殺該等動物之行為，皆處以6 月以上5 年以上有期徒
+    刑；第42條更將騷擾、虐待該等動物之行為，處以2 年以下
+    有期徒刑、拘役或罰金。保護保育類野生動物之嚴密，可謂
+    甚於保護人類。然則，區分動物為野生與非野生，再區分野
+    生動物為保育類與非保育類，而僅就保育類野生動物加以保
+    育，其他動物則不與焉，顯然重點只在避免保育類野生動物
+    絕種，以維護生態平衡而已，而不在保護全部野生動物，更
+    不在保護全部動物。如此，其立法仍係出於人間法之觀點，
+    並非出於宗教之博愛觀點。其立法既非視動物如人，則前開
+    侵害保育類野生動物之行為，並未侵害任何人之生命、身體
+    、自由、名譽或財產法益，又有何犯罪化之必要性！申言之
+    ，本條項之賦予刑罰，本質上係行政刑法。行政刑法而犯罪
+    化，通常欠缺必要性，經不起刑法理論之檢驗。換言之，違
+    反本條項之行為，並未侵害任何人之法益，絕對欠缺犯罪化
+    之必要性。何況，野生動物保育法第43條至50條文罰鍰之處
+    罰，事實上已能達其保護保育類野生動物之目的，若將第40
+    條至第42條之刑罰規定除刑化，僅處以罰鍰，即為已足，施
+    以刑罰，根本通不過比例原則之第一子原則即適當性原則之
+    檢驗，何況其他子原則！申言之，本條例之犯罪化條文根本
+    無存在之必要。其立法不合比例原則，不合法益原則，屬於
+    違憲之立法無疑。
+２、刑之審查
+    本院既認其立法之不合比例原則，違背法益原則，並非合憲
+    ，則無論其刑罰種類如何，皆不得謂符合罪刑相當原則；何
+    況，其最低刑度為有期徒刑六月，最高刑度為有期徒刑五年
+    ，並非短期之自由刑，且無罰金刑可供選科，則被告除非被
+    判處最低度之有期徒刑六月，才得以因易科罰金而免於牢獄
+    之災，否則皆須入獄服刑。因此，其刑度過高，絕非合理。
+肆、刑罰裁量
+一、罪刑相當原則
+１、自刑罰理論觀之
+    就刑罰之報應理論言之，刑罰係以其具有痛苦性之本質，來
+    均衡具有不法本質之犯罪，藉以衡平行為人之罪責，使行為
+    人得因責任抵償而贖罪，而社會正義得以實現義，是故強調
+    「刑罰之輕重應與罪責之輕重成比例」，是為司法上之罪刑
+    相當原則。其報應之內容即為自由之剝奪，亦即有期徒刑之
+    相加，而監獄即為執行報應之場所。再就特別預防理論言之
+    ，受刑人之犯罪係社會化過程之障礙，應使其在監執行，以
+    接受再教育而求其再社會化。復就一般預防理論觀之，以對
+    受刑人之施以刑罰，作為威嚇他人之手段，不過刑罰之附帶
+    作用，並非其主要目的。關於刑罰之目的，通常採取綜合理
+    論，各國皆然；既有報應罪責，又有預防再犯，並有嚇阻他
+    人犯罪之功能；惟報應理論所強調之「刑罰之輕重應與罪責
+    之輕重成比例」，仍為刑罰裁量之基本原則；在死刑及真正
+    無期徒刑，惟有在侵害生命法益之犯罪，單純依報應理論，
+    其罪責已夠深重，不期待其再社會化時，始得於審判上宣告
+    之；在死刑，更必須於「求其生而不得」時，始得為之；被
+    告縱然侵害他人之生命法益，如求其生而可得時，亦不得宣
+    告死刑，蓋死刑既稱之為極刑，如非極度之罪責，自不必處
+    以極度之死刑。目前，我國係採取無期徒刑得適用假釋之制
+    度，執行15年後，即有假釋之機會，本質上類似長期徒刑，
+    並非真正無期徒刑。若被告接受自由刑之執行，以進行責任
+    抵償，而在執行時能因己身之悛悔加之監獄之教化，仍有再
+    社會化之可能，並無永久隔離於社會之必要，即不適合量處
+    無期徒刑。
+２、自憲法原則觀之
+    依據前述人性尊嚴原則，「人性尊嚴不可侵犯。尊重及保護
+    人性尊嚴，乃所有國家權力機構之義務。」在被告之行為責
+    任確定後，其刑罰種類之賦予或自由刑之量定，均應相當而
+    不可過量，否則即是違背比例原則中之相當性原則，自然不
+    合司法上之「罪刑相當原則」。因此，刑事司法上之「罪刑
+    相當原則」要求法官在量刑時，應依法益之位階，重所當重
+    ，輕所當輕，必使罪得其刑而刑當其罪；不得重罪而輕判，
+    或輕罪而重判；期使責任與刑罰得以相適應，而具有相當性
+    。地藏十輪經（第三卷）云：「若犯重罪，應重治罰；若犯
+    中罪，應中治罰；若犯輕罪，應輕治罰；令其慚愧，懺悔所
+    犯。」其此之謂也！
+二、刑罰裁量
+１、主刑裁量
+    為此，本院：１、審酌被告之品行、生活狀況、智識程度、
+    犯罪之動機、目的、犯罪所生之危害、犯後之態度等一切情
+    狀之後，２、再斟酌拘役並無教化功能，乃不具實益之刑罰
+    種類，立法上以廢除為宜，以資符合自由刑單一化之要求；
+    六月以下之短期自由刑，既難有教化作用，又易使受刑人感
+    染惡習，除非被告有受其執行之特殊必要，否則尚無宣告之
+    必要；如其宣告，應以緩刑或易科罰金而調和之等情。３、
+    再考慮被告是否應施予刑罰並使之入監獄執行，應依刑罰理
+    論及刑事政策而加以考量，斟酌重點在於被告有無執行剝奪
+    其自由，並施以監獄之教化，以使其再社會化之必要性。４
+    、復考量被告之素行良好，卷附台灣高等法院被告全國前案
+    紀錄表記之甚明。何況，就本罪之行為人而言，其行為既無
+    法益侵害，亦無法益危險，本無入監獄抵償責任之必要，亦
+    無施以教化之必要。５、並特別衡量被告自始坦承犯行，其
+    犯罪後之態度良好。本院因而認為在量處最低度之自由刑，
+    已足以使其罪刑相當，爰宣告之，以示儆懲，並諭知易科罰
+    金之折算標準，以期被告之能知自新。
+２、緩刑宣告
+    經查：被告既受有期徒刑6 月之宣告，而其前此未曾受有期
+    徒刑以上刑之宣告，有台灣高等法院被告前案紀錄表一份在
+    卷可稽，符合緩刑之規定。本院考量其並無前科，本件屬於
+    初犯；而其於警詢、偵查及審判中皆已坦承犯行，尚知反省
+    ，經此警詢、偵查及審判程序之教訓，應當知所警而無再犯
+    之虞，因而認為所宣告之徒刑以暫不執行為適當，爰依修正
+    後刑法第74條第1 項第1 款之規定，宣告緩刑二年，以勵自
+    新。
+３、從刑裁量
+    野生動物保育法第52條規定：「犯第40條、第41條、第42條
+    或第43條第3 項之罪，查獲之保育類野生動物得沒收之；查
+    獲之保育類野生動物產製品及供犯罪所用之獵具、藥品、器
+    具，沒收之。」如主文第二項所示之前開鳥類共13隻，係查
+    獲之保育類野生動物，交付被告保管，被告雖於審判中供稱
+    部分飛走，部分死亡而遭家人丟棄，然不知其真假，仍應予
+    以宣告沒收。
+４、附帶說明
+    設被告所供交其保管之鳥類全部不見一節屬實，如係故意為
+    之，有無涉嫌刑法第138 條之罪責，宜由檢察官查明處理，
+    併予指明。
+伍、據上論斷
+    應依刑事訴訟法第452 條、第299 條第1 項前段、野生動物
+    保育法第35條第1 項、第40條第1 項第2 款、第52條第1 項
+    前段、刑法第11條前段、第41條第1 項前段、第74條第1 項
+    、刑法施行法第1 條之1 ，判決如主文。
+本案經檢察官乙○○到庭執行職務。
+中　　華　　民　　國　　97　　年　　9 　　月　　9 　　日
+　　　　　　　　　刑事第二庭審判長法　官　陳  志  祥
+                                  法  官  陳  伯  厚
+                                  法  官  邰  婉  玲
+以上正本證明與原本無異。
+如不服本判決，應於收受送達後10日內，向本院提出上訴狀；其
+未敘述上訴理由者，並應於提起上訴後10日內，向本院補提理由
+狀，均須按他造當事人之人數附繕本，切勿逕送上級法院。
+中　　華　　民　　國　　97　　年　　9 　　月　　9 　　日
+                                  書記官  王  月  娥
+附錄：
+野生動物保育法第40條第1 項第2 款：
+有下列情形之一，處六月以上五年以下有期徒刑，得併科新台幣
+三十萬元以上一百五十萬元以下罰金：
+二、違反第三十五條第一項規定，未經主管機關同意，買賣或意
+    圖販賣而陳列、展示保育類野生動物或瀕臨絕種及珍貴稀有
+    野生動物產製品者。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\judday\OK\LAWKLD\CRIMINAL\9709\09\KLDM9799.00H] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共40
+											筆 / 現在第13
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=097&selectedCrmid=%e8%a8%b4&selectedCrmno=001124&selectedCrtid=KLD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=12&v_court=KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=14&v_court=KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=40&v_court=KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=97%2c%e8%a8%b4%2c1124%2c20080909%2c1&v_court=KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=1124&jdate=970909&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=97%2c%e8%a8%b4%2c1124%2c20080909%2c1&v_court=KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad&v_sys=M&jyear=97&jcase=%e8%a8%b4&jno=1124&jdate=970909&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('97%2c%e8%a8%b4%2c1124%2c20080909%2c1','KLD+%e5%9f%ba%e9%9a%86%e3%80%81%e7%91%9e%e8%8a%b3%e7%b0%a1%e6%98%93%e5%ba%ad','M','97','%e8%a8%b4','1124','970909','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="13"> <input type="hidden" name="v_court" value="KLD 基隆、瑞芳簡易庭">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

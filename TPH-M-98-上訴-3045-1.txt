@@ -1,0 +1,479 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>臺灣高等法院-刑-98上訴3045</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+8oa+pTkVg5vs2VgnTwPp72r81/w=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>臺灣高等法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共52
+											筆 / 現在第14
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=003045&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=52&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e4%b8%8a%e8%a8%b4%2c3045%2c20091104%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e4%b8%8a%e8%a8%b4&jno=3045&jdate=981104&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=98%2c%e4%b8%8a%e8%a8%b4%2c3045%2c20091104%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e4%b8%8a%e8%a8%b4&jno=3045&jdate=981104&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('98%2c%e4%b8%8a%e8%a8%b4%2c3045%2c20091104%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','98','%e4%b8%8a%e8%a8%b4','3045','981104','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">98,上訴,3045</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">981104</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體"><font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>臺灣高等法院刑事判決　　　　　　　　98年度上訴字第3045號
+上　訴　人　臺灣基隆地方法院檢察署檢察官
+被　　　告　甲○○
+上列上訴人因被告違反野生動物保育法案件，不服臺灣基隆地方
+法院98年度簡上字第70號，中華民國98年6 月1 日第一審判決（
+原聲請簡易判決處刑案號：98年度撤緩偵字第8 號），提起上訴
+，本院判決如下：
+    主  文
+上訴駁回。
+    理  由
+壹、聲請簡易判決處刑意旨略以：被告甲○○係設於基隆市○○
+    區○○路14號「鳳鳴鳥園店」之負責人，明知大陸畫眉（Ga
+    rrulax canorus）係屬中央主管機關行政院農業委員會（下
+    稱農委會）公告之珍貴稀有保育類野生動物，非經中央主管
+    機關農委會之同意，不得買賣或意圖販賣而陳列、展示，竟
+    於民國95年3 、4 月間之某日，在上開鳥園店內，向合美建
+    鳥業有限公司（下稱合美建公司）之人員，以每隻新台幣（
+    下同）1,300 元代價，購買共計20隻之大陸畫眉，俟機轉售
+    給不特定之消費者牟利。嗣臺灣桃園地方法院檢察署檢察官
+    指揮警方，先於96年3 月16日，在被告甲○○位於基隆市○
+    ○區○○街39號住處，查獲被告甲○○未經主管機關同意輸
+    入大陸畫眉活體後（此部分經臺灣桃園地方法院以97年度訴
+    字第341 號判決判處有期徒刑10月，緩刑2 年確定），經警
+    方責令被告甲○○將查獲之大陸畫眉6 隻（其中3 隻係購自
+    合美建公司，另3 隻係購自他人）暫存放在基隆市○○街39
+    號住處，被告甲○○卻於其後不詳時間，連同另3 隻購自合
+    美建公司之大陸畫眉，共9 隻大陸畫眉，意圖販賣而陳列、
+    展示於鳳鳴鳥園店內，而於96年8 月28日14時40分許，為警
+    方會同臺北市立動物園等單位再次在鳳鳴鳥園店內查獲，並
+    扣得大陸畫眉9 隻（現仍均由被告甲○○保管中），因認被
+    告涉有違反野生動物保育法第35條第1 項之規定，應依同法
+    第40條第2 款之規定處斷等罪嫌云云。
+貳、證據能力：
+    本案以下所引用之卷證資料，並無證據證明係公務員違背法
+    定程序所取得，又被告以外之人於審判外之陳述，經核並無
+    非出於自由意願而為陳述或遭違法取證及顯有不可信之情況
+    ，再卷內之文書證據，亦無刑事訴訟法第159 條之4 之顯有
+    不可信之情況與不得作為證據之情形，且公訴人及被告迄本
+    院言詞辯論終結前均未聲明異議，被告並明確表示對於本案
+    全部證據方法之證據能力均不爭執等語（見本院98年8 月26
+    日準備程序筆錄），依刑事訴訟法第159 條至159 條之5 之
+    規定，均有證據能力，合先敘明。
+、得心證之理由：
+一、按犯罪事實應依證據認定之，無證據不得認定犯罪事實，又
+    不能證明被告犯罪或其行為不罰者，應諭知無罪之判決，刑
+    事訴訟法第154 條第2 項、第301 條第1 項分別定有明文。
+    次按認定不利於被告之事實，須依積極證據，茍積極之證據
+    本身存有瑕疵而不足為不利於被告事實之認定，即應為有利
+    於被告之認定，更不必有何有利之證據，而此用以證明犯罪
+    事實之證據，猶須於通常一般人均不至於有所懷疑，堪予確
+    信其已臻真實者，始得據以為有罪之認定，倘其證明尚未達
+    到此一程度，而有合理性之懷疑存在，致使無從為有罪之確
+    信時，即應為無罪之判決，此有最高法院82年度臺上字第16
+    3 號判決、76年度臺上字第4986號、30年度上字第816 號等
+    判例意旨可資參照。而依法治國家之刑事訴訟原則，檢察官
+    除提起公訴外，尚須維持公訴，負有說服責任，其舉證責任
+    之目的，係在充分證明被告確有如公訴所指之犯罪事實，從
+    而其舉證責任應存在於刑事訴訟程序之全程，且於舉證不足
+    以使法院產生有罪之確信時，為終局的舉證責任未盡，是故
+    ，於公訴程序，用以證明犯罪事實之證據之蒐集、提出、及
+    說服之責任，在於檢察官，刑事訴訟法第161 條第1 項規定
+    檢察官就被告犯罪事實，應負舉證責任，並指出證明之方法
+    ，即明示其旨，至於修正前刑事訴訟法第163 條第1 項及修
+    正後刑事訴訟法第163 條第2 項關於法院調查證據之規定，
+    乃指法院應於訴訟當事人舉證之範圍內，依職權或聲請，循
+    刑事訴訟法第164 條以下關於證據調查之程序及方法而為調
+    查，以將檢察官及其他當事人之舉證轉換為法院之證據認知
+    ，究明證據之證據能力與證明力，非謂法院得逾越公正第三
+    者地位，代檢察官蒐集證據，否則不啻破壞訴訟三方關係，
+    衍生由法院證明被告犯罪，或檢察官與法院協同證明被告犯
+    罪等嚴重悖反法治國家原則之結果，影響人民對於法院中立
+    客觀之信賴，最高法院87年度臺非字第1 號判決謂：「按法
+    院固應依職權調查證據，但並無蒐集證據之義務。刑事訴訟
+    法第379 條第10款規定應於審判期日調查之證據而未予調查
+    之違法，解釋上應不包括蒐集證據在內，其調查之範圍，以
+    審判中案內所存在之一切證據為限，案內所不存在之證據，
+    即不能責令法院為發現真實，應依職權從各方面詳加蒐集、
+    調查。」，暨92年度臺上字第128 號判例謂：「刑事訴訟法
+    第161 條已於91年2 月8 日修正公布，修正後同條第1 項規
+    定：檢察官就被告犯罪事實，應負舉證責任，並指出證明之
+    方法。因此，檢察官對於起訴之犯罪事實，應負提出證據及
+    說服之實質舉證責任。倘其所提出之證據，不足為被告有罪
+    之積極證明，或其闡明之證明方法，無從說服法官以形成被
+    告有罪之心證，基於無罪推定之原則，自應為被告無罪判決
+    之諭知。」洵屬的論，可供參考。
+二、公訴意旨認被告涉犯前開罪嫌，無非係以「被告於警詢、偵
+    查時之供述；合美建公司所出具之證明書、內政部警政署森
+    林暨自然保育警察隊聯合執行記錄表、涉嫌違反野生動物保
+    育法現場查獲之保育類野生動物名稱一覽表、切結書各1 紙
+    、查獲現場照片18張、扣案之保育類野生動物大陸畫眉9 隻
+    」等情，為主要論據。
+三、被告在原審及本院固坦承於96年8 月28日14時40分許，警方
+    在鳳鳴鳥園店查獲9 隻保育類大陸畫眉等情，惟堅決否認涉
+    有違反野生動物保育法之犯行，辯稱：(1)伊係於95年3 、4
+    月間向合美建公司購買20隻大陸畫眉，而於96年3 月16日遭
+    警查獲輸入大陸畫眉活體，嗣於97年4 月15日經臺灣桃園地
+    方法院檢察署檢察官提起公訴，並經臺灣桃園地方法院以97
+    年度訴字第341 號判決，判處有期徒刑10月，緩刑2 年確定
+    。其間雖於96年8 月28日再遭警查扣大陸畫眉9 隻，然此9
+    隻大陸畫眉仍是與95年3 、4 月間向合美建公司買的20隻大
+    陸畫眉為同一批禽鳥，可見本案與與臺灣桃園地方法院97年
+    度訴字第341 號判決屬同一案件。然公訴人卻在前案已起訴
+    並判決之後，再就同一案件之後案另為聲請簡易判決處刑，
+    顯有違一事不再理原則。(2)其於96年3 月16日遭警查獲後，
+    警方雖責令將查獲之大陸畫眉暫存寄放在自家住處，然因大
+    陸畫眉有時會把水杯內的水潑出來，致水杯內沒有水，所以
+    必須有人在旁照料飼養，又因住處白日無人可加以照顧，故
+    將大陸畫眉帶至店裡照顧。(3)2 隻大陸畫眉係放在店內廁所
+    旁的房間內並有表明禁止販售，至於懸掛在騎樓之大陸畫眉
+    係因剛洗完澡後尚在騎樓吹乾，伊絕無販售之意圖等語。
+四、經查：
+  (一)本案係於96年8 月28日14時40分許，警方在鳳鳴鳥園店查獲
+    9 隻保育類大陸畫眉等節，為被告所不爭執，且經證人劉子
+    健於原審98年5 月18日審理時證述綦詳（詳如後述），並有
+    卷附內政部警政署森林暨自然保育警察隊聯合執行記錄表、
+    涉嫌違反野生動物保育法現場查獲之保育類野生動物名稱一
+    覽表、切結書各1 紙與查獲現場照片18張等資料在卷可參（
+    見基檢96年度偵字第4629號卷第8 至10、12至19頁），此部
+    分之事實應堪認定，合先敘明。
+  (二)本案爭點一係本案是否為臺灣桃園地方法院97年度訴字第34
+    1 號判決既判力所及？按一事不再理之原則，係指同一案件
+    曾經有實體上之確定判決，其犯罪之起訴權業已消滅，不得
+    再為訴訟之客體者而言。故此項原則，必須同一訴訟物體，
+    即被告及犯罪事實均屬同一時，始能適用，假使被告或犯罪
+    事實有一不符，即非前案之判決效力所能拘束，自無一事再
+    理之可言（最高法院24年上字第152 號判例著有明文）。本
+    件公訴人係以被告違反應先經主管機關同意之規定，而擅自
+    基於買賣或意圖販賣而陳列、展示保育類野生動物之行為，
+    因認被告涉有違反野生動物保育法第35條第1 項之規定，應
+    依同法第40條第2 款之規定處斷而起訴。惟臺灣桃園地方法
+    院以97年度訴字第341 號判決，係認定被告與王玉郎、江衍
+    信與林宗正均明知香港、澳門及大陸地區，非屬農委會公告
+    之高病原性家禽流行性感冒（簡稱禽流感）非疫區國家，亦
+    禁止擅自輸入鳥類等檢疫物，渠等竟基於共同之犯意聯絡，
+    均未經農委會之同意，以江衍信擔任主謀，先由在大陸之江
+    衍信與在臺灣之被告、王玉郎、陳家興及其他不詳之人透過
+    電話商議後，由江衍信安排交通，並由林宗正以每次2 萬元
+    至3 萬元不等之報酬及往返大陸之機票錢作為代價夾帶鳥類
+    入境臺灣，嗣於96年10月8 日、96年11月4 日、96年11月29
+    日、96年12月20日自大陸廣州、澳門等禽流感疫區，將大陸
+    禽流感疫區之鳥類攜帶入境後轉交予被告、王玉郎等人，違
+    反動物傳染病防治條例第33條規定，而判處被告應執行有期
+    徒刑10月，緩刑2 年確定等情，此有卷附前開判決可稽（見
+    基檢97年度撤緩字第615 號卷第21至24頁）。上述兩案之犯
+    罪事實迥異，認定之罪名亦不同，非屬同一案件，應無一事
+    不再理原則之適用。
+  (三)本案爭點二係依大陸畫眉的特性，被告是否無法在住處內保
+    管，需在日間帶到工作之鳥店保管？依證人陳俊夫即查獲時
+    隨同鑑定之臺北市立動物園人員在原審具結證稱：「飼養鳥
+    類一般要在通風狀態下比較好，若讓畫眉長期單獨放在室內
+    ，對畫眉比較不好，因畫眉有可能將鳥籠內水盆的水潑灑光
+    ，而在沒有預警狀況下或係因一天沒有水分導致死亡，另有
+    可能因擔心畫眉受到驚嚇去撞鳥籠，而長時間在鳥籠外罩布
+    ，如此的飼養方式對畫眉並不好，另外也有可能因沒有飼主
+    在旁，而在室外遭貓攻擊或在室內遭大隻老鼠攻擊導致死亡
+    ，一般而言鳥類是比較難照顧。」等語（見原審卷第40至45
+    頁），可知為避免畫眉因欠缺水分、受外界驚嚇或遭外力侵
+    害等因素導致死亡，在飼主未在旁照顧之情形下，應避免讓
+    畫眉單獨在室內獨處，以置放於室外並由飼主隨時在旁照顧
+    ，屬較為適宜之照顧方式，是故，被告因住處白日無人可加
+    以照顧，故將大陸畫眉帶至店裡照顧實有其必要，是被告前
+    開所辯應可採信。
+  (四)本案爭點三係查獲時大陸畫眉擺放在鳳鳴鳥園店之位置為何
+    ？是否足為構成販賣或陳列之要件？查被告辯稱懸掛在騎樓
+    之7 隻大陸畫眉係因剛洗完澡尚在騎樓吹乾，且因天氣炎熱
+    ，始將鳥籠懸掛於通風處等語，核與證人證人劉子健即查獲
+    員警在原審具結證稱：「被告的太太當時有說明因為幫畫眉
+    洗過澡，鳥籠要放在通風的地方。且當時天氣很熱，鳥不放
+    在通風處會悶死」等語（見原審卷第46至52頁），況證人陳
+    俊夫亦在原審結證：「幫畫眉噴水（洗澡）的目的係為維持
+    乾淨，適當的洗澡對畫眉比較好。」等語（見原審卷第45頁
+    ），益徵照顧畫眉確有讓其洗澡之必要，而置於通風處亦可
+    避免畫眉悶死應屬實情，是被告前開所辯，並非全然無據，
+    尚堪採信。另證人劉子健在原審證稱：「本案係因偵辦他案
+    知悉被告有購買大陸畫眉，而前往鳳鳴鳥園店查緝，並非一
+    般民眾檢舉被告有販賣保育類動物而前去查緝，亦未事前探
+    詢過。抵達現場後有7 隻大陸畫眉懸掛在騎樓，另2 隻大陸
+    畫眉是被告太太從鳳鳴鳥園店後方房間所取出，房間內有A4
+    大小的紙張寫『非賣品』，鳥籠上雖無標價，但依查緝經驗
+    ，如果有陳列在外，即表示有販賣之意圖。」等語（見原審
+    卷第46至52頁），顯見查獲員警並非因一般民眾檢舉而探詢
+    查訪，僅因偵辦他案中知悉被告有購買大陸畫眉情資，即率
+    然推定被告有意圖販賣保育類野生動物。再者，被告雖將7
+    隻大陸畫眉懸掛在騎樓，然均未標價，並無法從外觀判斷是
+    否有在販賣，且該處並無傳遞有何販售之明示或暗示訊息之
+    情形，被告亦未以言語或動作表示要販賣之意思，難謂有何
+    意圖販賣之主觀意思表徵於外，故難認被告係基於販賣之意
+    圖而陳列或展示。另遭查獲有2 隻大陸畫眉係置放於店面後
+    方之房間內，房間內並有A4大小的紙張寫「非賣品」，業經
+    證人劉子健結證屬實如前，復有鳳鳴鳥園店之現場照片可資
+    佐證，參諸該房間已位於店面後方，非一般之顧客所得隨意
+    觀賞挑選，且房間內並有A4大小的紙張寫「非賣品」，一般
+    人均會認為該房間中之大陸畫眉為非賣品，故是否能以被告
+    有將7 隻大陸畫眉懸掛在騎樓一情，即認定被告主觀上有販
+    賣保育類野生動物之意圖，尚非無疑，應認被告前揭就此部
+    份所辯尚可採信。
+  (五)綜上諸情參互以析，本案並無客觀證據可認被告將9 隻大陸
+    畫眉飼養在該店，係被告欲供販賣之用，已甚明確，揆諸前
+    揭說明，尚不足使本院形成被告確有公訴意旨所指違反野生
+    動物保育法第40條第2 款犯行之確信。此外，復查無其他積
+    極證據足資證明被告有何公訴人所指被告確涉有意圖販賣而
+    陳列及展示保育類野生動物之事實，從而，在無其他積極證
+    據足以佐證被告確有上開犯行下，揆諸前開法條及判例意旨
+    ，應為被告無罪判決之諭知，以昭審慎。
+肆、維持原判決及駁回上訴之理由：
+一、原審依調查證據所得，綜合全案辯論意旨，以被告之犯罪尚
+    屬無法證明，而為被告無罪之諭知，依法洵無不合。
+二、檢察官認被告犯罪而提起上訴，上訴意旨略以：「被告就為
+    何將7 隻畫眉放在店外之原因，前後供述不一；且被告在偵
+    查中曾坦承犯行，並願意接受緩起訴處分；再有2 隻畫眉係
+    在店內之小房間被查獲，小房間內有他鳥，故縱房間內有A4
+    大小的紙張寫『非賣品』，亦不見得『非賣品』指的是該2
+    隻畫眉；另本件查獲之畫眉鳥中有6 隻係前案遭警方查獲，
+    由被告保管中，另有3 隻係被告之客戶退還以換飼料，且飼
+    料是以每隻1300元來計算，則被告若無販賣畫眉鳥之意圖，
+    何以願以原價收回該畫眉鳥，並放置於店內？」云云。然查
+    ：
+  (一)按「被告之自白，不得作為有罪判決之唯一證據，仍應調查
+    其他必要之證據，以察其是否與事實相符」，刑事訴訟法第
+    156 條第2 項定有明文。被告縱曾在警詢中供稱：現場為警
+    所查獲之9 隻畫眉鳥，其中7 隻是陳列、展示在店外等語（
+    見基檢96年度偵字第4629號卷第5 頁）；且其曾在偵查中曾
+    坦承犯行，並表示願意接受緩起訴處分等語（見基檢96年度
+    偵字第4629號卷第47頁），惟畫眉鳥需要洗澡，並需被放在
+    通風之處，且需有飼主在旁照顧較好等情，業經本院詳細論
+    述如前，故是否得以被告將7 隻畫眉放在室外，即得遽謂其
+    必有販賣之意圖，實有疑義。縱被告曾在偵查中自白犯行，
+    然此或係被告為了能夠得到緩起訴處分的誘因下，始為之不
+    實自白，但依上開說明，本院仍需調查其他必要之證據，以
+    察其是否與事實相符，不得逕以被告之自白做為論罪之依據
+    。因為避免畫眉因欠缺水分、受外界驚嚇或遭外力侵害等因
+    素導致死亡，在飼主未在旁照顧之情形下，應避免讓畫眉單
+    獨在室內獨處，以置放於室外並由飼主隨時在旁照顧，屬較
+    為適宜之照顧方式，是故，被告因住處白日無人可加以照顧
+    ，故將大陸畫眉帶至店裡照顧實有其必要，而為了照顧畫眉
+    確有讓其洗澡之必要，且置於通風處亦可避免畫眉悶死等情
+    ，業經證人陳俊夫證述如前，故被告辯稱懸掛在騎樓之7 隻
+    大陸畫眉係因剛洗完澡尚在騎樓吹乾，且因天氣炎熱，始將
+    鳥籠懸掛於通風處等語，尚與常情無悖。苟被告真有意圖販
+    賣而陳列及展示上開畫眉之意，被告何不在該等畫眉鳥籠外
+    標價？然依卷附照片及證人證詞觀之，被告並未將懸掛在騎
+    樓之7 隻大陸畫眉標價，益徵被告上開並無販賣意圖之辯解
+    ，堪以採信。
+  (二)另遭查獲有2 隻大陸畫眉係置放於店面後方之房間內，房間
+    內並有A4大小的紙張寫「非賣品」一節，業經證人劉子健結
+    證屬實如前，復有卷附鳳鳴鳥園店之現場照片可資佐證，參
+    諸該房間已位於店面後方，非一般之顧客所得隨意觀賞挑選
+    ，且房間內並有A4大小的紙張寫「非賣品」，一般人均會認
+    為該房間中之大陸畫眉為非賣品，亦經本院詳論如前，雖檢
+    察官以房間內尚有他鳥，故「非賣品」不見得指的就是該2
+    隻畫眉云云，但亦難以此即謂房間內該2 隻畫眉必是被告所
+    欲販賣之物，依「罪證有疑，利於被告」之法則，自應為有
+    利於被告之認定，亦不待言。
+  (三)雖檢察官另以有3 隻大陸畫眉係被告之客戶退還以換飼料，
+    且飼料是以每隻1300元來計算，則被告若無販賣畫眉鳥之意
+    圖，何以願以原價收回該畫眉鳥，並放置於店內，因認被告
+    將畫眉放在騎樓或小房間必有販賣之意圖云云。惟不能單以
+    被告取得大陸畫眉之原因此點，就推論被告必有檢察官所指
+    之犯行，仍應根據全部之卷證資料，做合理、合法之認定。
+    本件被告懸掛在騎樓之7 隻大陸畫眉係因剛洗完澡尚在騎樓
+    吹乾，且因天氣炎熱，始將鳥籠懸掛於通風處，再另2 隻大
+    陸畫眉係置放於店面後方之房間內，房間內並有A4大小的紙
+    張寫「非賣品」等情，既經本院認定屬實，顯見被告並無基
+    於販賣之意圖而陳列或展示上開9 隻大陸畫眉，應無疑義，
+    檢察官徒以被告以飼料向客戶換回畫眉一點，而認被告必有
+    販賣之意圖，尚嫌無據。
+三、綜上，並無證據證明被告確有公訴意旨所指犯野生動物保育
+    法第40條第2 款之「意圖販賣而陳列、展示保育類野生動物
+    罪」。原判決為被告無罪之諭知，並無不合，檢察官上訴仍
+    執前詞為爭執，核無理由，應予駁回。
+伍、一造辯論判決：
+    被告經合法傳喚，無正當之理由不到庭，爰不待其陳述，逕
+    行判決。
+據上論斷，應依刑事訴訟法第368條、第371條，判決如主文。
+本案經檢察官陳昱旗到庭執行職務。
+中　　華　　民　　國　　98　　年　　11　　月　　4 　　日
+ 　　　　　 刑事第二十庭  審判長法　官　楊貴雄
+                                法　官　林銓正
+                                法　官　許必奇
+以上正本證明與原本無異。
+如不服本判決，應於收受送達後10日內向本院提出上訴書狀，其
+未敘述上訴之理由者並得於提起上訴後10日內向本院補提理由書
+（均須按他造當事人之人數附繕本）「切勿逕送上級法院」。
+                                書記官  廖素花
+中　　華　　民　　國　　98　　年　　11　　月　　4 　　日
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[D:\judday\OK\LAWTPH\CRIMINAL\9811\04\TPHM98B4.00S] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共52
+											筆 / 現在第14
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=098&selectedCrmid=%e4%b8%8a%e8%a8%b4&selectedCrmno=003045&selectedCrtid=TPH','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=13&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a>｜<a href="FJUDQRY03_1.aspx?id=15&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">下一筆</a>｜<a href="FJUDQRY03_1.aspx?id=52&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">最末筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=98%2c%e4%b8%8a%e8%a8%b4%2c3045%2c20091104%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e4%b8%8a%e8%a8%b4&jno=3045&jdate=981104&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=98%2c%e4%b8%8a%e8%a8%b4%2c3045%2c20091104%2c1&v_court=TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2&v_sys=M&jyear=98&jcase=%e4%b8%8a%e8%a8%b4&jno=3045&jdate=981104&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('98%2c%e4%b8%8a%e8%a8%b4%2c3045%2c20091104%2c1','TPH+%e8%87%ba%e7%81%a3%e9%ab%98%e7%ad%89%e6%b3%95%e9%99%a2','M','98','%e4%b8%8a%e8%a8%b4','3045','981104','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="14"> <input type="hidden" name="v_court" value="TPH 臺灣高等法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>

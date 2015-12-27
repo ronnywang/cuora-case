@@ -1,0 +1,262 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" >
+<HTML>
+	<HEAD>
+		<title>福建金門地方法院-刑-91訴40</title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta name="AAAccessible_website" content="本網站通過第一、第二及第三優先等級無障礙網頁檢測">
+		<style type="text/css">
+			<!--
+			pre{font-family:細明體}
+			-->
+		</style>
+		<script language="JavaScript">
+function openwin(URL,arguments,width,height)
+{ 
+   //功能:開一個非獨佔的視窗
+   //參數1.URL :連結的網頁
+   //參數2.arguments :傳入網頁的參數
+   /*
+   var str = URL  //+"?"+arguments;
+   newWindow=top.open("","","maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no");
+   if(width==null&&height==null)
+   {
+     width=screen.width;
+     height=screen.availHeight;
+     
+   }    
+   if ((width!=null)&&(height!=null))
+      newWindow.resizeTo(width,height);
+   else     
+      newWindow.resizeTo(screen.width,screen.availHeight);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+   newWindow.location=str;
+   */
+   
+   if((width==null&&height==null) || (width==''&&height==''))
+   {
+		width=screen.width;
+		height=screen.availHeight;
+   }
+   pars = "width="+width+",height="+height+",maximize=no,toolbar=no,directories=no,status=yes,scrollbars=yes,hscrollbars=no,resize=no,menubar=no";
+   newWindow=top.open(URL,"",pars);
+   newWindow.moveTo((screen.width-width)/2,(screen.availHeight-height)/2);
+}
+
+		</script>
+		<NOSCRIPT>
+	</HEAD>
+	<body bgColor="#ffffff" leftMargin="0" topMargin="0">
+		您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+		<form name="Form1" method="post" action="FJUDQRY03_1.aspx" id="Form1">
+<input type="hidden" name="__VIEWSTATE" value="dDwxNTMzNzE2OTU5Ozs+YGsYrYpxptIcDD553RKTMFRwZ7E=" />
+
+			<br>
+			<table summary="排版用表格" width="80%" style="HEIGHT: 25px" border="0" align="center" cellpadding="5"
+				class="big">
+				<tr>
+					<td><div align="center"><b>福建金門地方法院 裁判書 -- 刑事類</b></div>
+					</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td style="HEIGHT: 33px" background="Images_1/fjudqry01title.gif">&nbsp;</td>
+				</tr>
+			</table>
+			<table summary="排版用表格" style="WIDTH:760px" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tr>
+					<td background="Images_1/fjudqry01table02.gif">
+						<div align="center">
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0"
+								class="big">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
+											筆 / 現在第5
+											筆</span></td>
+									<td nowrap>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=091&selectedCrmid=%e8%a8%b4&selectedCrmno=000040&selectedCrtid=KMD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=91%2c%e8%a8%b4%2c40%2c20030103%2c1&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=40&jdate=920103&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=91%2c%e8%a8%b4%2c40%2c20030103%2c1&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=40&jdate=920103&jcheck=1">
+													匯出PDF</a>｜<!--<a href="#" onClick="PrintDetail('91%2c%e8%a8%b4%2c40%2c20030103%2c1','KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','91','%e8%a8%b4','40','920103','1')">友善列印</a-->
+											</span>
+										</div>
+									</td>
+								</tr>
+							</table>
+							<table summary="排版用表格" width="95%" border="0" align="center" cellpadding="3">
+								<tr>
+									<td width="16%" nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判字號】</span></td>
+									<td width="84%" align="left"><span style="FONT-SIZE: 80%;  face: 細明體">91,訴,40</span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判日期】</span></td>
+									<td align="left"><span style="FONT-SIZE: 80%;  face: 細明體">920103</span></td>
+								</tr>
+								<tr>
+									<td nowrap style="HEIGHT: 25px"><span style="FONT-SIZE: 80%;  face: 細明體">【裁判案由】</span></td>
+									<td style="HEIGHT: 25px" align="left"><span style="FONT-SIZE: 80%;  face: 細明體"><font color=red>野生動物保育法</font></span></td>
+								</tr>
+								<tr>
+									<td nowrap><span style="FONT-SIZE: 80%;  face: 細明體">【裁判全文】</span></td>
+									<td><span style="FONT-SIZE: 80%">&nbsp;</span></td>
+								</tr>
+								<tr>
+									<td colspan="2" align="left"><pre>福建金門地方法院刑事判決　　　　　　　　　　　　　　九十一年度訴字第四號
+　　公　訴　人　福建金門地方法院檢察署檢察官
+　　被　　　告　乙○○
+　　選任辯護人　甲○○
+右被告因違反野生動物保育法案件，經檢察官提起公訴（九十一年度偵字第二六一號
+），本院判決如左：
+    主  文
+乙○○違反保育類野生動物，非經主管機關之同意，不得買賣之規定，未經主管機關
+同意以買賣保育類野生動物產製品為常業，處有期徒刑壹年貳月。緩刑肆年。
+扣案之象牙印材伍拾陸個均沒收。
+    事  實
+一、乙○○係位於金門縣金城鎮○○路一四六巷二九號「藝成印刷打字刻印店」之負
+    責人，明知象牙印材係保育類動物產製品，非經主管機關同意，不得買賣或在公
+    共場所陳列、展示，詎未經主管機關同意，於民國（以下同）八十年間，向位於
+    台北市○○街，案外人林榮泰所開設利人印材股份有限公司購買保育類野生動物
+    產製品象牙印材，並在上址店內，公開陳列、展示並販售上開象牙印材，供客人
+    刻印之用，並以之為常業。嗣於九十一年六月十三日下午四時許，經警在上址當
+    場查獲，並扣得象牙印材五十六枚。
+二、案經金門縣警察局移送福建金門地方法院檢察署檢察官偵查起訴。
+    理  由
+一、訊據被告乙○○矢口否認右揭犯行，辯稱：我已經很久沒有刻印章了，也沒有刻
+    印章的工具，那些印章是向台北華陰街的店家合法買的，現在家裡在做其他生意
+    ，以前用過那些印材，現在沒有了，我沒有意圖販賣，是家人不知道又把那些印
+    材拿出來擺云云。經查：
+（一）被告於警訊偵查時坦承自民國八十年起開始擺設扣案之象牙印章，當時沒有雕
+      刻的象牙印章每枚販售新台幣（以下同）一千五百元，有雕刻的象牙印章每枚
+      販售二千元等語，足認被告確實於八十年間起即有販賣之事實。
+（二）被告雖辯稱扣案象牙印章係合法買得之印章，並聲請傳訊證人黃惠珍、林鳳證
+      明印章係向渠等購入，惟該二名證人僅能證明被告係有償向店家購買，仍非依
+      照野生動物保育法之規定，取得主管機關同意而買賣，因此該二名證人並無傳
+      訊之必要，且被告仍不得以此以圖卸責。
+（三）由卷附之現場照片以觀，被告所開設之藝成印刷打字刻印店，雖尚有經營其他
+      生意，惟店面右邊擺設印章之櫃子亦有一定之規模，且該櫃子內除了扣案之象
+      牙印章外，尚有其他種類材質之印章，數量可觀，足認被告並未放棄經營此項
+      營業，被告辯稱不知家人仍有擺設，且無販賣之意圖而仍陳列，即不足採。又
+      店內雖無刻印工具，惟被告亦自承象牙印章之販賣方式可分為有雕刻及無雕刻
+      ，是店內雖無此等刻印工具，亦不足以推斷被告並無單獨販賣印材之可能，是
+      被告基於販賣之意圖而陳列應可認定。
+（四）縱上論斷，本件事證明確，被告應依法論科，
+二、核被告所為，係犯野生動物保育法第四十條第二項未經主管機關同意買賣及意圖
+    販賣而陳列、展示保育類野生動物產製品之罪。又被告意圖販賣而陳列、展示之
+    低度行為為買賣之高度所吸收，不另論罪。爰審酌被告犯罪動機、目的、手段，
+    犯罪所造成之損害、犯後態度等一切情狀，量處如主文所示之刑。另扣案之象牙
+    印材五十六個，依野生動物保育法第五十二條第一項沒收之。末查，被告前未曾
+    受有期徒刑以上刑之宣告，有卷附台灣高等法院檢察署刑案紀錄簡覆表可按，本
+    次被告因欠缺法律常識而犯罪，經此偵審程序，當知所警惕，信無再犯之虞，本
+    院認所宣告之刑以暫不執行為適當，併諭知緩刑四年，以啟自新。
+據上論斷，應依刑事訴訟法第二百九十九條第一項前段，野生動物保育法第四十條第
+二項、第一項第二款、第五十二條第一項，刑法第十一條前段、第七十四條第一款，
+判決如主文。
+本案經檢察官宋重和到庭執行職務。
+中      華       民       國       九十二     年     一     月    三    日
+                                      福建金門地方法院刑事庭
+                                          法  官  葉珊谷
+右筆錄正本證明與原本無異。
+如不服本判決，應於判決送達後十日內，向本院提出上訴狀。
+中      華      民      國      九十二      年      一      月    四    日
+                                          書記官  李成在
+附錄本案論罪科刑法條：
+野生動物保育法第四十條：
+有下列情形之一，處六月以上五年以下有期徒刑，得併科新台幣三十萬元以上一百五
+十萬以下罰金：
+一  違反第二十四條第一項規定，未經中央主管機關同意，輸入或輸出保育類野生動
+    物之活體或其產製品者。
+二  違反第三十五條第一項規定，未經主管機關同意買賣或意圖販賣而陳列、展示保
+    育類野生動物或瀕臨絕種及珍貴稀有野生動物產製品者。
+以犯前項之罪為常業者，處一年以上七年以下有期徒刑，得併科新台幣五十萬元以上
+二百五十萬元以下罰金。
+</pre>
+<!-- 原因：[] -->
+<!-- 檔名：[Z:\Judday\OK\LAWKMD\CRIMINAL\9201\03\KMDM9213.004] -->
+<!-- 旗標：[1] -->
+<!--檢查單號：[1]  --></td>
+								</tr>
+								<tr>
+									<td align="left" colSpan="2"></td>
+								</tr>
+							</table>
+							<table summary="排版用表格" style="WIDTH:750px" border="0" align="center" cellpadding="0" cellspacing="0">
+								<tr>
+									<td width="43%" align="center"><span style="FONT-SIZE: 80%">共5
+											筆 / 現在第5
+											筆</span></td>
+									<td>
+										<div align="right">
+											<span style="FONT-SIZE: 80%">
+												<a href="#" onClick="openwin('HISTORYSELF.aspx?selectedOwner=H&selectedCrmyy=091&selectedCrmid=%e8%a8%b4&selectedCrmno=000040&selectedCrtid=KMD','',1024,688)">歷審裁判</a>
+												｜<font size="2"><a href="FJUDQRY03_1.aspx?id=1&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">第一筆</a>｜<a href="FJUDQRY03_1.aspx?id=4&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jud_year=&jud_case=&jud_no=&jud_no_end=&jud_title=%e9%87%8e%e7%94%9f%e5%8b%95%e7%89%a9%e4%bf%9d%e8%82%b2%e6%b3%95&keyword=&sdate=&edate=&page=&searchkw=&jmain=&cw=0">上一筆</a></font>
+											</span><span style="FONT-SIZE: 80%">｜<a target="_blank" href="PrintFJUD03_0.aspx?jrecno=91%2c%e8%a8%b4%2c40%2c20030103%2c1&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=40&jdate=920103&jcheck=1">友善列印</a>｜
+												<a href="transPdf.aspx?jrecno=91%2c%e8%a8%b4%2c40%2c20030103%2c1&v_court=KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2&v_sys=M&jyear=91&jcase=%e8%a8%b4&jno=40&jdate=920103&jcheck=1">
+													匯出PDF</a>｜<!--a href="#" onClick="PrintDetail('91%2c%e8%a8%b4%2c40%2c20030103%2c1','KMD+%e7%a6%8f%e5%bb%ba%e9%87%91%e9%96%80%e5%9c%b0%e6%96%b9%e6%b3%95%e9%99%a2','M','91','%e8%a8%b4','40','920103','1')">友善列印</a--></span></div>
+									</td>
+								</tr>
+							</table>
+							
+						</div>
+					</td>
+				</tr>
+				<tr>
+					<td style="HEIGHT: 10px"><img src="Images_1/fjudqry01table03.gif" alt="排版圖示"></td>
+				</tr>
+			</table>
+			<script language="JavaScript">
+<!--
+
+
+
+function MM_preloadImages_1() { //v3.0
+  var d=document; if(d.Images_1){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages_1.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+//-->
+			</script>
+			<NOSCRIPT>
+				您的瀏覽器不支援JavaScript語法,但是並不影響您獲取本網站的內容</NOSCRIPT>
+			<table summary="排版用表格" style="WIDTH:760px; HEIGHT:33px" border="0" align="center" cellpadding="0"
+				cellspacing="0">
+				<tr>
+					<td background="Images_1/welcome.gif"><table summary="排版用表格" width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+								<td width="12%">&nbsp;</td>
+								<td width="75%"><div align="center"><span style="FONT-SIZE: 80%"><a href="http://www.judicial.gov.tw" target="_parent">司法院</a>
+											資訊處 製作。 對於本系統功能有任何建議，<a href="http://www.judicial.gov.tw/email/write.htm" target="_blank">
+												歡迎來信</a></span>。</div>
+								</td>
+								<td width="13%">&nbsp;</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+			<input type="hidden" name="id" value="5"> <input type="hidden" name="v_court" value="KMD 福建金門地方法院">
+			<input type="hidden" name="v_sys" value="M"> <input type="hidden" name="jud_year" value="">
+			<input type="hidden" name="jud_case" value=""> <input type="hidden" name="jud_no" value="">
+			<input type="hidden" name="jud_title" value="野生動物保育法"> <input type="hidden" name="keyword" value="">
+			<input type="hidden" name="sdate" value=""> <input type="hidden" name="edate" value="">
+			<input type="hidden" name="page" value=""> <input type="hidden" name="searchkw" value="">
+		</form>
+		<script language="javascript">
+	function PrintDetail(JRECNO,V_COURT,V_SYS,V_JYEAR,V_JCASE,V_JNO,V_JDATE,V_JCHECK){
+		window.open('PrintFJUD03_0.aspx?jrecno='+JRECNO+'&v_court='+V_COURT+'&v_sys='+V_SYS+'&jyear='+V_JYEAR+'&jcase='+V_JCASE+'&jno='+V_JNO+'&jdate='+V_JDATE+'&jcheck='+V_JCHECK,'opener','');
+		
+	}
+	function showDetail(id){
+		document.Form1.id.value = id;
+		document.Form1.submit();
+	}
+		</script>
+	</body>
+</HTML>
